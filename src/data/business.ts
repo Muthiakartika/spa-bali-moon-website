@@ -69,8 +69,12 @@ export const business = {
     feeDisplay: "75k / therapist",
   },
 
-  /** Footer "Accepted Payments" (TODO PAY-01: villa page also mentions bank transfer and Mastercard). */
-  acceptedPayments: ["VISA", "Cash"],
+  /**
+   * Footer "Accepted Payments". The live footer listed VISA and Cash; Mastercard was added on the
+   * owner's request (2026-09-24), matching the live villa page ("Visa, and Mastercard"). See PAY-01.
+   * Each name needs a logo in src/components/layout/PaymentLogo.tsx.
+   */
+  acceptedPayments: ["VISA", "Mastercard", "Cash"],
 
   /** Found on the old blog pages. */
   social: {

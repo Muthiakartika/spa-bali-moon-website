@@ -22,7 +22,7 @@
 | CONTACT-01 | 🔴 | Two different email addresses | REQUIRES MANUAL REVIEW |
 | FEE-01 | 🔴 | Home-service fee: flat 75K vs distance-based | REQUIRES MANUAL REVIEW |
 | AREA-01 | 🟠 | Home-service area described differently | REQUIRES MANUAL REVIEW |
-| PAY-01 | 🟠 | Accepted payment methods differ | REQUIRES MANUAL REVIEW |
+| PAY-01 | 🟠 | Accepted payment methods differ | ✅ RESOLVED for footer: VISA, Mastercard, Cash (owner, 2026-09-24); bank transfer open |
 | FLOW-01 | 🟠 | Booking CTA destinations are inconsistent (WhatsApp vs /contact/) | REQUIRES MANUAL REVIEW |
 | FLOW-02 | 🟠 | "In-spa bookings are made on-site" vs "book ahead via WhatsApp" | REQUIRES MANUAL REVIEW |
 | FUNC-01 | 🟠 | Contact form backend and Cloudflare Turnstile | REQUIRES MANUAL REVIEW |
@@ -404,8 +404,11 @@ VALUE
 RECOMMENDATION:
 Requires manual review.
 
+OWNER DECISION (2026-09-24):
+Footer shows VISA, Mastercard and Cash, with their logos (Mastercard added on the owner's request, matching the villa page). Bank transfer is still only mentioned on the villa page.
+
 STATUS:
-REQUIRES MANUAL REVIEW
+✅ RESOLVED for the footer (bank transfer: still open)
 
 ---
 
@@ -483,6 +486,10 @@ STEP 9 NOTE: the new footer does NOT include the newsletter form yet, because a 
 STATUS:
 REQUIRES MANUAL REVIEW
 
+FOOTER UPDATE (2026-09-24):
+The footer now matches the live footer 100% (Contact Us, Our Day Spa, Home Services, Join Our Newsletter, Accepted Payments, bottom line). Texts: `src/data/footer.ts`.
+The newsletter field is back. Interim behaviour: "Subscribe" opens WhatsApp with "Please add me to your newsletter: <email>", so no sign-up is lost. Still needs the owner's choice of a mailing-list service (Mailchimp, Brevo, etc.) to replace it.
+
 ### FUNC-03
 
 ISSUE:
@@ -496,6 +503,9 @@ STEP 9 NOTE: the new header has no search box yet. Treatments are reachable thro
 STATUS:
 REQUIRES MANUAL REVIEW
 
+
+HEADER UPDATE (2026-09-24):
+The header now has the live site's search button. It searches the 7 blog articles (title, excerpt, tags) directly in the browser, with no server, so the old `/api/search-posts/` endpoint is no longer needed.
 ### LINK-01
 
 ISSUE:
@@ -741,6 +751,8 @@ RESOLVED
 ---
 
 
+
+HEADER UPDATE (2026-09-24, owner): the header now copies the live website exactly: Home · Pricelist · Treatments (23 treatments in 4 columns) · Outcall · Reservation · Blog (7 articles) · Contact, plus search and "Book an Appointment" (WhatsApp). The utility bar (hours / address) was removed because the live site has none. Menu data: `src/data/navigation.ts`.
 ### URL-03
 
 ISSUE:

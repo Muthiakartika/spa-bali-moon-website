@@ -26,6 +26,8 @@
   --color-ink-deep: #121113; /* hover on ink */
   --color-ink-cell: #2a272b; /* cards and tabs inside the dark treatment menu */
   --color-ink-line: #3a363b; /* hairline inside dark panels */
+  --color-gold-night: #3d3210; /* footer background: the brand gold, very dark (linen text 11.3:1) */
+  --color-gold-soft: #c9a94d; /* gold text on the dark footer (5.6:1) */
 
   /* ---------- Font (loaded in src/app/fonts.ts) ---------- */
   /* One humanist sans for everything, like the Lovable design system. */

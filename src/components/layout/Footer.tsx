@@ -1,85 +1,108 @@
 import Link from "next/link";
-import BookButton from "@/components/ui/BookButton";
 import Container from "@/components/ui/Container";
-import { FacebookIcon, InstagramIcon } from "@/components/ui/SocialIcons";
 import { business } from "@/data/business";
-import { footerDaySpaLink, footerExplore, footerHomeServices, headerBookingLabel, legalLinks } from "@/data/navigation";
+import { footerContent } from "@/data/footer";
+import { footerDaySpaLink, footerHomeServices, legalLinks } from "@/data/navigation";
 import { whatsappLink } from "@/lib/whatsapp";
+import FooterSkyline from "./FooterSkyline";
 import Logo from "./Logo";
+import NewsletterForm from "./NewsletterForm";
+import PaymentLogo from "./PaymentLogo";
 
 /**
- * Site footer. Texts and contact details come from src/data/business.ts;
- * the link lists come from src/data/navigation.ts.
- * The full treatment list is not repeated here (owner's choice): it is in the
- * header's Treatments menu and on the Pricelist page.
+ * Site footer — the same content as the live website footer:
+ * about text, Contact Us, Our Day Spa, Home Services, newsletter, accepted payments, legal links.
+ * Texts: src/data/footer.ts (headings/labels) and src/data/business.ts (contact details).
  *
- * Note (migration-audit FUNC-02): the old footer had a newsletter sign-up form.
- * It is not rebuilt yet because it needs a mailing-list service; waiting for the owner's decision.
+ * Design: a dark gold band with a Balinese skyline (split gate, palms, frangipani) rising above it.
  */
 export default function Footer() {
   const year = new Date().getFullYear();
+  const { contact, daySpa, homeServices, newsletter, paymentsLabel, copyright } = footerContent;
 
-  // Every column uses the same heading and link styles, so the columns line up.
-  const headingClass = "meta-label flex min-h-6 items-center text-ink";
-  const headingLinkClass = "inline-flex min-h-6 items-center transition-colors duration-(--duration-quick) hover:text-gold-deep";
-  const listClass = "mt-4 space-y-1 text-small";
+  const headingClass = "text-[0.9375rem] font-semibold text-paper";
+  const labelClass = "text-small font-semibold text-gold-soft";
   const linkClass =
-    "inline-block py-1 text-stone underline decoration-transparent underline-offset-[0.3em] transition-colors duration-(--duration-quick) hover:text-ink hover:decoration-gold";
-  const socialClass =
-    "inline-flex size-11 items-center justify-center rounded-full bg-linen text-ink transition-colors hover:bg-gold-deep hover:text-paper";
+    "inline-block py-1 text-linen/90 underline decoration-transparent underline-offset-[0.3em] transition-colors duration-(--duration-quick) hover:text-paper hover:decoration-gold-soft";
 
   return (
-    <footer className="border-t border-line bg-paper text-ink">
-      <Container className="py-section">
-        {/* Top: logo, about text and social links on the left; booking on the right */}
-        <div className="flex flex-col gap-8 border-b border-line pb-12 lg:flex-row lg:items-start lg:justify-between">
-          <div className="max-w-[34rem]">
-            <Logo variant="footer" className="h-11" />
-            <p className="mt-6 text-body text-stone">{business.aboutText}</p>
-            <ul className="mt-6 flex items-center gap-2" aria-label="Social media">
-              <li>
-                <a href={business.social.instagram} target="_blank" rel="noopener noreferrer" className={socialClass}>
-                  <InstagramIcon />
-                  <span className="sr-only">Instagram (opens in a new tab)</span>
-                </a>
-              </li>
-              <li>
-                <a href={business.social.facebook} target="_blank" rel="noopener noreferrer" className={socialClass}>
-                  <FacebookIcon />
-                  <span className="sr-only">Facebook (opens in a new tab)</span>
-                </a>
-              </li>
-            </ul>
-          </div>
-          <div className="shrink-0">
-            <BookButton label={headerBookingLabel} size="lg" />
-          </div>
-        </div>
+    <footer className="relative mt-[max(6rem,12.5vw)] bg-gold-night text-linen">
+      {/* The skyline sits on top of the footer, rising into the space above it.
+          Its height follows the screen width (12.5vw = the drawing's 8:1 shape), so nothing is cut off. */}
+      <FooterSkyline className="absolute inset-x-0 bottom-[calc(100%-1px)] h-[max(6rem,12.5vw)]" />
 
-        {/* Link columns */}
-        <div className="grid gap-x-8 gap-y-12 pt-12 sm:grid-cols-2 lg:grid-cols-12">
-          <nav aria-labelledby="footer-explore" className="lg:col-span-3">
-            <h2 id="footer-explore" className={headingClass}>
-              Explore
-            </h2>
-            <ul className={listClass}>
-              {footerExplore.map((link) => (
-                <li key={link.href}>
-                  <Link href={link.href} className={linkClass}>
-                    {link.label}
-                  </Link>
+      <Container className="grid gap-12 pb-14 pt-6 md:grid-cols-2 xl:grid-cols-12 xl:gap-0 xl:pb-16 xl:pt-8">
+        {/* About + payments */}
+        <div className="flex flex-col gap-6 xl:col-span-4 xl:pr-10">
+          <Logo variant="footer" className="h-11" />
+          <p className="max-w-[44ch] text-small leading-relaxed text-linen/85">{business.aboutText}</p>
+          <div>
+            <p className={labelClass}>{paymentsLabel}</p>
+            <ul className="mt-3 flex flex-wrap gap-2">
+              {business.acceptedPayments.map((payment) => (
+                <li key={payment} className="inline-flex h-10 min-w-16 items-center justify-center rounded-control bg-paper px-3 shadow-(--shadow-button)">
+                  <PaymentLogo name={payment} />
                 </li>
               ))}
             </ul>
-          </nav>
+          </div>
+        </div>
 
-          <div className="lg:col-span-3">
+        {/* Newsletter */}
+        <div className="flex flex-col gap-4 xl:col-span-4 xl:items-center xl:border-x xl:border-linen/15 xl:px-10 xl:text-center">
+          <h2 className="text-subtitle text-paper">{newsletter.heading}</h2>
+          <p className="max-w-[38ch] text-small text-linen/85">{newsletter.note}</p>
+          <div className="w-full max-w-[26rem]">
+            <NewsletterForm />
+          </div>
+        </div>
+
+        {/* Contact, day spa, home services */}
+        <div className="grid gap-8 border-t border-linen/15 pt-10 sm:grid-cols-2 md:col-span-2 xl:col-span-4 xl:border-t-0 xl:pl-10 xl:pt-0">
+          <div className="flex flex-col gap-6">
+            <div>
+              <h2 className={headingClass}>{contact.heading}</h2>
+              <dl className="mt-2 text-small">
+                <dt className={labelClass}>{contact.phoneLabel}</dt>
+                <dd>
+                  <a href={whatsappLink()} target="_blank" rel="noopener noreferrer" className={`numeric whitespace-nowrap ${linkClass}`}>
+                    {business.phoneDisplay}
+                    <span className="sr-only"> (WhatsApp, opens in a new tab)</span>
+                  </a>
+                </dd>
+              </dl>
+            </div>
+            <div>
+              <h2 className={headingClass}>
+                <Link href={footerDaySpaLink.href} className="inline-flex min-h-6 items-center transition-colors hover:text-gold-soft">
+                  {footerDaySpaLink.label}
+                </Link>
+              </h2>
+              <dl className="mt-2 space-y-2 text-small">
+                <div>
+                  <dt className={labelClass}>{daySpa.openDailyLabel}</dt>
+                  <dd className="text-linen/90">{business.openingHours.display}</dd>
+                </div>
+                <div>
+                  <dt className={labelClass}>{daySpa.addressLabel}</dt>
+                  <dd>
+                    <a href={business.mapsUrl} target="_blank" rel="noopener noreferrer" className={linkClass}>
+                      {business.address.short}
+                      <span className="sr-only"> (opens Google Maps in a new tab)</span>
+                    </a>
+                  </dd>
+                </div>
+              </dl>
+            </div>
+          </div>
+
+          <div>
             <h2 className={headingClass}>
-              <Link href={footerHomeServices.href} className={headingLinkClass}>
+              <Link href={footerHomeServices.href} className="inline-flex min-h-6 items-center transition-colors hover:text-gold-soft">
                 {footerHomeServices.label}
               </Link>
             </h2>
-            <ul className={listClass}>
+            <ul className="mt-2 text-small">
               {footerHomeServices.items.map((link) => (
                 <li key={link.label}>
                   <Link href={link.href} className={linkClass}>
@@ -88,64 +111,35 @@ export default function Footer() {
                 </li>
               ))}
             </ul>
-            <p className="mt-4 text-small text-stone">
-              Home service fee: {business.homeService.feeDisplay}
-            </p>
-          </div>
-
-          <div className="sm:col-span-2 lg:col-span-6">
-            <h2 className={headingClass}>
-              <Link href={footerDaySpaLink.href} className={headingLinkClass}>
-                {footerDaySpaLink.label}
-              </Link>
-            </h2>
-            <dl className="mt-5 grid gap-x-8 gap-y-4 text-small text-stone sm:grid-cols-2">
-              <div>
-                <dt className="font-semibold text-ink">{business.openingHours.label}</dt>
-                <dd className="mt-0.5">{business.openingHours.display}</dd>
-              </div>
-              <div>
-                <dt className="font-semibold text-ink">Phone</dt>
-                <dd>
-                  <a href={whatsappLink()} target="_blank" rel="noopener noreferrer" className={`numeric whitespace-nowrap ${linkClass}`}>
-                    {business.phoneDisplay}
-                    <span className="sr-only"> (WhatsApp, opens in a new tab)</span>
-                  </a>
-                </dd>
-              </div>
-              <div>
-                <dt className="font-semibold text-ink">Address</dt>
-                <dd>
-                  <a href={business.mapsUrl} target="_blank" rel="noopener noreferrer" className={linkClass}>
-                    {business.address.short}
-                    <span className="sr-only"> (opens Google Maps in a new tab)</span>
-                  </a>
-                </dd>
-              </div>
-              <div>
-                <dt className="font-semibold text-ink">Accepted Payments</dt>
-                <dd className="mt-0.5">{business.acceptedPayments.join(", ")}</dd>
-              </div>
+            <dl className="mt-3 text-small">
+              <dt className={labelClass}>{homeServices.feeLabel}</dt>
+              <dd className="text-linen/90">{business.homeService.feeDisplay}</dd>
             </dl>
           </div>
         </div>
+      </Container>
 
-        {/* Bottom line */}
-        <div className="mt-14 flex flex-col gap-3 border-t border-line pt-6 text-[0.8125rem] text-stone sm:flex-row sm:items-center sm:justify-between">
-          <p>
-            All Rights Reserved © {year} {business.name}
-          </p>
-          <ul className="flex gap-6">
+      {/* Bottom line, as on the live site: "All Rights Reserved © 2026 Spa Bali Moon · Privacy Policy · Terms & Conditions" */}
+      <div className="border-t border-linen/15">
+        <Container className="py-5">
+          <p className="flex flex-wrap items-center gap-x-2 gap-y-1 text-[0.8125rem] text-linen/80">
+            <span>
+              {copyright} {year}
+            </span>
+            <Link href="/" className={linkClass}>
+              {business.name}
+            </Link>
             {legalLinks.map((link) => (
-              <li key={link.href}>
+              <span key={link.href} className="inline-flex items-center gap-2">
+                <span aria-hidden="true">·</span>
                 <Link href={link.href} className={linkClass}>
                   {link.label}
                 </Link>
-              </li>
+              </span>
             ))}
-          </ul>
-        </div>
-      </Container>
+          </p>
+        </Container>
+      </div>
     </footer>
   );
 }

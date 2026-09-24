@@ -2,7 +2,6 @@ import type { Metadata, Viewport } from "next";
 import FloatingWhatsApp from "@/components/layout/FloatingWhatsApp";
 import Footer from "@/components/layout/Footer";
 import Header from "@/components/layout/Header";
-import UtilityBar from "@/components/layout/UtilityBar";
 import ScrollReveal from "@/components/ui/ScrollReveal";
 import { business } from "@/data/business";
 import { figtree } from "./fonts";
@@ -44,7 +43,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         >
           Skip to content
         </a>
-        <UtilityBar />
         <Header />
         <main id="main-content" tabIndex={-1} className="outline-none">
           {children}

@@ -5,38 +5,37 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import Container from "@/components/ui/Container";
-import type { NavItem } from "@/data/navigation";
+import type { MainNavItem, NavItem } from "@/data/navigation";
 
 type DesktopNavProps = {
-  items: NavItem[];
-  treatmentMenu: { label: string; items: NavItem[] }[];
-  treatmentLinks: NavItem[];
+  items: MainNavItem[];
+  /** Lists opened by the dropdown items (see src/data/navigation.ts). */
+  dropdowns: { treatments: NavItem[]; blog: NavItem[] };
 };
 
 /**
- * Desktop menu. "Treatments" opens a panel with every treatment, grouped like the price list.
- * Keyboard: Enter/Space opens it, Escape closes it and returns focus to the button.
+ * Desktop menu, the same items as the live website.
+ * "Treatments" opens a wide panel with every treatment in 4 columns; "Blog" opens a list of articles.
+ * A dropdown opens on click or when the mouse rests on it. Escape or a click outside closes it.
  */
-export default function DesktopNav({ items, treatmentMenu, treatmentLinks }: DesktopNavProps) {
+export default function DesktopNav({ items, dropdowns }: DesktopNavProps) {
   const pathname = usePathname();
-  // The page the panel was opened on. Navigating to another page closes it automatically.
-  const [openOn, setOpenOn] = useState<string | null>(null);
-  const open = openOn === pathname;
-  const setOpen = (value: boolean) => setOpenOn(value ? pathname : null);
-  const wrapperRef = useRef<HTMLLIElement>(null);
-  const buttonRef = useRef<HTMLButtonElement>(null);
+  // Which dropdown is open, remembered with the page it was opened on (a new page closes it).
+  const [openState, setOpenState] = useState<{ name: string; page: string } | null>(null);
+  const openName = openState?.page === pathname ? openState.name : null;
+  const setOpen = (name: string | null) => setOpenState(name ? { name, page: pathname } : null);
+  const navRef = useRef<HTMLElement>(null);
 
-  // Close on Escape or on a click outside the panel.
   useEffect(() => {
-    if (!open) return;
+    if (!openName) return;
     const onKey = (event: KeyboardEvent) => {
       if (event.key === "Escape") {
-        setOpenOn(null);
-        buttonRef.current?.focus();
+        setOpenState(null);
+        navRef.current?.querySelector<HTMLButtonElement>(`[data-dropdown="${openName}"]`)?.focus();
       }
     };
     const onClick = (event: MouseEvent) => {
-      if (!wrapperRef.current?.contains(event.target as Node)) setOpenOn(null);
+      if (!navRef.current?.contains(event.target as Node)) setOpenState(null);
     };
     document.addEventListener("keydown", onKey);
     document.addEventListener("mousedown", onClick);
@@ -44,84 +43,104 @@ export default function DesktopNav({ items, treatmentMenu, treatmentLinks }: Des
       document.removeEventListener("keydown", onKey);
       document.removeEventListener("mousedown", onClick);
     };
-  }, [open]);
+  }, [openName]);
 
-  const isTreatmentPage = pathname.startsWith("/seminyak/");
   const linkClass =
     "relative inline-flex min-h-11 items-center text-[0.9375rem] font-medium text-ink " +
     "after:absolute after:inset-x-0 after:bottom-2.5 after:h-px after:origin-left after:scale-x-0 after:bg-ink " +
-    "after:transition-transform after:duration-(--duration-base) after:ease-out-expo hover:after:scale-x-100 " +
+    "after:transition-transform after:duration-(--duration-base) after:ease-(--ease-calm) hover:after:scale-x-100 " +
     "aria-[current=page]:after:scale-x-100";
+  const menuLinkClass =
+    "block py-1.5 text-[0.9375rem] leading-snug text-ink transition-colors duration-(--duration-quick) hover:text-gold-deep aria-[current=page]:font-semibold aria-[current=page]:text-gold-deep";
 
   return (
-    <nav aria-label="Main" className="hidden lg:block">
-      <ul className="flex items-center gap-7 xl:gap-9">
+    <nav ref={navRef} aria-label="Main" className="hidden self-stretch xl:block">
+      {/* Items are as tall as the header, so the mouse can move down into a dropdown without closing it */}
+      <ul className="flex h-full items-center gap-6 2xl:gap-8">
         {items.map((item) => {
-          if (item.label === "Treatments") {
+          if (!item.dropdown) {
             return (
-              <li key={item.label} ref={wrapperRef}>
-                <button
-                  ref={buttonRef}
-                  type="button"
-                  aria-expanded={open}
-                  aria-controls="treatments-panel"
-                  onClick={() => setOpen(!open)}
-                  className={`${linkClass} gap-1.5 ${isTreatmentPage ? "after:scale-x-100" : ""}`}
-                >
+              <li key={item.label} className="flex h-full items-center">
+                <Link href={item.href} aria-current={item.href === pathname ? "page" : undefined} className={linkClass}>
                   {item.label}
-                  <ChevronDown
-                    aria-hidden="true"
-                    strokeWidth={1.75}
-                    className={`size-4 transition-transform duration-(--duration-base) ease-out-expo ${open ? "rotate-180" : ""}`}
-                  />
-                </button>
-
-                <div
-                  id="treatments-panel"
-                  hidden={!open}
-                  className="absolute inset-x-0 top-full border-y border-line bg-paper shadow-[0_24px_40px_-30px_rgb(42_46_38/0.55)]"
-                >
-                  <Container className="grid grid-cols-12 gap-x-10 py-10">
-                    {treatmentMenu.map((group) => (
-                      <div
-                        key={group.label}
-                        className={group.label === "Massage" ? "col-span-5" : group.label === "Beauty" ? "col-span-3" : "col-span-2"}
-                      >
-                        <p className="meta-label border-b border-line pb-3 text-stone">{group.label}</p>
-                        <ul className={`mt-4 gap-x-8 ${group.label === "Massage" ? "columns-2" : ""}`}>
-                          {group.items.map((link) => (
-                            <li key={link.href} className="break-inside-avoid">
-                              <Link
-                                href={link.href}
-                                onClick={() => setOpenOn(null)}
-                                aria-current={pathname === link.href ? "page" : undefined}
-                                className="block py-1.5 font-display text-[1rem] font-medium leading-snug text-ink transition-colors duration-(--duration-quick) hover:text-gold-deep aria-[current=page]:text-gold-deep"
-                              >
-                                {link.label}
-                              </Link>
-                            </li>
-                          ))}
-                        </ul>
-                      </div>
-                    ))}
-                    <div className="col-span-12 mt-8 flex gap-8 border-t border-line pt-5">
-                      {treatmentLinks.map((link) => (
-                        <Link key={link.href} href={link.href} onClick={() => setOpenOn(null)} className="text-[0.9375rem] font-semibold text-ink underline decoration-gold underline-offset-[0.35em] hover:decoration-ink">
-                          {link.label}
-                        </Link>
-                      ))}
-                    </div>
-                  </Container>
-                </div>
+                </Link>
               </li>
             );
           }
-          const current = item.href === pathname;
+
+          const name = item.dropdown;
+          const isOpen = openName === name;
+          const panelId = `${name}-panel`;
+          const isCurrentSection = name === "treatments" ? dropdowns.treatments.some((l) => l.href === pathname) : pathname.startsWith("/guide/");
+          const toggle = (
+            <button
+              type="button"
+              data-dropdown={name}
+              aria-expanded={isOpen}
+              aria-controls={panelId}
+              onClick={() => setOpen(isOpen ? null : name)}
+              className={
+                name === "treatments"
+                  ? `${linkClass} gap-1.5 ${isCurrentSection ? "after:scale-x-100" : ""}`
+                  : "inline-flex min-h-11 min-w-6 items-center justify-center text-ink"
+              }
+            >
+              {name === "treatments" ? item.label : <span className="sr-only">Show {item.label} articles</span>}
+              <ChevronDown
+                aria-hidden="true"
+                strokeWidth={1.75}
+                className={`size-4 transition-transform duration-(--duration-base) ease-(--ease-calm) ${isOpen ? "rotate-180" : ""}`}
+              />
+            </button>
+          );
+
           return (
-            <li key={item.label}>
-              <Link href={item.href} aria-current={current ? "page" : undefined} className={linkClass}>
-                {item.label}
-              </Link>
+            <li
+              key={item.label}
+              className={`flex h-full items-center ${name === "blog" ? "relative gap-1" : ""}`}
+              onMouseEnter={() => setOpen(name)}
+              onMouseLeave={() => setOpen(null)}
+            >
+              {/* Blog keeps its own page link; the arrow next to it opens the article list */}
+              {name === "blog" && (
+                <Link href={item.href} aria-current={pathname === item.href ? "page" : undefined} className={`${linkClass} ${isCurrentSection ? "after:scale-x-100" : ""}`}>
+                  {item.label}
+                </Link>
+              )}
+              {toggle}
+
+              {name === "treatments" ? (
+                <div id={panelId} hidden={!isOpen} className="absolute inset-x-0 top-full border-y border-line bg-paper shadow-[0_24px_40px_-30px_rgb(28_26_29/0.45)]">
+                  <Container className="py-8">
+                    <ul className="grid grid-flow-col grid-cols-4 grid-rows-6 gap-x-10">
+                      {dropdowns.treatments.map((link) => (
+                        <li key={link.href}>
+                          <Link href={link.href} onClick={() => setOpen(null)} aria-current={pathname === link.href ? "page" : undefined} className={menuLinkClass}>
+                            {link.label}
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
+                  </Container>
+                </div>
+              ) : (
+                <div id={panelId} hidden={!isOpen} className="absolute left-0 top-full w-[24rem] rounded-card border border-line bg-paper p-3 shadow-[0_24px_40px_-30px_rgb(28_26_29/0.45)]">
+                  <ul>
+                    {dropdowns.blog.map((link) => (
+                      <li key={link.href}>
+                        <Link
+                          href={link.href}
+                          onClick={() => setOpen(null)}
+                          aria-current={pathname === link.href ? "page" : undefined}
+                          className={`${menuLinkClass} rounded-cell px-3 py-2 hover:bg-linen`}
+                        >
+                          {link.label}
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
             </li>
           );
         })}

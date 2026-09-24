@@ -52,3 +52,8 @@ export function whatsappLink(options: WhatsAppOptions = {}): string {
   const text = encodeURIComponent(whatsappMessage(options));
   return `https://wa.me/${business.whatsappNumber}?text=${text}`;
 }
+
+/** wa.me link with any ready-made message (used by forms that write their own text). */
+export function whatsappNumberLink(message: string): string {
+  return `https://wa.me/${business.whatsappNumber}?text=${encodeURIComponent(message)}`;
+}

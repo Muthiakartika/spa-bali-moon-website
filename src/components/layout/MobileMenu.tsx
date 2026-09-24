@@ -1,29 +1,26 @@
 "use client";
 
-import { ChevronDown, Clock, MapPin, Menu, X } from "lucide-react";
+import { ChevronDown, Menu, X } from "lucide-react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useEffect, useRef } from "react";
-import type { NavItem } from "@/data/navigation";
+import { useEffect, useRef, useState } from "react";
+import type { MainNavItem, NavItem } from "@/data/navigation";
 
 type MobileMenuProps = {
-  items: NavItem[];
-  treatmentMenu: { label: string; items: NavItem[] }[];
-  treatmentLinks: NavItem[];
+  items: MainNavItem[];
+  dropdowns: { treatments: NavItem[]; blog: NavItem[] };
   /** The booking button (rendered on the server and passed in). */
   bookButton: React.ReactNode;
-  hours: string;
-  address: string;
-  mapsUrl: string;
 };
 
 /**
- * Phone/tablet menu. It uses the browser's own <dialog>, which keeps keyboard focus
- * inside the menu while it is open and closes with the Escape key.
+ * Phone/tablet menu (same items as the desktop menu). It uses the browser's own <dialog>,
+ * which keeps keyboard focus inside the menu while it is open and closes with the Escape key.
  */
-export default function MobileMenu({ items, treatmentMenu, treatmentLinks, bookButton, hours, address, mapsUrl }: MobileMenuProps) {
+export default function MobileMenu({ items, dropdowns, bookButton }: MobileMenuProps) {
   const dialogRef = useRef<HTMLDialogElement>(null);
   const pathname = usePathname();
+  const [openList, setOpenList] = useState<string | null>(null);
 
   const open = () => dialogRef.current?.showModal();
   const close = () => dialogRef.current?.close();
@@ -33,8 +30,11 @@ export default function MobileMenu({ items, treatmentMenu, treatmentLinks, bookB
     dialogRef.current?.close();
   }, [pathname]);
 
+  const rowClass = "flex min-h-14 flex-1 items-center font-display text-[1.25rem] font-semibold";
+  const subLinkClass = "flex min-h-11 items-center text-[0.9375rem] leading-snug aria-[current=page]:font-semibold aria-[current=page]:text-gold-deep";
+
   return (
-    <div className="lg:hidden">
+    <div className="xl:hidden">
       <button
         type="button"
         onClick={open}
@@ -65,83 +65,65 @@ export default function MobileMenu({ items, treatmentMenu, treatmentLinks, bookB
             </button>
           </div>
 
-          <nav aria-label="Main" className="flex-1 overflow-y-auto px-gutter py-4">
+          <nav aria-label="Main" className="flex-1 overflow-y-auto px-gutter py-2">
             <ul>
               {items.map((item) => {
-                if (item.label === "Treatments") {
+                const name = item.dropdown;
+                if (!name) {
                   return (
                     <li key={item.label} className="border-b border-line">
-                      <details className="group/treat">
-                        <summary className="flex min-h-14 cursor-pointer list-none items-center justify-between font-display text-[1.375rem] font-semibold [&::-webkit-details-marker]:hidden">
-                          {item.label}
-                          <ChevronDown
-                            aria-hidden="true"
-                            strokeWidth={1.5}
-                            className="size-5 text-gold-deep transition-transform duration-(--duration-base) group-open/treat:rotate-180"
-                          />
-                        </summary>
-                        <div className="space-y-6 pb-6">
-                          {treatmentMenu.map((group) => (
-                            <div key={group.label}>
-                              <p className="meta-label text-stone">{group.label}</p>
-                              <ul className="mt-2 grid grid-cols-2 gap-x-4">
-                                {group.items.map((link) => (
-                                  <li key={link.href}>
-                                    <Link
-                                      href={link.href}
-                                      onClick={close}
-                                      aria-current={pathname === link.href ? "page" : undefined}
-                                      className="flex min-h-11 items-center text-[0.9375rem] aria-[current=page]:font-semibold"
-                                    >
-                                      {link.label}
-                                    </Link>
-                                  </li>
-                                ))}
-                              </ul>
-                            </div>
-                          ))}
-                          <div className="flex gap-6 border-t border-line pt-4">
-                            {treatmentLinks.map((link) => (
-                              <Link key={link.href} href={link.href} onClick={close} className="font-semibold underline decoration-gold underline-offset-[0.35em]">
-                                {link.label}
-                              </Link>
-                            ))}
-                          </div>
-                        </div>
-                      </details>
+                      <Link href={item.href} onClick={close} aria-current={pathname === item.href ? "page" : undefined} className={rowClass}>
+                        {item.label}
+                      </Link>
                     </li>
                   );
                 }
+                const isOpen = openList === name;
+                const listId = `mobile-${name}-list`;
+                const links = dropdowns[name];
                 return (
                   <li key={item.label} className="border-b border-line">
-                    <Link
-                      href={item.href}
-                      onClick={close}
-                      aria-current={pathname === item.href ? "page" : undefined}
-                      className="flex min-h-14 items-center font-display text-[1.375rem] font-semibold"
-                    >
-                      {item.label}
-                    </Link>
+                    <div className="flex items-center">
+                      {name === "blog" ? (
+                        <Link href={item.href} onClick={close} aria-current={pathname === item.href ? "page" : undefined} className={rowClass}>
+                          {item.label}
+                        </Link>
+                      ) : (
+                        <span className={rowClass}>{item.label}</span>
+                      )}
+                      <button
+                        type="button"
+                        aria-expanded={isOpen}
+                        aria-controls={listId}
+                        onClick={() => setOpenList(isOpen ? null : name)}
+                        className="inline-flex size-11 items-center justify-center rounded-control transition-colors hover:bg-linen"
+                      >
+                        <ChevronDown
+                          aria-hidden="true"
+                          strokeWidth={1.5}
+                          className={`size-5 text-gold-deep transition-transform duration-(--duration-base) ${isOpen ? "rotate-180" : ""}`}
+                        />
+                        <span className="sr-only">
+                          {isOpen ? "Hide" : "Show"} {item.label} list
+                        </span>
+                      </button>
+                    </div>
+                    <ul id={listId} hidden={!isOpen} className={`pb-4 ${name === "treatments" ? "grid grid-cols-2 gap-x-4" : ""}`}>
+                      {links.map((link) => (
+                        <li key={link.href}>
+                          <Link href={link.href} onClick={close} aria-current={pathname === link.href ? "page" : undefined} className={subLinkClass}>
+                            {link.label}
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
                   </li>
                 );
               })}
             </ul>
           </nav>
 
-          <div className="space-y-4 border-t border-line bg-linen px-gutter py-6">
-            {bookButton}
-            <p className="flex items-center gap-2 text-small text-stone">
-              <Clock aria-hidden="true" strokeWidth={1.5} className="size-4" />
-              {hours}
-            </p>
-            <a href={mapsUrl} target="_blank" rel="noopener noreferrer" className="flex items-start gap-2 text-small text-stone underline decoration-gold underline-offset-[0.3em]">
-              <MapPin aria-hidden="true" strokeWidth={1.5} className="mt-0.5 size-4 shrink-0" />
-              <span>
-                {address}
-                <span className="sr-only"> (opens Google Maps in a new tab)</span>
-              </span>
-            </a>
-          </div>
+          <div className="border-t border-line bg-linen px-gutter py-6">{bookButton}</div>
         </div>
       </dialog>
     </div>
