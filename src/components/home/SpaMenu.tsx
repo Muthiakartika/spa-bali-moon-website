@@ -20,7 +20,7 @@ export default function SpaMenu() {
   }));
 
   return (
-    <Section labelledBy="menu-heading" id="menu">
+    <Section tone="linen" labelledBy="menu-heading" id="menu">
       <SectionHeading
         id="menu-heading"
         title={catalog.heading}

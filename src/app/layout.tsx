@@ -3,8 +3,9 @@ import FloatingWhatsApp from "@/components/layout/FloatingWhatsApp";
 import Footer from "@/components/layout/Footer";
 import Header from "@/components/layout/Header";
 import UtilityBar from "@/components/layout/UtilityBar";
+import ScrollReveal from "@/components/ui/ScrollReveal";
 import { business } from "@/data/business";
-import { instrumentSerif, manrope } from "./fonts";
+import { figtree } from "./fonts";
 import "./globals.css";
 
 /**
@@ -34,12 +35,12 @@ export const viewport: Viewport = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${instrumentSerif.variable} ${manrope.variable}`}>
+    <html lang="en" className={figtree.variable}>
       <body>
         {/* Lets keyboard users jump straight past the menu */}
         <a
           href="#main-content"
-          className="sr-only z-50 rounded-control bg-olive px-4 py-3 font-semibold text-ivory focus:not-sr-only focus:fixed focus:left-4 focus:top-4"
+          className="sr-only z-50 rounded-control bg-ink px-4 py-3 font-semibold text-paper focus:not-sr-only focus:fixed focus:left-4 focus:top-4"
         >
           Skip to content
         </a>
@@ -50,6 +51,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </main>
         <Footer />
         <FloatingWhatsApp />
+        <ScrollReveal />
       </body>
     </html>
   );

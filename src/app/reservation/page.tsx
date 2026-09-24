@@ -22,26 +22,26 @@ export default function ReservationPage() {
         <h2 id="reservation-heading" className="text-display">
           {page.heading}
         </h2>
-        <p className="mt-4 font-serif text-[1.4rem] italic text-brown-ink">{page.eyebrow}</p>
-        <p className="mx-auto mt-6 max-w-[60ch] text-lead text-brown-ink">{page.text}</p>
+        <p className="mt-4 text-lead text-stone">{page.eyebrow}</p>
+        <p className="mx-auto mt-6 max-w-[60ch] text-lead text-stone">{page.text}</p>
       </div>
 
-      <div className="mt-14 grid gap-px overflow-hidden rounded-board bg-taupe/60 lg:grid-cols-2">
+      <div className="mt-14 grid gap-px overflow-hidden rounded-board bg-gold/25 lg:grid-cols-2">
         {page.options.map((option, i) => (
           <section
             key={option.title}
             aria-labelledby={`option-${i}`}
-            className={`flex flex-col gap-6 p-8 sm:p-10 ${i === 0 ? "bg-olive text-ivory" : "bg-sand text-olive"}`}
+            className={`flex flex-col gap-6 p-8 sm:p-10 ${i === 0 ? "bg-ink text-paper" : "bg-linen text-ink"}`}
           >
             <h3 id={`option-${i}`} className="text-title">
               {option.title}
             </h3>
-            <p className={`text-lead ${i === 0 ? "text-sand" : "text-brown-ink"}`}>{option.text}</p>
+            <p className={`text-lead ${i === 0 ? "text-linen" : "text-stone"}`}>{option.text}</p>
             <dl className="grid gap-5 sm:grid-cols-2">
               {option.items.map((item) => (
-                <div key={item.title} className={`border-t pt-4 ${i === 0 ? "border-olive-line" : "border-taupe/60"}`}>
+                <div key={item.title} className={`border-t pt-4 ${i === 0 ? "border-ink-line" : "border-line"}`}>
                   <dt className="font-semibold">{item.title}</dt>
-                  <dd className={`mt-1 text-small ${i === 0 ? "text-sand" : "text-brown-ink"}`}>{item.text}</dd>
+                  <dd className={`mt-1 text-small ${i === 0 ? "text-linen" : "text-stone"}`}>{item.text}</dd>
                 </div>
               ))}
             </dl>
@@ -51,7 +51,7 @@ export default function ReservationPage() {
 
       <div className="mt-12 flex flex-col items-center gap-4 text-center">
         <BookButton label={page.buttonLabel} source="Reservation page" size="lg" />
-        <p className="text-small text-brown-ink">{page.note}</p>
+        <p className="text-small text-stone">{page.note}</p>
       </div>
     </Section>
   );

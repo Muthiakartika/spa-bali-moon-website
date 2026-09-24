@@ -80,13 +80,13 @@ export default function HomeServicePage() {
       />
       {/* The two highlights (one contains a link, so they are written out here) */}
       <Section spacing="bottom">
-        <dl className="grid gap-6 border-t border-taupe/60 pt-8 sm:grid-cols-2 lg:ml-[41.66%] lg:pl-16">
+        <dl className="grid gap-6 border-t border-line pt-8 sm:grid-cols-2 lg:ml-[41.66%] lg:pl-16">
           <div>
-            <dt className="font-serif text-subtitle">{firstHighlight.title}</dt>
-            <dd className="mt-2 text-body text-brown-ink">
+            <dt className="font-display text-subtitle font-semibold">{firstHighlight.title}</dt>
+            <dd className="mt-2 text-body text-stone">
               {"textBefore" in firstHighlight && firstHighlight.textBefore}
               {"linkHref" in firstHighlight && firstHighlight.linkHref && (
-                <Link href={firstHighlight.linkHref} className="text-olive underline decoration-taupe underline-offset-[0.3em] hover:decoration-olive">
+                <Link href={firstHighlight.linkHref} className="text-ink underline decoration-gold underline-offset-[0.3em] hover:decoration-ink">
                   {firstHighlight.linkLabel}
                 </Link>
               )}
@@ -94,8 +94,8 @@ export default function HomeServicePage() {
             </dd>
           </div>
           <div>
-            <dt className="font-serif text-subtitle">{secondHighlight.title}</dt>
-            <dd className="mt-2 text-body text-brown-ink">{"text" in secondHighlight && secondHighlight.text}</dd>
+            <dt className="font-display text-subtitle font-semibold">{secondHighlight.title}</dt>
+            <dd className="mt-2 text-body text-stone">{"text" in secondHighlight && secondHighlight.text}</dd>
           </div>
         </dl>
       </Section>
@@ -132,7 +132,7 @@ export default function HomeServicePage() {
         }}
       />
 
-      <Section tone="sand" labelledBy="prices-heading" id="prices">
+      <Section tone="linen" labelledBy="prices-heading" id="prices">
         <SectionHeading id="prices-heading" title={prices.heading} note={prices.eyebrow} />
         <TreatmentBoard className="mt-12" tabs={tabs} caption="Home service price list" source={SOURCE} collapsedHeight="44rem" />
       </Section>
@@ -140,10 +140,10 @@ export default function HomeServicePage() {
       <Section labelledBy="info-heading">
         <div className="grid gap-12 lg:grid-cols-12">
           <div className="lg:col-span-4">
-            <SectionHeading id="info-heading" title={info.heading} note={info.eyebrow} layout="stacked" />
-            <p className="mt-8 rounded-cell bg-olive px-6 py-5 text-lead text-sand">
+            <SectionHeading id="info-heading" title={info.heading} note={info.eyebrow} />
+            <p className="mt-8 rounded-cell bg-ink px-6 py-5 text-lead text-linen">
               {info.feeNote.before}
-              <span className="font-semibold text-ivory">{info.feeNote.highlight}</span>
+              <span className="font-semibold text-paper">{info.feeNote.highlight}</span>
               {info.feeNote.after}
             </p>
             <div className="relative mt-8 hidden aspect-[4/5] overflow-hidden rounded-cell lg:block">
@@ -152,16 +152,16 @@ export default function HomeServicePage() {
           </div>
           <ul className="grid gap-x-10 gap-y-8 sm:grid-cols-2 lg:col-span-8">
             {info.items.map((item) => (
-              <li key={item.title} className="border-t border-taupe/60 pt-5">
-                <h3 className="font-serif text-subtitle">{item.title}</h3>
-                <p className="mt-2 text-body text-brown-ink">{item.text}</p>
+              <li key={item.title} className="border-t border-line pt-5">
+                <h3 className="font-display text-subtitle font-semibold">{item.title}</h3>
+                <p className="mt-2 text-body text-stone">{item.text}</p>
               </li>
             ))}
           </ul>
         </div>
       </Section>
 
-      <FaqSection faq={faq} tone="sand" />
+      <FaqSection faq={faq} tone="linen" />
       <BookingCTA cta={cta} source={SOURCE} />
     </>
   );

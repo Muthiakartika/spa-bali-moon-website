@@ -38,7 +38,7 @@ export default function SiteImage({ image, sizes, fill = false, priority = false
       <span
         role={altText ? "img" : undefined}
         aria-label={altText || undefined}
-        className={`block bg-sand ${fill ? "absolute inset-0" : ""} ${className}`}
+        className={`block bg-linen ${fill ? "absolute inset-0" : ""} ${className}`}
         style={fill ? undefined : { aspectRatio: `${image.width} / ${image.height}` }}
       />
     );

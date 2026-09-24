@@ -52,7 +52,7 @@ type TreatmentBoardProps = {
 
 /**
  * THE TREATMENT MENU — the site's signature element.
- * A rounded Deep Olive price menu with tabs. Rows rise gently into place when it appears.
+ * A rounded dark price menu with tabs. Rows rise gently into place when it appears.
  * It is a real <table>, so it stays readable for screen readers and search engines.
  */
 export default function TreatmentBoard({
@@ -136,14 +136,10 @@ export default function TreatmentBoard({
                 onClick={() => selectTab(i)}
                 onKeyDown={(e) => onTabKeyDown(e, i)}
                 className={
-                  "inline-flex min-h-11 items-center gap-2 rounded-control px-4 text-[0.9375rem] font-semibold transition-colors duration-(--duration-quick) " +
-                  (selected ? "bg-taupe text-olive" : "bg-olive-cell text-sand hover:bg-olive-line hover:text-ivory")
+                  "inline-flex min-h-11 items-center gap-2 rounded-full px-4 text-[0.9375rem] font-medium transition-colors duration-(--duration-quick) " +
+                  (selected ? "bg-ink text-paper" : "bg-linen text-ink hover:bg-cream")
                 }
               >
-                <span
-                  aria-hidden="true"
-                  className={`size-2 rounded-full ${selected ? "bg-olive" : "bg-sage"}`}
-                />
                 {t.label}
               </button>
             );
@@ -164,7 +160,7 @@ export default function TreatmentBoard({
             {caption}: {tab.label}
           </caption>
           <thead>
-            <tr className="label-caps text-taupe">
+            <tr className="meta-label text-stone">
               {/* Column widths live on these header cells. On phones the Treatment column is
                   hidden and each name gets its own row, so the table has three columns. */}
               <th scope="col" className="hidden pb-3 pr-3 font-semibold sm:table-cell sm:w-[42%]">
@@ -185,26 +181,26 @@ export default function TreatmentBoard({
             {rows.map((row, i) => {
               // Rows rise one after another, but only the first 8 are staggered,
               // so even a long price list has settled in under a second.
-              const delay = { "--reveal-delay": `${Math.min(i, 8) * 50}ms` } as React.CSSProperties;
+              const delay = { "--reveal-delay": `${Math.min(i, 8) * 40}ms` } as React.CSSProperties;
               const nameContent = (
                 <>
                   {row.href ? (
                     <Link
                       href={row.href}
-                      className="block py-1 font-serif text-[1.3rem] leading-tight text-ivory underline decoration-transparent decoration-1 underline-offset-[0.25em] transition-colors hover:decoration-taupe sm:text-[1.4rem]"
+                      className="block py-1 font-display text-[1.0625rem] font-semibold leading-snug text-ink underline decoration-transparent decoration-1 underline-offset-[0.25em] transition-colors hover:decoration-gold sm:text-[1.125rem]"
                     >
                       {row.name}
                     </Link>
                   ) : (
-                    <span className="block py-1 font-serif text-[1.3rem] leading-tight text-ivory sm:text-[1.4rem]">{row.name}</span>
+                    <span className="block py-1 font-display text-[1.0625rem] font-semibold leading-snug text-ink sm:text-[1.125rem]">{row.name}</span>
                   )}
                   {row.description && (
-                    <span className="mt-1 block max-w-[46ch] text-[0.875rem] leading-snug text-sand">
+                    <span className="mt-1 block max-w-[46ch] text-[0.875rem] leading-snug text-stone">
                       {row.description}
                     </span>
                   )}
                   {row.details && row.details.length > 0 && (
-                    <span className="mt-1.5 block max-w-[46ch] text-[0.875rem] leading-snug text-taupe">
+                    <span className="mt-1.5 block max-w-[46ch] text-[0.875rem] leading-snug text-gold-deep">
                       {row.details.join(" · ")}
                     </span>
                   )}
@@ -214,18 +210,18 @@ export default function TreatmentBoard({
                 <Fragment key={`${row.name}-${row.option}`}>
                   {/* Phones only: the treatment name as its own full-width row */}
                   {row.showName && (
-                    <tr className={`reveal sm:hidden ${i > 0 ? "border-t border-olive-line" : ""}`} style={delay}>
+                    <tr className={`reveal sm:hidden ${i > 0 ? "border-t border-line" : ""}`} style={delay}>
                       <th scope="colgroup" colSpan={3} className="pt-4 pb-1 font-normal">
                         {nameContent}
                       </th>
                     </tr>
                   )}
-                <tr className={`reveal align-top ${row.showName && i > 0 ? "sm:border-t sm:border-olive-line" : ""}`} style={delay}>
+                <tr className={`reveal align-top ${row.showName && i > 0 ? "sm:border-t sm:border-line" : ""}`} style={delay}>
                   <th scope="row" className="hidden py-3 pr-4 font-normal sm:table-cell">
                     {row.showName ? nameContent : <span className="sr-only">{row.name}</span>}
                   </th>
-                  <td className="py-3 pr-3 text-sand sm:pt-[1.1rem]">{row.option}</td>
-                  <td className="numeric py-2 pr-3 text-right font-serif text-[1.35rem] leading-tight text-taupe sm:pt-[0.85rem] sm:text-[1.5rem]">
+                  <td className="py-3 pr-3 text-stone sm:pt-[1.1rem]">{row.option}</td>
+                  <td className="numeric py-3 pr-3 text-right font-display text-[1.0625rem] font-semibold text-gold-deep sm:pt-[1.1rem] sm:text-[1.125rem]">
                     {formatPrice(row.price)}
                   </td>
                   <td className="py-2 text-right sm:py-2.5">
@@ -234,7 +230,7 @@ export default function TreatmentBoard({
                       target="_blank"
                       rel="noopener noreferrer"
                       aria-label={`${bookLabel}: ${row.name}, ${row.option}, on WhatsApp (opens in a new tab)`}
-                      className="inline-flex min-h-11 min-w-11 items-center justify-center gap-2 rounded-control bg-olive-cell px-3 text-[0.875rem] font-semibold text-ivory transition-colors duration-(--duration-quick) hover:bg-taupe hover:text-olive sm:px-4"
+                      className="inline-flex min-h-11 min-w-11 items-center justify-center gap-2 rounded-control bg-linen px-3 text-[0.875rem] font-medium text-ink transition-colors duration-(--duration-quick) hover:bg-gold-deep hover:text-paper sm:px-4"
                     >
                       <WhatsAppIcon className="size-4" />
                       <span className="hidden sm:inline">{bookLabel}</span>
@@ -247,7 +243,7 @@ export default function TreatmentBoard({
           </tbody>
         </table>
         {collapsedHeight && !expanded && (
-          <div aria-hidden="true" className="pointer-events-none absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-olive to-transparent" />
+          <div aria-hidden="true" className="pointer-events-none absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-paper to-transparent" />
         )}
       </div>
       {collapsedHeight && (
@@ -257,7 +253,7 @@ export default function TreatmentBoard({
             aria-expanded={expanded}
             aria-controls={panelId}
             onClick={() => setExpanded((value) => !value)}
-            className="inline-flex min-h-11 items-center rounded-control bg-taupe px-6 text-[0.9375rem] font-semibold text-olive transition-colors hover:bg-sand"
+            className="inline-flex min-h-11 items-center rounded-full bg-ink px-6 text-[0.9375rem] font-medium text-paper transition-colors hover:bg-gold-deep"
           >
             {expanded ? "Show less" : "Show all"}
           </button>

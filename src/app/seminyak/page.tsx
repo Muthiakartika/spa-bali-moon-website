@@ -54,12 +54,12 @@ export default function PricelistPage() {
             </div>
           </div>
           <div className="lg:col-span-6">
-            <SectionHeading id="complete-heading" title={completeMenu.heading} note={completeMenu.eyebrow} intro={[completeMenu.text]} layout="stacked" />
-            <ul className="mt-10 grid grid-cols-2 border-t border-taupe/60">
+            <SectionHeading id="complete-heading" title={completeMenu.heading} note={completeMenu.eyebrow} intro={[completeMenu.text]} />
+            <ul className="mt-10 grid grid-cols-2 border-t border-line">
               {completeMenu.facts.map((lines, i) => (
-                <li key={lines.join(" ")} className={`py-5 ${i === 1 ? "border-l border-taupe/60 pl-6" : ""}`}>
-                  <span className="label-caps block text-brown-ink">{lines[0]}</span>
-                  <span className="mt-1 block font-serif text-[2rem] leading-tight">{lines.slice(1).join(" ")}</span>
+                <li key={lines.join(" ")} className={`py-5 ${i === 1 ? "border-l border-line pl-6" : ""}`}>
+                  <span className="meta-label block text-stone">{lines[0]}</span>
+                  <span className="mt-1 block font-display text-[1.75rem] font-semibold leading-tight tracking-[-0.02em]">{lines.slice(1).join(" ")}</span>
                 </li>
               ))}
             </ul>
@@ -68,7 +68,7 @@ export default function PricelistPage() {
       </Section>
 
       {/* The full price list board */}
-      <Section tone="sand" labelledBy="pricelist-heading" id="pricelist">
+      <Section tone="linen" labelledBy="pricelist-heading" id="pricelist">
         <SectionHeading id="pricelist-heading" title={priceList.heading} note={priceList.eyebrow} intro={[priceList.feeNote]} />
         <TreatmentBoard className="mt-12" tabs={tabs} caption="Spa Bali Moon price list" source={SOURCE} />
       </Section>
@@ -81,15 +81,15 @@ export default function PricelistPage() {
             const group = getPackageGroup(groupId);
             const headingId = `group-${groupId}`;
             return (
-              <section key={groupId} aria-labelledby={headingId} className="border-t border-taupe/60 pt-10">
+              <section key={groupId} aria-labelledby={headingId} className="border-t border-line pt-10">
                 <div className="grid gap-6 lg:grid-cols-12">
                   <div className="lg:col-span-4">
                     <h3 id={headingId} className="text-title">
                       {group.heading}
                     </h3>
-                    {group.eyebrow && <p className="mt-3 font-serif text-[1.35rem] italic text-brown-ink">{group.eyebrow}</p>}
+                    {group.eyebrow && <p className="mt-3 text-lead text-stone">{group.eyebrow}</p>}
                   </div>
-                  {group.description && <p className="max-w-[62ch] text-lead text-brown-ink lg:col-span-8">{group.description}</p>}
+                  {group.description && <p className="max-w-[62ch] text-lead text-stone lg:col-span-8">{group.description}</p>}
                 </div>
                 <div className="mt-8">
                   <PackageCards

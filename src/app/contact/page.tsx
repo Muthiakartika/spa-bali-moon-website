@@ -33,15 +33,15 @@ export default function ContactPage() {
             <h2 id="details-heading" className="text-title">
               {details.heading}
             </h2>
-            <p className="mt-3 font-serif text-[1.35rem] italic text-brown-ink">{details.eyebrow}</p>
-            <p className="mt-5 text-lead text-brown-ink">{details.text}</p>
+            <p className="mt-3 text-lead text-stone">{details.eyebrow}</p>
+            <p className="mt-5 text-lead text-stone">{details.text}</p>
             <ul className="mt-10 space-y-6">
               {details.items.map((item, i) => {
                 const Icon = icons[i] ?? MapPin;
                 const isWhatsApp = i === 0;
                 return (
-                  <li key={item.title} className="flex gap-4 border-t border-taupe/60 pt-5">
-                    <Icon aria-hidden="true" strokeWidth={1.5} className="mt-0.5 size-5 shrink-0 text-brown" />
+                  <li key={item.title} className="flex gap-4 border-t border-line pt-5">
+                    <Icon aria-hidden="true" strokeWidth={1.5} className="mt-0.5 size-5 shrink-0 text-gold-deep" />
                     <div>
                       <p className="font-semibold">{item.title}</p>
                       {isWhatsApp ? (
@@ -49,13 +49,13 @@ export default function ContactPage() {
                           href={whatsappLink({ source: "Contact page" })}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="numeric inline-block whitespace-nowrap py-1 text-brown-ink underline decoration-taupe underline-offset-[0.3em] hover:text-olive"
+                          className="numeric inline-block whitespace-nowrap py-1 text-stone underline decoration-gold underline-offset-[0.3em] hover:text-ink"
                         >
                           {item.text}
                           <span className="sr-only"> (WhatsApp, opens in a new tab)</span>
                         </a>
                       ) : (
-                        <p className="text-brown-ink">{item.text}</p>
+                        <p className="text-stone">{item.text}</p>
                       )}
                     </div>
                   </li>
@@ -64,9 +64,9 @@ export default function ContactPage() {
             </ul>
           </aside>
 
-          <div className="rounded-board bg-sand p-6 sm:p-10 lg:col-span-7">
+          <div className="rounded-board bg-linen p-6 sm:p-10 lg:col-span-7">
             <h2 className="text-title">{form.heading}</h2>
-            <p className="mt-3 font-serif text-[1.35rem] italic text-brown-ink">{form.eyebrow}</p>
+            <p className="mt-3 text-lead text-stone">{form.eyebrow}</p>
             <div className="mt-8">
               <ContactForm fields={form.fields} submitLabel={form.submitLabel} resetLabel={form.resetLabel} />
             </div>
@@ -74,15 +74,15 @@ export default function ContactPage() {
         </div>
       </Section>
 
-      <Section tone="sand" labelledBy="find-heading">
+      <Section tone="linen" labelledBy="find-heading">
         <div className="grid gap-8 lg:grid-cols-12 lg:items-end">
           <div className="lg:col-span-8">
             <h2 id="find-heading" className="text-title">
               {findUs.name}
             </h2>
-            <p className="mt-3 font-serif text-[1.35rem] italic text-brown-ink">{findUs.eyebrow}</p>
-            <p className="mt-5 max-w-[46ch] text-lead text-brown-ink">{findUs.address}</p>
-            <p className="mt-2 text-lead text-brown-ink">{findUs.hours}</p>
+            <p className="mt-3 text-lead text-stone">{findUs.eyebrow}</p>
+            <p className="mt-5 max-w-[46ch] text-lead text-stone">{findUs.address}</p>
+            <p className="mt-2 text-lead text-stone">{findUs.hours}</p>
           </div>
           <div className="lg:col-span-4 lg:text-right">
             <ButtonLink href={business.mapsUrl} external variant="primary" size="lg">

@@ -31,16 +31,16 @@ export default function PostCard({
           className="transition-transform duration-(--duration-slow) ease-out-expo group-hover:scale-[1.03]"
         />
       </div>
-      <p className="label-caps mt-5 text-brown-ink">
-        {post.category} · <time dateTime={post.publishedAt}>{formatDate(post.publishedAt)}</time>
+      <p className="meta-label mt-5 text-stone">
+        {post.category}, <time dateTime={post.publishedAt}>{formatDate(post.publishedAt)}</time>
       </p>
-      <Heading className="mt-2 font-serif text-[1.65rem] leading-tight text-olive">
+      <Heading className="mt-2 font-display text-[1.25rem] font-semibold leading-snug tracking-[-0.01em] text-ink">
         <Link href={`/guide/${post.slug}/`} className="after:absolute after:inset-0">
           {post.title}
         </Link>
       </Heading>
-      {showExcerpt && <p className="mt-3 text-body text-brown-ink">{post.excerpt}</p>}
-      <span aria-hidden="true" className="mt-4 text-small font-semibold text-olive underline decoration-taupe underline-offset-[0.35em] group-hover:decoration-olive">
+      {showExcerpt && <p className="mt-3 text-body text-stone">{post.excerpt}</p>}
+      <span aria-hidden="true" className="mt-4 text-small font-semibold text-ink underline decoration-gold underline-offset-[0.35em] group-hover:decoration-ink">
         {readMoreLabel}
       </span>
     </article>

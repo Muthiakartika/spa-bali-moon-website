@@ -30,19 +30,19 @@ export default function PackageCards({
         const price = priceOverrides?.[pkg.name] ?? pkg.price;
         const fullName = `${group.title} ${pkg.name}`;
         return (
-          <li key={pkg.name} className="flex flex-col rounded-card bg-ivory p-6 ring-1 ring-taupe/40">
-            <Heading className="label-caps text-sage-deep">
+          <li key={pkg.name} data-motion="rise" className="flex flex-col rounded-card border border-line bg-paper p-6">
+            <Heading className="meta-label text-gold-deep">
               {group.title} <span aria-hidden="true">/</span> {pkg.name}
             </Heading>
-            <p className="mt-4 font-serif text-[2.6rem] leading-none text-brown-deep">
+            <p className="mt-4 font-display text-[2.25rem] font-semibold leading-none tracking-[-0.025em] text-gold-deep">
               <Price value={price} />
-              {pkg.pax && <span className="ml-2 font-sans text-small text-brown-ink">{pkg.pax} pax</span>}
+              {pkg.pax && <span className="ml-2 font-sans text-small text-stone">{pkg.pax} pax</span>}
             </p>
-            <ul className="mt-6 flex-1 space-y-2.5 rounded-cell bg-sand/60 p-4">
+            <ul className="mt-6 flex-1 space-y-2.5 rounded-cell bg-linen p-4">
               {pkg.items.map((item) => (
                 <li key={`${item.duration}-${item.treatment}`} className="grid grid-cols-[4.5rem_1fr] gap-3 text-small">
-                  <span className="numeric text-brown-ink">{item.duration}</span>
-                  <span className="text-olive">{item.treatment}</span>
+                  <span className="numeric text-stone">{item.duration}</span>
+                  <span className="text-ink">{item.treatment}</span>
                 </li>
               ))}
             </ul>

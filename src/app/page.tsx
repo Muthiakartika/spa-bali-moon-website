@@ -27,14 +27,14 @@ export default function HomePage() {
   return (
     <>
       <Hero />
-      <SpaMenu />
       <FeaturedTreatments />
+      <WhySpaBaliMoon />
       <AboutSpa />
+      <SpaMenu />
       <HowBookingWorks />
       <SpaPackages />
-      <WhySpaBaliMoon />
-      <Testimonials tone="ivory" />
-      <FaqSection faq={homePage.faq} tone="sand" />
+      <Testimonials tone="paper" />
+      <FaqSection faq={homePage.faq} tone="linen" />
       <BookingCTA cta={homePage.cta} source="Homepage" />
     </>
   );

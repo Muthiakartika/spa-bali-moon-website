@@ -26,24 +26,24 @@ type PageHeroProps = {
  */
 export default function PageHero({ title, note, text, meta, image, buttonLabel = "Book Now", treatment, source, children }: PageHeroProps) {
   return (
-    <section aria-labelledby="page-title" className="bg-ivory">
+    <section aria-labelledby="page-title" className="bg-paper">
       <Container className="grid gap-8 pb-10 pt-12 sm:pt-16 lg:grid-cols-12 lg:items-end lg:pb-14 lg:pt-20">
         <div className="lg:col-span-8">
-          <h1 id="page-title" className="text-display text-olive">
+          <h1 id="page-title" className="text-display text-ink">
             {title}
           </h1>
-          {note && <p className="mt-4 font-serif text-[1.35rem] italic text-brown-ink sm:text-[1.6rem]">{note}</p>}
+          {note && <p className="mt-4 text-lead text-stone">{note}</p>}
         </div>
         <div className="flex flex-col items-start gap-5 lg:col-span-4 lg:items-end lg:text-right">
-          {text && <p className="max-w-[44ch] text-lead text-brown-ink">{text}</p>}
+          {text && <p className="max-w-[44ch] text-lead text-stone">{text}</p>}
           <div className="flex flex-wrap gap-3 lg:justify-end">
             <BookButton label={buttonLabel} treatment={treatment} source={source} size="lg" />
             {children}
           </div>
-          {meta && <p className="label-caps text-brown-ink">{meta}</p>}
+          {meta && <p className="meta-label text-stone">{meta}</p>}
         </div>
       </Container>
-      <div className="relative mx-auto aspect-[4/3] w-[calc(100%-2*var(--spacing-gutter))] max-w-[90rem] overflow-hidden rounded-board sm:aspect-[16/8] lg:aspect-[1920/760]">
+      <div className="relative mx-auto aspect-[4/3] w-[calc(100%-2*var(--spacing-gutter))] max-w-[calc(var(--container-site)-2*var(--spacing-gutter))] overflow-hidden rounded-board sm:aspect-[16/8] lg:aspect-[1920/760]">
         <SiteImage image={image} fill priority sizes="100vw" />
       </div>
     </section>

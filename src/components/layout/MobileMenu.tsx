@@ -40,7 +40,7 @@ export default function MobileMenu({ items, treatmentMenu, treatmentLinks, bookB
         onClick={open}
         aria-haspopup="dialog"
         aria-controls="mobile-menu"
-        className="inline-flex size-11 items-center justify-center rounded-control text-olive transition-colors hover:bg-sand"
+        className="inline-flex size-11 items-center justify-center rounded-control text-ink transition-colors hover:bg-linen"
       >
         <Menu aria-hidden="true" strokeWidth={1.5} className="size-6" />
         <span className="sr-only">Open menu</span>
@@ -50,15 +50,15 @@ export default function MobileMenu({ items, treatmentMenu, treatmentLinks, bookB
         ref={dialogRef}
         id="mobile-menu"
         aria-label="Menu"
-        className="mobile-menu m-0 ml-auto h-dvh max-h-none w-full max-w-md bg-ivory p-0 text-olive backdrop:bg-olive/40"
+        className="mobile-menu m-0 ml-auto h-dvh max-h-none w-full max-w-md bg-paper p-0 text-ink backdrop:bg-ink/40"
       >
         <div className="flex min-h-full flex-col">
-          <div className="flex items-center justify-between border-b border-taupe/50 px-gutter py-3">
-            <p className="font-serif text-[1.5rem]">Spa Bali Moon</p>
+          <div className="flex items-center justify-between border-b border-line px-gutter py-3">
+            <p className="font-display text-[1.25rem] font-semibold">Spa Bali Moon</p>
             <button
               type="button"
               onClick={close}
-              className="inline-flex size-11 items-center justify-center rounded-control transition-colors hover:bg-sand"
+              className="inline-flex size-11 items-center justify-center rounded-control transition-colors hover:bg-linen"
             >
               <X aria-hidden="true" strokeWidth={1.5} className="size-6" />
               <span className="sr-only">Close menu</span>
@@ -70,20 +70,20 @@ export default function MobileMenu({ items, treatmentMenu, treatmentLinks, bookB
               {items.map((item) => {
                 if (item.label === "Treatments") {
                   return (
-                    <li key={item.label} className="border-b border-taupe/40">
+                    <li key={item.label} className="border-b border-line">
                       <details className="group/treat">
-                        <summary className="flex min-h-14 cursor-pointer list-none items-center justify-between font-serif text-[1.75rem] [&::-webkit-details-marker]:hidden">
+                        <summary className="flex min-h-14 cursor-pointer list-none items-center justify-between font-display text-[1.375rem] font-semibold [&::-webkit-details-marker]:hidden">
                           {item.label}
                           <ChevronDown
                             aria-hidden="true"
                             strokeWidth={1.5}
-                            className="size-5 text-brown transition-transform duration-(--duration-base) group-open/treat:rotate-180"
+                            className="size-5 text-gold-deep transition-transform duration-(--duration-base) group-open/treat:rotate-180"
                           />
                         </summary>
                         <div className="space-y-6 pb-6">
                           {treatmentMenu.map((group) => (
                             <div key={group.label}>
-                              <p className="label-caps text-brown-ink">{group.label}</p>
+                              <p className="meta-label text-stone">{group.label}</p>
                               <ul className="mt-2 grid grid-cols-2 gap-x-4">
                                 {group.items.map((link) => (
                                   <li key={link.href}>
@@ -100,9 +100,9 @@ export default function MobileMenu({ items, treatmentMenu, treatmentLinks, bookB
                               </ul>
                             </div>
                           ))}
-                          <div className="flex gap-6 border-t border-taupe/40 pt-4">
+                          <div className="flex gap-6 border-t border-line pt-4">
                             {treatmentLinks.map((link) => (
-                              <Link key={link.href} href={link.href} onClick={close} className="font-semibold underline decoration-taupe underline-offset-[0.35em]">
+                              <Link key={link.href} href={link.href} onClick={close} className="font-semibold underline decoration-gold underline-offset-[0.35em]">
                                 {link.label}
                               </Link>
                             ))}
@@ -113,12 +113,12 @@ export default function MobileMenu({ items, treatmentMenu, treatmentLinks, bookB
                   );
                 }
                 return (
-                  <li key={item.label} className="border-b border-taupe/40">
+                  <li key={item.label} className="border-b border-line">
                     <Link
                       href={item.href}
                       onClick={close}
                       aria-current={pathname === item.href ? "page" : undefined}
-                      className="flex min-h-14 items-center font-serif text-[1.75rem]"
+                      className="flex min-h-14 items-center font-display text-[1.375rem] font-semibold"
                     >
                       {item.label}
                     </Link>
@@ -128,13 +128,13 @@ export default function MobileMenu({ items, treatmentMenu, treatmentLinks, bookB
             </ul>
           </nav>
 
-          <div className="space-y-4 border-t border-taupe/50 bg-sand px-gutter py-6">
+          <div className="space-y-4 border-t border-line bg-linen px-gutter py-6">
             {bookButton}
-            <p className="flex items-center gap-2 text-small text-brown-ink">
+            <p className="flex items-center gap-2 text-small text-stone">
               <Clock aria-hidden="true" strokeWidth={1.5} className="size-4" />
               {hours}
             </p>
-            <a href={mapsUrl} target="_blank" rel="noopener noreferrer" className="flex items-start gap-2 text-small text-brown-ink underline decoration-taupe underline-offset-[0.3em]">
+            <a href={mapsUrl} target="_blank" rel="noopener noreferrer" className="flex items-start gap-2 text-small text-stone underline decoration-gold underline-offset-[0.3em]">
               <MapPin aria-hidden="true" strokeWidth={1.5} className="mt-0.5 size-4 shrink-0" />
               <span>
                 {address}

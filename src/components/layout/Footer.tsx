@@ -20,25 +20,22 @@ export default function Footer() {
   const year = new Date().getFullYear();
 
   // Every column uses the same heading and link styles, so the columns line up.
-  const headingClass = "label-caps flex min-h-6 items-center text-taupe";
-  const headingLinkClass = "inline-flex min-h-6 items-center transition-colors duration-(--duration-quick) hover:text-ivory";
+  const headingClass = "meta-label flex min-h-6 items-center text-ink";
+  const headingLinkClass = "inline-flex min-h-6 items-center transition-colors duration-(--duration-quick) hover:text-gold-deep";
   const listClass = "mt-4 space-y-1 text-small";
   const linkClass =
-    "inline-block py-1 text-sand underline decoration-transparent underline-offset-[0.3em] transition-colors duration-(--duration-quick) hover:text-ivory hover:decoration-taupe";
+    "inline-block py-1 text-stone underline decoration-transparent underline-offset-[0.3em] transition-colors duration-(--duration-quick) hover:text-ink hover:decoration-gold";
   const socialClass =
-    "inline-flex size-11 items-center justify-center rounded-control bg-olive-cell text-sand transition-colors hover:bg-taupe hover:text-olive";
+    "inline-flex size-11 items-center justify-center rounded-full bg-linen text-ink transition-colors hover:bg-gold-deep hover:text-paper";
 
   return (
-    <footer className="relative overflow-hidden rounded-t-[2.5rem] bg-olive text-sand sm:rounded-t-[3.5rem]">
-      {/* Soft Sage moon in the corner (decoration only) */}
-      <div aria-hidden="true" className="absolute -bottom-60 -left-32 size-80 rounded-full bg-sage/10" />
-
-      <Container className="relative py-section">
+    <footer className="border-t border-line bg-paper text-ink">
+      <Container className="py-section">
         {/* Top: logo, about text and social links on the left; booking on the right */}
-        <div className="flex flex-col gap-8 border-b border-olive-line pb-12 lg:flex-row lg:items-start lg:justify-between">
+        <div className="flex flex-col gap-8 border-b border-line pb-12 lg:flex-row lg:items-start lg:justify-between">
           <div className="max-w-[34rem]">
             <Logo variant="footer" className="h-11" />
-            <p className="mt-6 text-body text-sand">{business.aboutText}</p>
+            <p className="mt-6 text-body text-stone">{business.aboutText}</p>
             <ul className="mt-6 flex items-center gap-2" aria-label="Social media">
               <li>
                 <a href={business.social.instagram} target="_blank" rel="noopener noreferrer" className={socialClass}>
@@ -91,7 +88,7 @@ export default function Footer() {
                 </li>
               ))}
             </ul>
-            <p className="mt-4 inline-block rounded-control bg-olive-cell px-3.5 py-1.5 text-[0.8125rem] text-taupe">
+            <p className="mt-4 text-small text-stone">
               Home service fee: {business.homeService.feeDisplay}
             </p>
           </div>
@@ -102,13 +99,13 @@ export default function Footer() {
                 {footerDaySpaLink.label}
               </Link>
             </h2>
-            <dl className="mt-5 grid gap-x-8 gap-y-4 text-small sm:grid-cols-2">
+            <dl className="mt-5 grid gap-x-8 gap-y-4 text-small text-stone sm:grid-cols-2">
               <div>
-                <dt className="font-semibold text-ivory">{business.openingHours.label}</dt>
+                <dt className="font-semibold text-ink">{business.openingHours.label}</dt>
                 <dd className="mt-0.5">{business.openingHours.display}</dd>
               </div>
               <div>
-                <dt className="font-semibold text-ivory">Phone</dt>
+                <dt className="font-semibold text-ink">Phone</dt>
                 <dd>
                   <a href={whatsappLink()} target="_blank" rel="noopener noreferrer" className={`numeric whitespace-nowrap ${linkClass}`}>
                     {business.phoneDisplay}
@@ -117,7 +114,7 @@ export default function Footer() {
                 </dd>
               </div>
               <div>
-                <dt className="font-semibold text-ivory">Address</dt>
+                <dt className="font-semibold text-ink">Address</dt>
                 <dd>
                   <a href={business.mapsUrl} target="_blank" rel="noopener noreferrer" className={linkClass}>
                     {business.address.short}
@@ -126,15 +123,15 @@ export default function Footer() {
                 </dd>
               </div>
               <div>
-                <dt className="font-semibold text-ivory">Accepted Payments</dt>
-                <dd className="mt-0.5">{business.acceptedPayments.join(" · ")}</dd>
+                <dt className="font-semibold text-ink">Accepted Payments</dt>
+                <dd className="mt-0.5">{business.acceptedPayments.join(", ")}</dd>
               </div>
             </dl>
           </div>
         </div>
 
         {/* Bottom line */}
-        <div className="mt-14 flex flex-col gap-3 border-t border-olive-line pt-6 text-[0.8125rem] text-sand sm:flex-row sm:items-center sm:justify-between">
+        <div className="mt-14 flex flex-col gap-3 border-t border-line pt-6 text-[0.8125rem] text-stone sm:flex-row sm:items-center sm:justify-between">
           <p>
             All Rights Reserved © {year} {business.name}
           </p>

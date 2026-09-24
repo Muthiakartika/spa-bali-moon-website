@@ -15,17 +15,17 @@ export default function TextPageContent({ page }: { page: TextPage }) {
   const tagFor = (level: number) => (["h2", "h3", "h4"] as const)[Math.min(level - top, 2)];
 
   return (
-    <article className="bg-ivory">
+    <article className="bg-paper">
       <Container className="pb-section pt-12 sm:pt-16 lg:pt-20">
-        <nav aria-label="Breadcrumb" className="text-small text-brown-ink">
+        <nav aria-label="Breadcrumb" className="text-small text-stone">
           <ol className="flex flex-wrap items-center gap-2">
             <li>
-              <Link href="/" className="inline-block py-1 underline decoration-taupe underline-offset-[0.3em] hover:text-olive">
+              <Link href="/" className="inline-block py-1 underline decoration-gold underline-offset-[0.3em] hover:text-ink">
                 Home
               </Link>
             </li>
             <li aria-hidden="true">/</li>
-            <li aria-current="page" className="text-olive">
+            <li aria-current="page" className="text-ink">
               {page.title}
             </li>
           </ol>
@@ -43,7 +43,7 @@ export default function TextPageContent({ page }: { page: TextPage }) {
               case "paragraph":
                 return (
                   <p key={i}>
-                    {block.lead && <strong className="font-semibold text-olive">{block.lead} </strong>}
+                    {block.lead && <strong className="font-semibold text-ink">{block.lead} </strong>}
                     {block.text}
                   </p>
                 );
@@ -52,7 +52,7 @@ export default function TextPageContent({ page }: { page: TextPage }) {
                   <ul key={i}>
                     {block.items.map((item) => (
                       <li key={item.text}>
-                        {item.lead && <strong className="font-semibold text-olive">{item.lead} </strong>}
+                        {item.lead && <strong className="font-semibold text-ink">{item.lead} </strong>}
                         {item.text}
                       </li>
                     ))}

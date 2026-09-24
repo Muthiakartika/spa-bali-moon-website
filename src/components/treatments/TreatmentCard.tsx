@@ -31,22 +31,22 @@ export default function TreatmentCard({
           alt=""
           fill
           sizes="(min-width: 1024px) 22vw, (min-width: 640px) 40vw, 78vw"
-          className="transition-transform duration-(--duration-slow) ease-out-expo group-hover:scale-[1.03]"
+          className="transition-transform duration-(--duration-drift) ease-(--ease-calm) group-hover:scale-[1.03]"
         />
       </div>
-      {label && <p className="label-caps numeric mt-4 text-sage-deep">{label}</p>}
-      <Heading className={`${label ? "mt-1.5" : "mt-4"} font-serif text-[1.55rem] leading-tight text-olive`}>
+      {label && <p className="meta-label numeric mt-4 text-gold-deep">{label}</p>}
+      <Heading className={`${label ? "mt-1.5" : "mt-4"} font-display text-[1.25rem] font-semibold leading-snug tracking-[-0.01em] text-ink`}>
         <Link href={`/seminyak/${treatment.slug}/`} className="after:absolute after:inset-0">
           {name}
         </Link>
       </Heading>
       {showDescription && treatment.shortDescription && (
-        <p className="mt-2 text-small text-brown-ink">{treatment.shortDescription}</p>
+        <p className="mt-2 text-small text-stone">{treatment.shortDescription}</p>
       )}
       <ArrowUpRight
         aria-hidden="true"
         strokeWidth={1.5}
-        className="absolute right-3 top-3 size-9 rounded-full bg-ivory/90 p-2 text-olive opacity-0 transition-opacity duration-(--duration-quick) group-hover:opacity-100"
+        className="absolute right-3 top-3 size-9 rounded-full bg-paper/90 p-2 text-ink opacity-0 transition-opacity duration-(--duration-quick) group-hover:opacity-100"
       />
     </article>
   );

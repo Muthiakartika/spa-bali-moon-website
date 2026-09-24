@@ -52,8 +52,8 @@ export default function ContactForm({ fields, submitLabel, resetLabel }: { field
   ];
 
   const inputClass =
-    "mt-2 w-full rounded-control border border-taupe bg-ivory px-4 py-3 text-body text-olive placeholder:text-brown-ink/70 " +
-    "transition-colors focus:border-olive focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-sage-deep";
+    "mt-2 w-full rounded-control border border-line bg-paper px-4 py-3 text-body text-ink placeholder:text-stone/70 " +
+    "transition-colors focus:border-ink focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gold-deep";
 
   return (
     <form onSubmit={onSubmit} onReset={() => setError(null)} noValidate className="grid gap-5 sm:grid-cols-2">
@@ -64,7 +64,7 @@ export default function ContactForm({ fields, submitLabel, resetLabel }: { field
         const wide = cfg.type === "textarea" || cfg.name === "subject";
         return (
           <div key={field.label} className={wide ? "sm:col-span-2" : ""}>
-            <label htmlFor={id} className="text-small font-semibold text-olive">
+            <label htmlFor={id} className="text-small font-semibold text-ink">
               {field.label}
             </label>
             {cfg.type === "textarea" ? (
@@ -91,9 +91,9 @@ export default function ContactForm({ fields, submitLabel, resetLabel }: { field
           {resetLabel}
         </Button>
       </div>
-      <p className="text-small text-brown-ink sm:col-span-2">Your message opens in WhatsApp, ready to send.</p>
+      <p className="text-small text-stone sm:col-span-2">Your message opens in WhatsApp, ready to send.</p>
       {error && (
-        <p role="alert" className="text-small font-semibold text-olive sm:col-span-2">
+        <p role="alert" className="text-small font-semibold text-ink sm:col-span-2">
           {error}
         </p>
       )}

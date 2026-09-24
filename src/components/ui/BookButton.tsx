@@ -35,11 +35,12 @@ export default function BookButton({
       href={whatsappLink({ treatment, packageName, source })}
       variant={variant}
       size={size}
-      className={className}
+      className={`group/book ${className}`}
       external
       aria-label={subject ? `${label}: ${subject} on WhatsApp (opens in a new tab)` : `${label} on WhatsApp (opens in a new tab)`}
     >
-      <WhatsAppIcon />
+      {/* the icon nudges toward the label on hover (180ms) */}
+      <WhatsAppIcon className="size-[1.15em] transition-transform duration-(--duration-quick) ease-(--ease-calm) group-hover/book:translate-x-0.5 group-hover/book:-rotate-8" />
       <span>{label}</span>
     </ButtonLink>
   );

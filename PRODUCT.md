@@ -44,7 +44,7 @@ An established (since 2009) independent Seminyak spa with a full menu (massage, 
 - Name: Spa Bali Moon. Existing logo: gold lotus mark + wordmark (`public/images/branding/`).
 - Original Spa Bali Moon photography only (`public/images/`). No stock, AI or placeholder imagery.
 - The owner's brief sets the direction: calm, warm, organic, minimal, modern, tropical, refined, subtly feminine; premium but approachable; a modern independent Bali spa, NOT a medical clinic, five-star resort, ThemeForest template, corporate wellness brand, bright pink salon or overly bohemian site.
-- **Brand colors (confirmed by the owner, Sept 2026 — never replace or add hues):** Warm Ivory #F6F1E9, Soft Sand #E8DDCF, Warm Taupe #B7A28E, Muted Sage #889481, Deep Olive #33382F, Warm Brown #806B59. Only tints/shades of these for states and contrast. Base stays light. No heavy gradients, neon, excess gold or excess dark sections.
+- **Brand colors (owner, 24 Sept 2026 — copy the live website spabalimoon.com):** White #FFFFFF, Linen #F5F2EC, Cream #F2E6DD, Gold #A78627 (brand accent, logo), Ink #1C1A1D (headings), Stone #5F5A54 (secondary text), hairline #DFDADA. Only tints/shades of these for states and contrast (e.g. Gold Deep #7E6519 for buttons with white text). Replaces the earlier six-colour brief palette (Ivory/Sand/Taupe/Sage/Olive/Brown).
 - Typography pinned by the brief: an editorial serif (Instrument Serif or similar) for headings and a modern sans (Manrope or similar) for body.
 
 ## Evidence on Hand

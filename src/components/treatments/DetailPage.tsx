@@ -34,7 +34,7 @@ export default function DetailPage({
         source={source}
       />
       <PageSections sections={page.sections} treatment={treatmentName ?? page.hero.title} source={source} />
-      {page.faq && <FaqSection faq={page.faq} tone="sand" />}
+      {page.faq && <FaqSection faq={page.faq} tone="linen" />}
       {page.related && <RelatedTreatments heading={page.related.heading} note={page.related.eyebrow} currentSlug={currentSlug} />}
       {page.cta && <BookingCTA cta={page.cta} treatment={treatmentName} source={source} />}
     </>

@@ -1,74 +1,49 @@
-import { ButtonLink } from "@/components/ui/Button";
+import { ArrowRight } from "lucide-react";
+import Link from "next/link";
 import BookButton from "@/components/ui/BookButton";
 import Container from "@/components/ui/Container";
 import SiteImage from "@/components/ui/SiteImage";
-import TreatmentBoard from "@/components/treatments/TreatmentBoard";
 import { headerBookingLabel } from "@/data/navigation";
 import { homePage } from "@/data/pages/home";
-import { getPriceItem } from "@/data/pricelist";
 
 /**
- * Homepage hero: the H1 and intro from the old homepage, the two original hero photos,
- * and a small treatment board showing real prices straight away.
- * Text: src/data/pages/home.ts (hero). Board rows: the first price of each item below.
+ * Homepage hero: one full-width spa photo with the H1, intro and booking button on top.
+ * Text: src/data/pages/home.ts (hero). The photo is an existing site photo (frangipani massage).
+ * A dark gradient on the left keeps the white text readable over the photo.
  */
-const heroBoardItems = ["balinese-massage", "hot-stone-massage", "couple-balinese-massage"];
+const heroPhoto = {
+  src: "/images/home/shared/homepage-28.webp",
+  alt: "",
+  width: 1920,
+  height: 898,
+};
 
 export default function Hero() {
   const { hero } = homePage;
-  const [photoA, photoB] = hero.images;
-
-  const rows = heroBoardItems.map((id) => {
-    const item = getPriceItem(id);
-    const first = item.options[0];
-    return {
-      name: item.homeName ?? item.pricelistName ?? id,
-      showName: true,
-      option: first.homeLabel ?? first.label,
-      price: first.price,
-      href: item.pageSlug ? `/seminyak/${item.pageSlug}/` : undefined,
-    };
-  });
 
   return (
-    <section aria-labelledby="home-title" className="overflow-hidden bg-ivory">
-      <Container className="grid gap-12 pb-section pt-12 sm:pt-16 lg:grid-cols-12 lg:gap-10 lg:pt-20">
-        <div className="flex flex-col justify-center lg:col-span-5">
-          <h1 id="home-title" className="text-display text-olive">
+    <section aria-labelledby="home-title" className="relative isolate overflow-hidden bg-ink">
+      <SiteImage image={heroPhoto} fill priority sizes="100vw" className="-z-10 object-cover object-[70%_center]" />
+      {/* Readability: dark on the left where the text sits, clear on the right where the photo speaks */}
+      <div aria-hidden="true" className="absolute inset-0 -z-10 bg-gradient-to-r from-ink/90 via-ink/60 to-ink/10" />
+      <div aria-hidden="true" className="absolute inset-x-0 bottom-0 -z-10 h-1/3 bg-gradient-to-t from-ink/50 to-transparent" />
+
+      <Container className="flex min-h-[min(88dvh,46rem)] flex-col justify-center py-20 sm:py-24">
+        <div className="max-w-[36rem]">
+          <h1 id="home-title" className="text-display text-paper">
             {hero.title}
           </h1>
-          <p className="mt-6 max-w-[44ch] text-lead text-brown-ink">{hero.text}</p>
-          <div className="mt-9 flex flex-wrap gap-3">
+          <p className="mt-6 max-w-[46ch] text-lead text-linen/90">{hero.text}</p>
+          <div className="mt-9 flex flex-wrap items-center gap-x-6 gap-y-4">
             <BookButton label={headerBookingLabel} size="lg" />
-            <ButtonLink href="/seminyak/" variant="secondary" size="lg">
+            <Link
+              href="/seminyak/"
+              className="group inline-flex min-h-12 items-center gap-2 font-medium text-paper underline decoration-paper/40 underline-offset-[0.35em] transition-colors hover:decoration-paper"
+            >
               Explore Treatments
-            </ButtonLink>
+              <ArrowRight aria-hidden="true" strokeWidth={1.5} className="size-4 transition-transform duration-(--duration-quick) group-hover:translate-x-0.5" />
+            </Link>
           </div>
-        </div>
-
-        <div className="relative lg:col-span-7">
-          {/* Soft brand shapes behind the photos: a Taupe moon and a Sage leaf */}
-          <div aria-hidden="true" className="absolute -right-24 -top-12 size-80 rounded-full bg-taupe/40 sm:size-[28rem]" />
-          <div aria-hidden="true" className="absolute -left-10 top-1/3 size-44 rounded-[60%_40%_55%_45%] bg-sage/45 sm:size-56" />
-          <div className="relative grid grid-cols-[1.15fr_1fr] items-start gap-4 sm:gap-5">
-            {photoA && (
-              <div className="arch relative aspect-[388/561] overflow-hidden">
-                <SiteImage image={photoA} fill priority sizes="(min-width: 1024px) 30vw, 52vw" />
-              </div>
-            )}
-            {photoB && (
-              <div className="relative mt-16 aspect-[337/452] overflow-hidden rounded-card sm:mt-24">
-                <SiteImage image={photoB} fill priority sizes="(min-width: 1024px) 26vw, 45vw" />
-              </div>
-            )}
-          </div>
-          <TreatmentBoard
-            tabs={[{ id: "hero", label: "Treatments", rows }]}
-            hideTabs
-            caption="A few of our treatment prices"
-            source="Homepage"
-            className="relative -mt-20 ml-auto w-full sm:-mt-28 sm:w-[88%] lg:w-[94%]"
-          />
         </div>
       </Container>
     </section>

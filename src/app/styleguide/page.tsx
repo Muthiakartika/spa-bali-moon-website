@@ -20,20 +20,19 @@ export const metadata: Metadata = {
 };
 
 const colors = [
-  { name: "Warm Ivory", token: "ivory", hex: "#F6F1E9", role: "Page background", text: "text-olive" },
-  { name: "Soft Sand", token: "sand", hex: "#E8DDCF", role: "Soft bands, cards, reviews", text: "text-olive" },
-  { name: "Warm Taupe", token: "taupe", hex: "#B7A28E", role: "Moon shapes, prices on dark, tabs", text: "text-olive" },
-  { name: "Muted Sage", token: "sage", hex: "#889481", role: "Leaf shapes, dots, icons", text: "text-olive" },
-  { name: "Deep Olive", token: "olive", hex: "#33382F", role: "Ink, treatment menu, footer", text: "text-ivory" },
-  { name: "Warm Brown", token: "brown", hex: "#806B59", role: "Buttons, badges, booking panel", text: "text-ivory" },
+  { name: "Paper", token: "paper", hex: "#FFFFFF", role: "Page background", text: "text-ink" },
+  { name: "Linen", token: "linen", hex: "#F5F2EC", role: "Soft bands, cards, reviews", text: "text-ink" },
+  { name: "Cream", token: "cream", hex: "#F2E6DD", role: "Warm band, soft shapes", text: "text-ink" },
+  { name: "Gold", token: "gold", hex: "#A78627", role: "Brand accent: icons, dots, prices on dark", text: "text-ink" },
+  { name: "Ink", token: "ink", hex: "#1C1A1D", role: "Headings, dark panels, footer", text: "text-paper" },
+  { name: "Stone", token: "stone", hex: "#5F5A54", role: "Small secondary text", text: "text-paper" },
 ];
 
 const shades = [
-  { name: "brown-deep", hex: "#74604F", role: "Brown buttons with ivory text · 5.3:1" },
-  { name: "brown-ink", hex: "#695C4C", role: "Small secondary text · 5.8:1 ivory · 4.8:1 sand" },
-  { name: "sage-mist", hex: "#E1E5DC", role: "Light sage section band" },
-  { name: "sage-deep", hex: "#5F6A58", role: "Sage as text / focus ring · 5:1" },
-  { name: "olive-cell", hex: "#3C4137", role: "Cards and tabs inside the olive menu" },
+  { name: "gold-deep", hex: "#7E6519", role: "Gold buttons with white text · 5.6:1" },
+  { name: "line", hex: "#DFDADA", role: "Hairlines and card borders" },
+  { name: "ink-cell", hex: "#2A272B", role: "Cards and tabs inside the dark menu" },
+  { name: "ink-line", hex: "#3A363B", role: "Hairline inside dark panels" },
 ];
 
 export default function StyleguidePage() {
@@ -53,28 +52,28 @@ export default function StyleguidePage() {
   return (
     <div>
       <Section spacing="both">
-        <p className="label-caps text-brown-ink">Internal · not indexed</p>
+        <p className="meta-label text-stone">Internal · not indexed</p>
         <h1 className="mt-4 text-display">Design system</h1>
-        <p className="mt-6 max-w-[60ch] text-lead text-brown-ink">
+        <p className="mt-6 max-w-[60ch] text-lead text-stone">
           Tokens live in src/app/globals.css. Building blocks live in src/components/ui. Every sample below uses real
           Spa Bali Moon content from src/data.
         </p>
       </Section>
 
       {/* Colours */}
-      <Section tone="sand" labelledBy="sg-colors">
+      <Section tone="linen" labelledBy="sg-colors">
         <h2 id="sg-colors" className="text-title">
           Brand colours
         </h2>
         <ul className="mt-10 grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-6">
           {colors.map((c) => (
-            <li key={c.token} className="overflow-hidden rounded-cell border border-taupe/50 bg-ivory">
+            <li key={c.token} className="overflow-hidden rounded-cell border border-line bg-paper">
               <div className={`flex h-28 items-end p-3 ${c.text}`} style={{ backgroundColor: c.hex }}>
-                <span className="label-caps">{c.hex}</span>
+                <span className="meta-label">{c.hex}</span>
               </div>
               <div className="p-3">
                 <p className="font-semibold">{c.name}</p>
-                <p className="text-small text-brown-ink">{c.role}</p>
+                <p className="text-small text-stone">{c.role}</p>
               </div>
             </li>
           ))}
@@ -86,7 +85,7 @@ export default function StyleguidePage() {
               <span className="size-12 shrink-0 rounded-cell" style={{ backgroundColor: s.hex }} />
               <span>
                 <span className="block font-semibold">{s.name}</span>
-                <span className="block text-small text-brown-ink">{s.role}</span>
+                <span className="block text-small text-stone">{s.role}</span>
               </span>
             </li>
           ))}
@@ -95,18 +94,18 @@ export default function StyleguidePage() {
 
       {/* Typography */}
       <Section labelledBy="sg-type">
-        <h2 id="sg-type" className="label-caps text-brown-ink">
+        <h2 id="sg-type" className="meta-label text-stone">
           Typography — Instrument Serif &amp; Manrope
         </h2>
         <div className="mt-10 space-y-8">
-          <p className="font-serif text-display">Our Seminyak Day Spa</p>
-          <p className="font-serif text-title">What Makes Balinese Massage Unique?</p>
-          <p className="font-serif text-subtitle">Traditional Techniques</p>
-          <p className="max-w-[62ch] text-lead text-brown-ink">
+          <p className="font-display text-display font-semibold">Our Seminyak Day Spa</p>
+          <p className="font-display text-title font-semibold">What Makes Balinese Massage Unique?</p>
+          <p className="font-display text-subtitle font-semibold">Traditional Techniques</p>
+          <p className="max-w-[62ch] text-lead text-stone">
             Since 2009, Spa Bali Moon has provided professional Balinese massage and spa treatments in Seminyak, Bali.
           </p>
           <p className="max-w-[68ch] text-body">{intro && intro.type === "intro" ? intro.paragraphs?.[0] : null}</p>
-          <p className="label-caps text-brown-ink">Treatment · Option · Price</p>
+          <p className="meta-label text-stone">Treatment · Option · Price</p>
           <p className="text-title">
             <Price value={159_000} withCurrency />
           </p>
@@ -114,8 +113,8 @@ export default function StyleguidePage() {
       </Section>
 
       {/* Buttons */}
-      <Section tone="sand" labelledBy="sg-buttons">
-        <h2 id="sg-buttons" className="label-caps text-brown-ink">
+      <Section tone="linen" labelledBy="sg-buttons">
+        <h2 id="sg-buttons" className="meta-label text-stone">
           Buttons
         </h2>
         <div className="mt-8 flex flex-wrap items-center gap-4">
@@ -140,7 +139,7 @@ export default function StyleguidePage() {
       </Section>
 
       {/* The board */}
-      <section aria-labelledby="sg-board" className="bg-ivory pb-section">
+      <section aria-labelledby="sg-board" className="bg-paper pb-section">
         <Container>
           <SectionHeading
             id="sg-board"
@@ -158,7 +157,7 @@ export default function StyleguidePage() {
       </section>
 
       {/* Images + FAQ */}
-      <Section tone="sand" labelledBy="sg-faq">
+      <Section tone="linen" labelledBy="sg-faq">
         <div className="grid gap-12 lg:grid-cols-12">
           <div className="relative aspect-[4/5] overflow-hidden lg:col-span-5">
             {balinese.faq?.image && (
@@ -172,7 +171,7 @@ export default function StyleguidePage() {
                   id="sg-faq"
                   title={balinese.faq.heading}
                   note={balinese.faq.subheading}
-                  layout="stacked"
+                 
                 />
                 <div className="mt-10">
                   <Accordion items={balinese.faq.items} />

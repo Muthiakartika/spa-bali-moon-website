@@ -1,3 +1,4 @@
+import { Check } from "lucide-react";
 import BookButton from "@/components/ui/BookButton";
 import { ButtonLink } from "@/components/ui/Button";
 import Section from "@/components/ui/Section";
@@ -27,29 +28,28 @@ export default function ListBlock({
       <div className="grid gap-12 lg:grid-cols-12 lg:items-center lg:gap-16">
         {section.image && (
           <figure className={`relative lg:col-span-5 ${flip ? "lg:order-2 lg:col-start-8" : ""}`}>
-            <div className={`relative aspect-[4/5] overflow-hidden ${flip ? "rounded-board" : "arch"}`}>
+            <div data-motion="photo" className={`relative aspect-[4/5] overflow-hidden ${flip ? "rounded-board" : "arch"}`}>
               <SiteImage image={section.image} fill sizes="(min-width: 1024px) 38vw, 100vw" />
             </div>
+            {/* Badge / caption from the old site, shown under the photo (not on top of it) */}
             {section.imageBadge && (
-              <figcaption className="absolute -bottom-6 left-6 rounded-card bg-brown-deep px-5 py-4 text-ivory shadow-[var(--shadow-lift)]">
-                <span className="block font-serif text-[1.9rem] leading-none">{section.imageBadge[0]}</span>
-                <span className="label-caps mt-1 block text-ivory">{section.imageBadge.slice(1).join(" ")}</span>
+              <figcaption className="mt-5 flex items-baseline gap-3">
+                <span className="font-display text-[1.75rem] font-semibold leading-none tracking-[-0.02em] text-gold-deep">{section.imageBadge[0]}</span>
+                <span className="text-small text-stone">{section.imageBadge.slice(1).join(" ")}</span>
               </figcaption>
             )}
             {section.imageCaption && (
-              <figcaption className="absolute -bottom-6 right-6 max-w-[70%] rounded-card bg-sage-mist px-5 py-3 font-serif text-[1.35rem] italic leading-tight text-olive shadow-[var(--shadow-lift)]">
-                {section.imageCaption.join(" ")}
-              </figcaption>
+              <figcaption className="mt-5 text-[1.0625rem] font-semibold leading-snug text-ink">{section.imageCaption.join(" ")}</figcaption>
             )}
           </figure>
         )}
         <div className={section.image ? `lg:col-span-7 ${flip ? "lg:order-1" : ""}` : "lg:col-span-12"}>
-          <SectionHeading id={id} title={section.heading} note={section.eyebrow} intro={section.paragraphs} layout="stacked" />
+          <SectionHeading id={id} title={section.heading} note={section.eyebrow} intro={section.paragraphs} />
           {section.items.length > 0 && (
             <ul className="mt-8 grid gap-x-8 gap-y-3 sm:grid-cols-2">
               {section.items.map((item) => (
                 <li key={item} className="flex gap-3 text-body">
-                  <span aria-hidden="true" className="mt-[0.6em] size-2 shrink-0 rounded-full bg-sage" />
+                  <Check aria-hidden="true" strokeWidth={1.75} className="mt-1 size-4 shrink-0 text-gold-deep" />
                   {item}
                 </li>
               ))}

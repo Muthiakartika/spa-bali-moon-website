@@ -13,7 +13,7 @@ export default function Logo({ variant = "header", className = "h-8" }: { varian
       : { src: "/images/branding/smbtitle-footer.svg", width: 476, height: 95 };
 
   return (
-    <Link href="/" aria-label="Spa Bali Moon — home" className="inline-flex shrink-0 items-center">
+    <Link href="/" aria-label="Spa Bali Moon, home" className="inline-flex shrink-0 items-center">
       <Image
         src={file.src}
         width={file.width}

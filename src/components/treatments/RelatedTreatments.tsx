@@ -20,11 +20,12 @@ export default function RelatedTreatments({
     .filter((treatment): treatment is Treatment => Boolean(treatment));
 
   return (
-    <section aria-labelledby="related-heading" className="bg-ivory pb-section">
+    <section aria-labelledby="related-heading" className="bg-paper pb-section">
       <Container>
         <SectionHeading id="related-heading" title={heading.replace(" / ", " ")} note={note} />
       </Container>
       <div
+        data-motion="rise"
         tabIndex={0}
         role="region"
         aria-label={`${heading.replace(" / ", " ")} (scroll sideways)`}

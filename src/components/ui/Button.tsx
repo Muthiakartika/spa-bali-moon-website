@@ -8,32 +8,32 @@ import Link from "next/link";
  *   <Button type="submit">Send message</Button>
  *
  * variant:
- *   primary   — Warm Brown pill, the main action on a screen (booking)
- *   secondary — outlined pill, for the second action next to a primary one
- *   light     — Ivory pill, for use on dark panels or on photos
+ *   primary   — filled gold button, the main action on a screen (booking)
+ *   secondary — outlined button, for the second action next to a primary one
+ *   light     — white button, for use on dark panels or on photos
  *   text      — a quiet underlined link with an arrow
  */
 type Variant = "primary" | "secondary" | "light" | "text";
 type Size = "md" | "lg";
 
 const base =
-  "inline-flex items-center justify-center gap-2.5 whitespace-nowrap font-sans font-semibold tracking-[0.01em] " +
-  "transition-[background-color,color,border-color,box-shadow,transform] duration-(--duration-quick) ease-out-expo " +
-  "disabled:cursor-not-allowed disabled:opacity-50 active:translate-y-px";
+  "inline-flex items-center justify-center gap-2 whitespace-nowrap font-sans font-medium " +
+  "transition-[background-color,color,border-color,box-shadow,opacity,transform] duration-(--duration-press) ease-(--ease-calm) " +
+  "disabled:cursor-not-allowed disabled:opacity-50 active:scale-[0.98] active:opacity-90";
 
 const variants: Record<Variant, string> = {
-  primary: "rounded-control bg-brown-deep text-ivory hover:bg-olive hover:shadow-lift",
+  primary: "rounded-control bg-gold-deep text-paper shadow-(--shadow-button) hover:bg-ink",
   secondary:
-    "rounded-control border border-brown/60 bg-transparent text-olive hover:border-brown-deep hover:bg-brown-deep hover:text-ivory",
-  light: "rounded-control bg-ivory text-olive hover:bg-taupe",
+    "rounded-control border border-ink/40 bg-transparent text-ink hover:border-ink hover:bg-ink/[0.04]",
+  light: "rounded-control bg-paper text-ink shadow-(--shadow-button) hover:bg-linen",
   text:
-    "text-olive underline decoration-taupe decoration-1 underline-offset-[0.35em] hover:decoration-olive " +
+    "text-ink underline decoration-gold decoration-1 underline-offset-[0.35em] hover:decoration-ink " +
     "[&>svg]:transition-transform [&>svg]:duration-(--duration-quick) hover:[&>svg]:translate-x-0.5",
 };
 
 const sizes: Record<Size, string> = {
-  md: "min-h-11 px-5 text-[0.9375rem]",
-  lg: "min-h-13 px-7 text-base",
+  md: "min-h-11 px-4 text-[0.9375rem]",
+  lg: "min-h-12 px-6 text-base",
 };
 
 export function buttonClasses(variant: Variant = "primary", size: Size = "md", extra = "") {

@@ -10,10 +10,10 @@ export default function PackagesBlock({ section, id, source }: { section: Packag
   const group = getPackageGroup(section.packageGroup);
   const photo = section.images?.[0];
   return (
-    <Section tone="sand" labelledBy={id}>
+    <Section tone="linen" labelledBy={id}>
       <div className="grid gap-10 lg:grid-cols-12 lg:items-center">
         <div className="lg:col-span-7">
-          <SectionHeading id={id} title={section.heading} note={section.eyebrow} intro={section.paragraphs} layout="stacked" />
+          <SectionHeading id={id} title={section.heading} note={section.eyebrow} intro={section.paragraphs} />
         </div>
         {photo && (
           <div className="relative aspect-[3/2] overflow-hidden rounded-cell lg:col-span-5">
