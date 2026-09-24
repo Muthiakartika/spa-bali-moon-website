@@ -51,5 +51,11 @@ export const contactPage = {
     address: "Jl. Pangkung Sari No. 30, Petitenget, Seminyak, Kerobokan Kuta Utara, Badung, Bali 80361",
     hours: "Open daily · 9:00 – 22:00",
     directionsLabel: "Get Directions",
+    // Google Maps embed from the old /contact/ page (same URL and title).
+    map: {
+      embedUrl:
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.3276299088775!2d115.15814147462666!3d-8.678060388355467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd2471415de2293%3A0xe1802d70253e801f!2sSpa%20Bali%20Moon!5e1!3m2!1sen!2sid!4v1778467217568!5m2!1sen!2sid",
+      title: "Map showing Spa Bali Moon in Seminyak, Bali",
+    },
   },
 };

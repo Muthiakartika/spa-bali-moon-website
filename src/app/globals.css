@@ -293,6 +293,11 @@ dialog.mobile-menu[open]::backdrop {
     border-radius: var(--radius-arch);
   }
 
+  /* Spa menu card (pricelist): rows fade up when a tab is chosen */
+  .reveal-row {
+    animation: rise-in var(--duration-tab) var(--ease-calm) backwards;
+  }
+
   /* Treatment-menu rows cross-fade in when the menu appears or a tab changes */
   [data-reveal="on"] .reveal {
     animation: rise-in var(--duration-tab) var(--ease-calm) backwards;

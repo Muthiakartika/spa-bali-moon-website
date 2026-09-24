@@ -52,7 +52,7 @@ export default function ContactForm({ fields, submitLabel, resetLabel }: { field
   ];
 
   const inputClass =
-    "mt-2 w-full rounded-control border border-line bg-paper px-4 py-3 text-body text-ink placeholder:text-stone/70 " +
+    "mt-2 w-full rounded-control border border-stone/45 bg-linen/40 px-4 py-3 text-body text-ink placeholder:text-stone " +
     "transition-colors focus:border-ink focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gold-deep";
 
   return (

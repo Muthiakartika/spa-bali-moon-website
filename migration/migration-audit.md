@@ -1093,3 +1093,14 @@ Owner may choose another existing photo, or supply a dedicated 1200×630 share i
 STATUS:
 REQUIRES MANUAL REVIEW
 
+
+### BUILD-05
+
+ISSUE:
+INFO — Google Maps embed restored on /contact/ (2026-09-24)
+
+VALUE
+The old /contact/ page had a Google Maps embed ("Map showing Spa Bali Moon in Seminyak, Bali") that was missed in the first migration pass. It is now back, beside the "Find Us" card, with the exact same embed URL and title (stored in `src/data/pages/contact.ts` → `findUs.map`). It loads lazily and only when the visitor scrolls near it.
+
+STATUS:
+INFO — no decision needed

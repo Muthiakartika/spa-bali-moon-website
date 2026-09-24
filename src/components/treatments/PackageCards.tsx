@@ -14,6 +14,7 @@ export default function PackageCards({
   buttonHref,
   source,
   headingLevel = "h3",
+  gridClassName = "sm:grid-cols-2 xl:grid-cols-4",
 }: {
   group: PackageGroup;
   priceOverrides?: Record<string, number>;
@@ -22,10 +23,12 @@ export default function PackageCards({
   buttonHref?: string;
   source?: string;
   headingLevel?: "h3" | "h4";
+  /** Column classes for the grid of cards (default: 2 columns, 4 on large screens). */
+  gridClassName?: string;
 }) {
   const Heading = headingLevel;
   return (
-    <ul className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
+    <ul className={`grid gap-4 ${gridClassName}`}>
       {group.packages.map((pkg) => {
         const price = priceOverrides?.[pkg.name] ?? pkg.price;
         const fullName = `${group.title} ${pkg.name}`;
