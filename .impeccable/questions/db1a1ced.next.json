@@ -1,0 +1,97 @@
+{
+  "title": "Spa Bali Moon: re-roll (bolder)",
+  "question": "Hand yang lebih berani. Semua kartu memakai 6 warna brand (Warm Ivory, Soft Sand, Warm Taupe, Muted Sage, Deep Olive, Warm Brown). Yang berbeda hanya bentuk, komposisi dan interaksinya.",
+  "options": [
+    {
+      "id": "assigned",
+      "label": "The Treatment Specimen",
+      "kicker": "THE ROLL",
+      "lineage": "interactive variable-font specimen sheets",
+      "thesis": "Each treatment set like a type specimen: drag the duration and the name and price re-set live.",
+      "palette": ["#F6F1E9", "#33382F", "#B7A28E", "#889481", "#E8DDCF", "#806B59"],
+      "materials": ["enormous editorial serif display", "tiny Manrope labels and live readouts", "flat ivory paper, no ornament"],
+      "viewport": "One treatment name ('Balinese Massage') fills the width in huge serif; beneath it a duration slider (1 · 1.5 · 2 hours) moves a live 'IDR 159K' readout; photo inset; WhatsApp button books exactly what is selected.",
+      "risk": "A type specimen is a designer's artifact; it may feel cold unless the photography carries warmth.",
+      "raised": [
+        { "from": "Panel-Wrap Photo", "raise": "One original photograph per page is scaled boldly across the layout instead of many small thumbnails." },
+        { "from": "Garden Axis", "raise": "Every page opens on one long sightline: a single centered axis the eye travels down to the booking action." }
+      ]
+    },
+    {
+      "id": "challenger-splitflap",
+      "label": "The Treatment Board",
+      "verdict": "wins",
+      "lineage": "airport and rail split-flap departure boards",
+      "thesis": "The spa menu as a departure board every traveler already knows how to read: treatment, duration, price, book.",
+      "palette": ["#33382F", "#F6F1E9", "#B7A28E", "#889481", "#E8DDCF", "#806B59"],
+      "materials": ["deep-olive flap cells with ivory letters", "taupe board frame", "ivory page around the board"],
+      "viewport": "Photo hero with the H1; below the fold a single deep-olive board lists treatments in fixed columns; switching Massage/Beauty/For Couples cascades the flaps; each row ends in a WhatsApp 'Book' cell.",
+      "case": "Wins both axes: tourists read boards instinctively and it is the clearest price table possible.",
+      "risk": "Transit/industrial if overused; the dark board must stay one contained object, not dark sections."
+    },
+    {
+      "id": "challenger-ribbon",
+      "label": "Silk Selendang Ribbon",
+      "verdict": "competitive",
+      "lineage": "late-modern corporate prospectus, one rendered ribbon of color",
+      "thesis": "Almost everything is empty ivory; all the color is spent on one continuous silk sash of sage, taupe and sand.",
+      "palette": ["#F6F1E9", "#33382F", "#889481", "#B7A28E", "#E8DDCF"],
+      "materials": ["one rendered silk ribbon (like a temple selendang)", "hairline rules", "two weights of one sans"],
+      "viewport": "Headline left over 48% of the width; the silk ribbon unfurls across the right bleed behind a single treatment photo; one olive booking button.",
+      "case": "Competitive: very calm and clear, but its corporate origin fights 'not a corporate wellness brand'.",
+      "risk": "Slides toward corporate polish if the photography is too small."
+    },
+    {
+      "id": "challenger-drawcord",
+      "label": "The Drawcord Sarong",
+      "verdict": "competitive",
+      "lineage": "silk cape gathered by hidden drawcords",
+      "thesis": "Content arrives as flat cloth; pulling a cord gathers it into pleats that reveal the treatment's details and prices.",
+      "palette": ["#33382F", "#B7A28E", "#E8DDCF", "#F6F1E9", "#806B59"],
+      "materials": ["sarong cloth planes", "a single taupe drawcord as the control", "stitched channel lines"],
+      "viewport": "A wide sand-colored cloth plane with the H1; a taupe cord runs across it; pulling it gathers the plane into pleats that open the treatment menu.",
+      "case": "Competitive: textile warmth fits a spa, but gathering interactions slow price-finding.",
+      "risk": "Interaction novelty over clarity on phones."
+    },
+    {
+      "id": "challenger-itasha",
+      "label": "Panel-Wrap Photo",
+      "verdict": "declined",
+      "lineage": "printed vinyl car wraps with sponsor strips",
+      "thesis": "One photo scaled across panels with visible seams.",
+      "palette": ["#806B59", "#F6F1E9", "#33382F", "#B7A28E"],
+      "materials": ["panel seams", "logo strips"],
+      "viewport": "A single huge treatment photo broken across three panels, treatment chips along the sill.",
+      "case": "Declined: loud pop-culture energy undercuts calm; weaker clarity.",
+      "risk": "Reads as a promo template.",
+      "kept": "Scale one original photo boldly instead of many small ones.",
+      "hero": "https://impeccable.style/worlds/cards/pop-culture-shelf-itasha-vinyl-wrap-hero.webp"
+    },
+    {
+      "id": "challenger-versailles",
+      "label": "Garden Axis",
+      "verdict": "declined",
+      "lineage": "Versailles axial garden vistas",
+      "thesis": "The site as a formal garden walk of mirrored parterres.",
+      "palette": ["#889481", "#E8DDCF", "#806B59", "#F6F1E9"],
+      "materials": ["clipped geometry", "engraved capitals"],
+      "viewport": "A symmetrical garden plan with treatments as parterres.",
+      "case": "Declined: reads as five-star palace luxury, which the brief rejects.",
+      "risk": "Pompous, not approachable.",
+      "kept": "One long central sightline leading to the booking action.",
+      "hero": "https://impeccable.style/worlds/cards/architecture-inhabitable-space-versailles-bosquet-vistas-hero.webp"
+    }
+  ],
+  "reroll": { "registers": ["safer", "bolder"] },
+  "buildPath": { "value": "code" },
+  "canon": true,
+  "canonCard": {
+    "label": "Luxury spa editorial (category standard)",
+    "thesis": "What every Bali spa site ships, executed with full craft.",
+    "palette": ["#F6F1E9", "#33382F", "#B7A28E", "#889481"],
+    "materials": ["full-bleed hero photography", "centered serif headlines", "card grids"],
+    "viewport": "Full-bleed photo hero, centered serif headline, two buttons, then a grid of treatment cards.",
+    "risk": "Indistinguishable from the competition by design."
+  },
+  "steer": true
+}

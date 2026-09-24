@@ -1,0 +1,10364 @@
+{
+ "https://spabalimoon.com/": {
+  "url": "https://spabalimoon.com/",
+  "title": "Spa Bali Moon - Outcall & Home Service Massage",
+  "description": "Our traditional Bali massage is available for outcall massage to your stay. Visit our spa or call for home service. Feel the signature warmth of Bali Moon.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Spa Bali Moon - Outcall & Home Service Massage",
+   "og:description": "Our traditional Bali massage is available for outcall massage to your stay. Visit our spa or call for home service. Feel the signature warmth of Bali Moon.",
+   "og:url": "https://spabalimoon.com/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Spa Bali Moon - Outcall & Home Service Massage",
+   "twitter:description": "Our traditional Bali massage is available for outcall massage to your stay. Visit our spa or call for home service. Feel the signature warmth of Bali Moon."
+  },
+  "hreflang": [],
+  "jsonld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"DaySpa\",\"name\":\"Spa Bali Moon\",\"url\":\"https://spabalimoon.com\",\"image\":\"https://spabalimoon.com/images/home/homepage-1.webp\",\"email\":\"info@spabalimoon.com\",\"areaServed\":\"Seminyak, Bali\",\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":4.2,\"reviewCount\":192,\"bestRating\":5,\"worstRating\":1}}"
+  ],
+  "headings": [
+   [
+    "h1",
+    "Our Seminyak Day Spa"
+   ],
+   [
+    "h4",
+    "Book via WhatsApp"
+   ],
+   [
+    "h2",
+    "How Do You Book Your Spa Experience?"
+   ],
+   [
+    "h6",
+    "01"
+   ],
+   [
+    "h3",
+    "Choose a Treatment"
+   ],
+   [
+    "h6",
+    "02"
+   ],
+   [
+    "h3",
+    "Book via WhatsApp"
+   ],
+   [
+    "h6",
+    "03"
+   ],
+   [
+    "h3",
+    "Relax Your Way"
+   ],
+   [
+    "h4",
+    "Beyond Relaxation"
+   ],
+   [
+    "h2",
+    "Why Spa Bali Moon Is Part of the Bali Experience"
+   ],
+   [
+    "h6",
+    "From IDR 159K | 1 Hour"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h6",
+    "From IDR 165K"
+   ],
+   [
+    "h3",
+    "Cream Bath"
+   ],
+   [
+    "h6",
+    "From IDR 250K | 1 Hour"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h6",
+    "From IDR 269K | 1 Hour"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h6",
+    "From IDR 196K"
+   ],
+   [
+    "h3",
+    "Bali Moon Facial"
+   ],
+   [
+    "h6",
+    "From IDR 269K | 1 Hour"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h6",
+    "From IDR 159K | 1 Hour"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h6",
+    "From IDR 250K | 1 Hour"
+   ],
+   [
+    "h3",
+    "Sunburn Treatment"
+   ],
+   [
+    "h6",
+    "From IDR 100K"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h6",
+    "From IDR 159K | 30 Minutes"
+   ],
+   [
+    "h3",
+    "Ear Candle"
+   ],
+   [
+    "h6",
+    "From IDR 300K | 1 Hour"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h6",
+    "From IDR 90K | 30 Minutes"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h6",
+    "From IDR 350K | 1 Hour"
+   ],
+   [
+    "h3",
+    "Cellulite Massage"
+   ],
+   [
+    "h6",
+    "From IDR 159K | 1 Hour"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h6",
+    "From IDR 69K"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h6",
+    "From IDR 133K | 30 Minutes"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h6",
+    "From IDR 319K | 1 Hour · 2 pax"
+   ],
+   [
+    "h3",
+    "Couple Massage"
+   ],
+   [
+    "h6",
+    "From IDR 99K | 30 Minutes"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h6",
+    "From IDR 159K"
+   ],
+   [
+    "h3",
+    "Nail Art"
+   ],
+   [
+    "h6",
+    "From IDR 99K"
+   ],
+   [
+    "h3",
+    "Waxing"
+   ],
+   [
+    "h6",
+    "From IDR 300K | 1 Hour"
+   ],
+   [
+    "h3",
+    "Coconut Oil Massage"
+   ],
+   [
+    "h6",
+    "From IDR 279K"
+   ],
+   [
+    "h3",
+    "Hair Braiding"
+   ],
+   [
+    "h6",
+    "From IDR 119K | 30 Minutes"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h4",
+    "Our Spa Menu"
+   ],
+   [
+    "h2",
+    "Browse Our Spa Treatments"
+   ],
+   [
+    "h3",
+    "Aloe Vera Massage"
+   ],
+   [
+    "h3",
+    "Aromatherapy Massage"
+   ],
+   [
+    "h3",
+    "Back Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Cellulite Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Four Hand Massage"
+   ],
+   [
+    "h3",
+    "Four Hand Warm Candle"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Herbal Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Organic Warm Candle Oil Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h4",
+    "More to Enjoy"
+   ],
+   [
+    "h2",
+    "Looking for More Than One Treatment?"
+   ],
+   [
+    "h4",
+    "Spa Packages"
+   ],
+   [
+    "h2",
+    "Complete Relaxation in One Visit"
+   ],
+   [
+    "h4",
+    "Balinese Massage Package A"
+   ],
+   [
+    "h2",
+    "449K"
+   ],
+   [
+    "h4",
+    "Balinese Massage Package B"
+   ],
+   [
+    "h2",
+    "549K"
+   ],
+   [
+    "h4",
+    "Balinese Massage Package C"
+   ],
+   [
+    "h2",
+    "449K"
+   ],
+   [
+    "h4",
+    "Balinese Massage Package D"
+   ],
+   [
+    "h2",
+    "399K"
+   ],
+   [
+    "h4",
+    "Why It Matters"
+   ],
+   [
+    "h2",
+    "What Makes Spa Bali Moon Different"
+   ],
+   [
+    "h4",
+    "Experienced Therapists"
+   ],
+   [
+    "h4",
+    "Home Service Available"
+   ],
+   [
+    "h4",
+    "Complete Wellness Menu"
+   ],
+   [
+    "h4",
+    "Easy WhatsApp Booking"
+   ],
+   [
+    "h2",
+    "Time to Unwind"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "1. Do I need to make an appointment?"
+   ],
+   [
+    "h3",
+    "2. Can I enjoy the treatments without visiting the spa?"
+   ],
+   [
+    "h3",
+    "3. Which massage is best if I've never had one before?"
+   ],
+   [
+    "h3",
+    "4. Can I combine different treatments in one visit?"
+   ],
+   [
+    "h3",
+    "5. How do I choose the right treatment?"
+   ],
+   [
+    "h3",
+    "6. Is Spa Bali Moon a licensed spa?"
+   ],
+   [
+    "h2",
+    "A Better Way to Experience Wellness in Bali"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/contact/": {
+  "url": "https://spabalimoon.com/contact/",
+  "title": "Contact Us - Rejuvenating Massage at Spa Bali Moon",
+  "description": "Contact our professional and well-trained therapists at Spa Bali Moon in Seminyak for quality spa treatments and home massage services.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/contact/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Contact Us - Rejuvenating Massage at Spa Bali Moon",
+   "og:description": "Contact our professional and well-trained therapists at Spa Bali Moon in Seminyak for quality spa treatments and home massage services.",
+   "og:url": "https://spabalimoon.com/contact/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Contact Us - Rejuvenating Massage at Spa Bali Moon",
+   "twitter:description": "Contact our professional and well-trained therapists at Spa Bali Moon in Seminyak for quality spa treatments and home massage services."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Book Your Spa Experience in Seminyak"
+   ],
+   [
+    "h2",
+    "Let’s Arrange Your Visit"
+   ],
+   [
+    "h6",
+    "WhatsApp Message"
+   ],
+   [
+    "h6",
+    "Visit anytime"
+   ],
+   [
+    "h6",
+    "Opening Times"
+   ],
+   [
+    "h2",
+    "How Can We Help?"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/guide/": {
+  "url": "https://spabalimoon.com/guide/",
+  "title": "Blog - Spa Bali Moon",
+  "description": "Explore Bali spa tips, massage guides, wellness advice, and relaxation insights from us. Discover expert guides to help you relax, recharge, and enjoy a better spa experience in Bali.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/guide/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Blog - Spa Bali Moon",
+   "og:description": "Explore Bali spa tips, massage guides, wellness advice, and relaxation insights from us. Discover expert guides to help you relax, recharge, and enjoy a better spa experience in Bali.",
+   "og:url": "https://spabalimoon.com/guide/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Blog - Spa Bali Moon",
+   "twitter:description": "Explore Bali spa tips, massage guides, wellness advice, and relaxation insights from us. Discover expert guides to help you relax, recharge, and enjoy a better spa experience in Bali."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Blog"
+   ],
+   [
+    "h6",
+    "Spa Bali Moon Blog"
+   ],
+   [
+    "h4",
+    "A Guide To Lymphatic Drainage Massage"
+   ],
+   [
+    "h6",
+    "Spa Bali Moon Blog"
+   ],
+   [
+    "h4",
+    "What Is a Balinese Massage? A Complete Guide for First Timer"
+   ],
+   [
+    "h6",
+    "Spa Bali Moon Blog"
+   ],
+   [
+    "h4",
+    "Thai Massage Benefits & Techniques Explained"
+   ],
+   [
+    "h6",
+    "Spa Bali Moon Blog"
+   ],
+   [
+    "h4",
+    "Facial Massage Benefits for Modern Self‑Care"
+   ],
+   [
+    "h6",
+    "Spa Bali Moon Blog"
+   ],
+   [
+    "h4",
+    "Slimming Massage Benefits & How It Works"
+   ],
+   [
+    "h6",
+    "Spa Bali Moon Blog"
+   ],
+   [
+    "h4",
+    "Best Massages for Jet Lag Recovery After a Long Flight"
+   ],
+   [
+    "h6",
+    "Spa Bali Moon Blog"
+   ],
+   [
+    "h4",
+    "IV Drip Therapy in Bali"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/massage-kuta/": {
+  "url": "https://spabalimoon.com/massage-kuta/",
+  "title": "Affordable Massage in Kuta",
+  "description": "Enjoy waves of Relaxation with foot and couple massage in Kuta. Our Traditional Balinese therapists are available for in-spa and outcall.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/massage-kuta/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Affordable Massage in Kuta",
+   "og:description": "Enjoy waves of Relaxation with foot and couple massage in Kuta. Our Traditional Balinese therapists are available for in-spa and outcall.",
+   "og:url": "https://spabalimoon.com/massage-kuta/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Affordable Massage in Kuta",
+   "twitter:description": "Enjoy waves of Relaxation with foot and couple massage in Kuta. Our Traditional Balinese therapists are available for in-spa and outcall."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Massage Kuta"
+   ],
+   [
+    "h2",
+    "What Can a Massage in Kuta Help With?"
+   ],
+   [
+    "h3",
+    "Restore a Lighter Feeling"
+   ],
+   [
+    "h3",
+    "Gentle Finish"
+   ],
+   [
+    "h3",
+    "Traditional"
+   ],
+   [
+    "h3",
+    "Experienced"
+   ],
+   [
+    "h3",
+    "Flexible"
+   ],
+   [
+    "h3",
+    "Hotel & Villa"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "Which Massage Suits Your Day in Kuta?"
+   ],
+   [
+    "h2",
+    "More Than a Full-Body Treatment"
+   ],
+   [
+    "h2",
+    "Booking a Massage in Kuta"
+   ],
+   [
+    "h2",
+    "Unwind In Kuta"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "What type of massage is best after a long day in Kuta?"
+   ],
+   [
+    "h3",
+    "Can I get a massage after surfing or spending time at the beach?"
+   ],
+   [
+    "h3",
+    "Do you offer massage at hotels and villas near Kuta?"
+   ],
+   [
+    "h3",
+    "How long do massage sessions usually last?"
+   ],
+   [
+    "h3",
+    "Can I combine a massage with another spa treatment?"
+   ],
+   [
+    "h3",
+    "What should I prepare before my massage?"
+   ],
+   [
+    "h2",
+    "Take Time to Feel Better in Kuta"
+   ],
+   [
+    "h2",
+    "Massage Services in Kuta"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/outcall-home-service-massage/": {
+  "url": "https://spabalimoon.com/outcall-home-service-massage/",
+  "title": "Spa Bali Moon - Outcall & Home Service Massage",
+  "description": "Our traditional Bali massage is available for outcall massage to your stay. Visit our spa or call for home service. Feel the signature warmth of Bali Moon.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/outcall-home-service-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Spa Bali Moon - Outcall & Home Service Massage",
+   "og:description": "Our traditional Bali massage is available for outcall massage to your stay. Visit our spa or call for home service. Feel the signature warmth of Bali Moon.",
+   "og:url": "https://spabalimoon.com/outcall-home-service-massage/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Spa Bali Moon - Outcall & Home Service Massage",
+   "twitter:description": "Our traditional Bali massage is available for outcall massage to your stay. Visit our spa or call for home service. Feel the signature warmth of Bali Moon."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Home Service Massage in Bali"
+   ],
+   [
+    "h2",
+    "Home Service Balinese Massage"
+   ],
+   [
+    "h3",
+    "Easy Booking via WhatsApp"
+   ],
+   [
+    "h3",
+    "Spa Treatments at Your Place"
+   ],
+   [
+    "h3",
+    "Easy Booking"
+   ],
+   [
+    "h3",
+    "Spa Treatments"
+   ],
+   [
+    "h3",
+    "Flexible"
+   ],
+   [
+    "h3",
+    "Open Daily"
+   ],
+   [
+    "h2",
+    "Outcall Massage & Body Treatments"
+   ],
+   [
+    "h2",
+    "Get Your Massage Service at Home"
+   ],
+   [
+    "h4",
+    "Prices"
+   ],
+   [
+    "h2",
+    "Professional Care with Thoughtful Details Focused on Comfort and Relaxation"
+   ],
+   [
+    "h6",
+    "Most Popular"
+   ],
+   [
+    "h6",
+    "Massage"
+   ],
+   [
+    "h6",
+    "Beauty"
+   ],
+   [
+    "h6",
+    "For Couples"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Cream Bath"
+   ],
+   [
+    "h3",
+    "Four Hand Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Sport Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Aloe Vera Massage"
+   ],
+   [
+    "h3",
+    "Aromatherapy Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Back Massage"
+   ],
+   [
+    "h3",
+    "Cellulite Massage"
+   ],
+   [
+    "h3",
+    "Couple Massage"
+   ],
+   [
+    "h4",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h4",
+    "Couple Traditional Massage"
+   ],
+   [
+    "h4",
+    "Couple Deep Tissue Massage"
+   ],
+   [
+    "h4",
+    "Couple Massage Warm Candle"
+   ],
+   [
+    "h4",
+    "Couple Massage Packages"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Four Hand Massage"
+   ],
+   [
+    "h3",
+    "Four Hand Warm Candle"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Herbal Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Organic Warm Candle Oil Massage"
+   ],
+   [
+    "h3",
+    "Sport Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Bali Moon Tea Tree Facial"
+   ],
+   [
+    "h3",
+    "Bali Moon Gold Facial"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Foot Scrub"
+   ],
+   [
+    "h3",
+    "Biokos Facial"
+   ],
+   [
+    "h3",
+    "Cream Bath"
+   ],
+   [
+    "h3",
+    "Ear Candle"
+   ],
+   [
+    "h3",
+    "Eyelash"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Waxing"
+   ],
+   [
+    "h3",
+    "Couple Balinese Massage"
+   ],
+   [
+    "h3",
+    "Couple Traditional Massage"
+   ],
+   [
+    "h3",
+    "Couple Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Couple Massage Warm Candle"
+   ],
+   [
+    "h3",
+    "Couple Packages"
+   ],
+   [
+    "h4",
+    "Couple Massage Package A"
+   ],
+   [
+    "h4",
+    "Couple Massage Package B"
+   ],
+   [
+    "h4",
+    "Couple Massage Package C"
+   ],
+   [
+    "h4",
+    "Couple Massage Package D"
+   ],
+   [
+    "h4",
+    "Treat yourself to a Balinese spa experience right where you are"
+   ],
+   [
+    "h2",
+    "Home Service Massage"
+   ],
+   [
+    "h5",
+    "Professional & Experienced Therapists"
+   ],
+   [
+    "h5",
+    "Clean & Hygienic Practice"
+   ],
+   [
+    "h5",
+    "Full Spa Setup Provided to You"
+   ],
+   [
+    "h5",
+    "On-Time & Reliable Service"
+   ],
+   [
+    "h5",
+    "Flexible Scheduling"
+   ],
+   [
+    "h5",
+    "Simple Booking via WhatsApp"
+   ],
+   [
+    "h5",
+    "Home service fee: IDR 75,000 per therapist"
+   ],
+   [
+    "h2",
+    "Home Service Massage"
+   ],
+   [
+    "h3",
+    "What is an outcall massage?"
+   ],
+   [
+    "h3",
+    "Do I need to prepare anything?"
+   ],
+   [
+    "h3",
+    "What does the therapist bring?"
+   ],
+   [
+    "h3",
+    "How long does setup take?"
+   ],
+   [
+    "h3",
+    "Which areas do you cover for home service?"
+   ],
+   [
+    "h3",
+    "What if my hotel doesn't allow outside therapists?"
+   ],
+   [
+    "h3",
+    "Which massage is best after a long flight?"
+   ],
+   [
+    "h2",
+    "Home Service Massage in Seminyak"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/privacy-policy/": {
+  "url": "https://spabalimoon.com/privacy-policy/",
+  "title": "Spa Bali Moon Privacy Policy",
+  "description": "Read Spa Bali Moon’s privacy policy detailing data protection, guest confidentiality, and secure handling of personal information.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/privacy-policy/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Spa Bali Moon Privacy Policy",
+   "og:description": "Read Spa Bali Moon’s privacy policy detailing data protection, guest confidentiality, and secure handling of personal information.",
+   "og:url": "https://spabalimoon.com/privacy-policy/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Spa Bali Moon Privacy Policy",
+   "twitter:description": "Read Spa Bali Moon’s privacy policy detailing data protection, guest confidentiality, and secure handling of personal information."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Privacy Policy"
+   ],
+   [
+    "h3",
+    "Information We Collect"
+   ],
+   [
+    "h3",
+    "How We Use Your Information"
+   ],
+   [
+    "h3",
+    "Data Protection"
+   ],
+   [
+    "h3",
+    "Sharing of Information"
+   ],
+   [
+    "h3",
+    "Home Service Privacy"
+   ],
+   [
+    "h3",
+    "Your Rights"
+   ],
+   [
+    "h4",
+    "Hours of Operation"
+   ],
+   [
+    "h3",
+    "Contact Us"
+   ],
+   [
+    "h6",
+    "Email"
+   ],
+   [
+    "h6",
+    "WhatsApp"
+   ],
+   [
+    "h6",
+    "Address"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/reservation/": {
+  "url": "https://spabalimoon.com/reservation/",
+  "title": "Reserve your massage treatments at Spa Bali Moon in Seminyak",
+  "description": "If you want to have quality massage treatments around Seminyak, our therapists are always available and ready to give you the best services.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/reservation/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Reserve your massage treatments at Spa Bali Moon in Seminyak",
+   "og:description": "If you want to have quality massage treatments around Seminyak, our therapists are always available and ready to give you the best services.",
+   "og:url": "https://spabalimoon.com/reservation/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Reserve your massage treatments at Spa Bali Moon in Seminyak",
+   "twitter:description": "If you want to have quality massage treatments around Seminyak, our therapists are always available and ready to give you the best services."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h4",
+    "Your Spa Experience is One Click Away"
+   ],
+   [
+    "h2",
+    "Book Your Treatment"
+   ],
+   [
+    "h3",
+    "Home Service Massage (Hotel & Villa)"
+   ],
+   [
+    "h5",
+    "We Bring Everything"
+   ],
+   [
+    "h5",
+    "Stress-Free Setup"
+   ],
+   [
+    "h5",
+    "Flexible Hours"
+   ],
+   [
+    "h5",
+    "Quick Booking"
+   ],
+   [
+    "h3",
+    "Day Spa Bookings (Seminyak Location)"
+   ],
+   [
+    "h5",
+    "Open Daily"
+   ],
+   [
+    "h5",
+    "Tranquil Setting"
+   ],
+   [
+    "h5",
+    "Variety of Treatments"
+   ],
+   [
+    "h5",
+    "Easy Reservations"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/": {
+  "url": "https://spabalimoon.com/seminyak/",
+  "title": "Spa and Massage in Seminyak Bali - Price and Packages",
+  "description": "Book affordable massages in Seminyak at Spa Bali Moon. Our Price list includes luxury facial, couple packages, shiatsu and Balinese massage.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Spa and Massage in Seminyak Bali - Price and Packages",
+   "og:description": "Book affordable massages in Seminyak at Spa Bali Moon. Our Price list includes luxury facial, couple packages, shiatsu and Balinese massage.",
+   "og:url": "https://spabalimoon.com/seminyak/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Spa and Massage in Seminyak Bali - Price and Packages",
+   "twitter:description": "Book affordable massages in Seminyak at Spa Bali Moon. Our Price list includes luxury facial, couple packages, shiatsu and Balinese massage."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Our Massage in Seminyak"
+   ],
+   [
+    "h4",
+    "Start With What You Need"
+   ],
+   [
+    "h2",
+    "Which Treatment Are You Looking For Today?"
+   ],
+   [
+    "h4",
+    "More Than Massage"
+   ],
+   [
+    "h2",
+    "A Complete Spa Menu in Seminyak"
+   ],
+   [
+    "h3",
+    "Established Since 2009"
+   ],
+   [
+    "h3",
+    "In-Spa & Home Service"
+   ],
+   [
+    "h4",
+    "Best Price"
+   ],
+   [
+    "h2",
+    "Our Massages Price List"
+   ],
+   [
+    "h6",
+    "Massage"
+   ],
+   [
+    "h6",
+    "Beauty"
+   ],
+   [
+    "h6",
+    "For Couples"
+   ],
+   [
+    "h3",
+    "Aloe Vera Massage"
+   ],
+   [
+    "h3",
+    "Aromatherapy Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage - Relaxing"
+   ],
+   [
+    "h3",
+    "Back Massage"
+   ],
+   [
+    "h3",
+    "Cellulite Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Four Hand Massage"
+   ],
+   [
+    "h3",
+    "Herbal Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Organic Warm Candle Oil Massage"
+   ],
+   [
+    "h4",
+    "Four Hand Warm Candle"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Sport Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage - Strong"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Bali Moon Tea Tree Facial"
+   ],
+   [
+    "h3",
+    "Bali Moon Gold Facial"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Foot Scrub"
+   ],
+   [
+    "h3",
+    "Biokos Facial"
+   ],
+   [
+    "h3",
+    "Creambath & Hair Mask"
+   ],
+   [
+    "h3",
+    "Ear Candle"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Waxing"
+   ],
+   [
+    "h3",
+    "Couple Balinese Massage"
+   ],
+   [
+    "h3",
+    "Couple Traditional Massage"
+   ],
+   [
+    "h3",
+    "Couple Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Couple Warm Candle Oil Massages"
+   ],
+   [
+    "h3",
+    "Couple Massage Packages"
+   ],
+   [
+    "h4",
+    "All Spa Packages"
+   ],
+   [
+    "h2",
+    "Available In-Spa & with Day Spa at Home"
+   ],
+   [
+    "h4",
+    "Exfoliate and Refresh"
+   ],
+   [
+    "h2",
+    "Body Scrub Packages"
+   ],
+   [
+    "h4",
+    "Body Scrub Package A"
+   ],
+   [
+    "h2",
+    "439K"
+   ],
+   [
+    "h4",
+    "Body Scrub Package B"
+   ],
+   [
+    "h2",
+    "449K"
+   ],
+   [
+    "h4",
+    "Body Scrub Package C"
+   ],
+   [
+    "h2",
+    "539K"
+   ],
+   [
+    "h4",
+    "Body Scrub Package D"
+   ],
+   [
+    "h2",
+    "549K"
+   ],
+   [
+    "h4",
+    "Reconnect and Relax Together"
+   ],
+   [
+    "h2",
+    "Couples Massage Packages"
+   ],
+   [
+    "h4",
+    "Couple Massage Package A"
+   ],
+   [
+    "h2",
+    "639K 2 pax"
+   ],
+   [
+    "h4",
+    "Couple Massage Package B"
+   ],
+   [
+    "h2",
+    "709K 2 pax"
+   ],
+   [
+    "h4",
+    "Couple Massage Package C"
+   ],
+   [
+    "h2",
+    "849K 2 pax"
+   ],
+   [
+    "h4",
+    "Couple Massage Package D"
+   ],
+   [
+    "h2",
+    "929K 2 pax"
+   ],
+   [
+    "h4",
+    "Revitalize and Renew"
+   ],
+   [
+    "h2",
+    "Cream Bath Packages"
+   ],
+   [
+    "h4",
+    "Cream Bath Package A"
+   ],
+   [
+    "h2",
+    "649K"
+   ],
+   [
+    "h4",
+    "Cream Bath Package B"
+   ],
+   [
+    "h2",
+    "589K"
+   ],
+   [
+    "h4",
+    "Cream Bath Package C"
+   ],
+   [
+    "h2",
+    "449K"
+   ],
+   [
+    "h4",
+    "Cream Bath Package D"
+   ],
+   [
+    "h2",
+    "539K"
+   ],
+   [
+    "h4",
+    "Nourish and Rejuvenate"
+   ],
+   [
+    "h2",
+    "Facial Treatment Packages"
+   ],
+   [
+    "h4",
+    "Bali Moon Facial Package A"
+   ],
+   [
+    "h2",
+    "439K"
+   ],
+   [
+    "h4",
+    "Bali Moon Facial Package B"
+   ],
+   [
+    "h2",
+    "649K"
+   ],
+   [
+    "h4",
+    "Bali Moon Facial Package C"
+   ],
+   [
+    "h2",
+    "449K"
+   ],
+   [
+    "h4",
+    "Bali Moon Facial Package D"
+   ],
+   [
+    "h2",
+    "549K"
+   ],
+   [
+    "h4",
+    "Relax and Unwind"
+   ],
+   [
+    "h2",
+    "Hot Stone Packages"
+   ],
+   [
+    "h4",
+    "Hot Stone Package A"
+   ],
+   [
+    "h2",
+    "449K"
+   ],
+   [
+    "h4",
+    "Hot Stone Package B"
+   ],
+   [
+    "h2",
+    "599K"
+   ],
+   [
+    "h4",
+    "Hot Stone Package C"
+   ],
+   [
+    "h2",
+    "489K"
+   ],
+   [
+    "h4",
+    "Hot Stone Package D"
+   ],
+   [
+    "h2",
+    "439K"
+   ],
+   [
+    "h4",
+    "Pamper and Perfect"
+   ],
+   [
+    "h2",
+    "Manicure and Pedicure Packages"
+   ],
+   [
+    "h4",
+    "Mani Pedi Package A"
+   ],
+   [
+    "h2",
+    "449K"
+   ],
+   [
+    "h4",
+    "Mani Pedi Package B"
+   ],
+   [
+    "h2",
+    "549K"
+   ],
+   [
+    "h4",
+    "Mani Pedi Package C"
+   ],
+   [
+    "h2",
+    "299K"
+   ],
+   [
+    "h4",
+    "Mani Pedi Package D"
+   ],
+   [
+    "h2",
+    "399K"
+   ],
+   [
+    "h4",
+    "Relax and Revitalize"
+   ],
+   [
+    "h2",
+    "Thai Massage Packages"
+   ],
+   [
+    "h4",
+    "Thai Massage Package A"
+   ],
+   [
+    "h2",
+    "549K"
+   ],
+   [
+    "h4",
+    "Thai Massage Package B"
+   ],
+   [
+    "h2",
+    "649K"
+   ],
+   [
+    "h4",
+    "Thai Massage Package C"
+   ],
+   [
+    "h2",
+    "449K"
+   ],
+   [
+    "h4",
+    "Thai Massage Package D"
+   ],
+   [
+    "h2",
+    "539K"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "Revive Your Senses"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "1. How do I choose the right treatment?"
+   ],
+   [
+    "h3",
+    "2. Can I combine several treatments into one visit?"
+   ],
+   [
+    "h3",
+    "3. Are the prices listed for each treatment?"
+   ],
+   [
+    "h3",
+    "4. Can I book a treatment at my hotel or villa?"
+   ],
+   [
+    "h3",
+    "5. Can I create a custom spa package?"
+   ],
+   [
+    "h3",
+    "6. Do I need to book in advance?"
+   ],
+   [
+    "h3",
+    "7. What does \"K\" mean in the prices?"
+   ],
+   [
+    "h3",
+    "8. What is your cheapest treatment?"
+   ],
+   [
+    "h3",
+    "9. Are prices per person or per booking?"
+   ],
+   [
+    "h3",
+    "10. How much extra is home service?"
+   ],
+   [
+    "h3",
+    "11. Which areas do you cover for outcall massage?"
+   ],
+   [
+    "h3",
+    "12. Is tipping expected?"
+   ],
+   [
+    "h3",
+    "13. Do prices differ between the website and in the spa?"
+   ],
+   [
+    "h3",
+    "14. Are towels, oils, and amenities included?"
+   ],
+   [
+    "h3",
+    "15. Can I choose the pressure or a specific therapist?"
+   ],
+   [
+    "h2",
+    "Take a Proper Break from Your Bali Itinerary"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/anti-cellulite-massage/": {
+  "url": "https://spabalimoon.com/seminyak/anti-cellulite-massage/",
+  "title": "Anti-Cellulite Massage in Seminyak – Smooth & Tone",
+  "description": "Target stubborn cellulite with our firming massage in Bali. Boost circulation, smooth skin texture, and feel more confident naturally and effectively.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/anti-cellulite-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Anti-Cellulite Massage in Seminyak – Smooth & Tone",
+   "og:description": "Target stubborn cellulite with our firming massage in Bali. Boost circulation, smooth skin texture, and feel more confident naturally and effectively.",
+   "og:url": "https://spabalimoon.com/seminyak/anti-cellulite-massage/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Anti-Cellulite Massage in Seminyak – Smooth & Tone",
+   "twitter:description": "Target stubborn cellulite with our firming massage in Bali. Boost circulation, smooth skin texture, and feel more confident naturally and effectively."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Cellulite Massage Seminyak"
+   ],
+   [
+    "h2",
+    "Can Massage Help Improve the Appearance of Cellulite?"
+   ],
+   [
+    "h3",
+    "Targeted Areas"
+   ],
+   [
+    "h3",
+    "Firm Pressure"
+   ],
+   [
+    "h2",
+    "Treatment Duration & Pricing"
+   ],
+   [
+    "h3",
+    "1 Hour"
+   ],
+   [
+    "h3",
+    "1.5 Hours"
+   ],
+   [
+    "h3",
+    "Targeted"
+   ],
+   [
+    "h3",
+    "Adjustable"
+   ],
+   [
+    "h3",
+    "Experienced"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "Why Does Cellulite Form in the First Place?"
+   ],
+   [
+    "h2",
+    "How Cellulite Massage Supports Your Wellness"
+   ],
+   [
+    "h2",
+    "How the Treatment Works"
+   ],
+   [
+    "h2",
+    "Smooth Skin Support"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "Which areas are commonly treated during cellulite massage?"
+   ],
+   [
+    "h3",
+    "Does cellulite massage remove cellulite permanently?"
+   ],
+   [
+    "h3",
+    "What is the difference between cellulite massage and lymphatic massage?"
+   ],
+   [
+    "h3",
+    "Is cellulite massage painful?"
+   ],
+   [
+    "h3",
+    "How many sessions are usually recommended?"
+   ],
+   [
+    "h3",
+    "Who is cellulite massage suitable for?"
+   ],
+   [
+    "h3",
+    "What is the difference between cellulite and stretch marks?"
+   ],
+   [
+    "h2",
+    "Continue Your Body-Care Journey"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Support Smoother Skin Wherever You Prefer to Relax"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/balinese-massage/": {
+  "url": "https://spabalimoon.com/seminyak/balinese-massage/",
+  "title": "Balinese Massage Treatment in Seminyak – Traditional Healing Therapy",
+  "description": "Experience authentic Balinese massage treatment in Seminyak, Bali. Combining long strokes, gentle pressure, and warm oils, this therapy restores harmony and deep relaxation.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/balinese-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Balinese Massage Treatment in Seminyak – Traditional Healing Therapy",
+   "og:description": "Experience authentic Balinese massage treatment in Seminyak, Bali. Combining long strokes, gentle pressure, and warm oils, this therapy restores harmony and deep relaxation.",
+   "og:url": "https://spabalimoon.com/seminyak/balinese-massage/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Balinese Massage Treatment in Seminyak – Traditional Healing Therapy",
+   "twitter:description": "Experience authentic Balinese massage treatment in Seminyak, Bali. Combining long strokes, gentle pressure, and warm oils, this therapy restores harmony and deep relaxation."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Balinese Massage Seminyak"
+   ],
+   [
+    "h2",
+    "What Makes Balinese Massage Unique?"
+   ],
+   [
+    "h3",
+    "Traditional Techniques"
+   ],
+   [
+    "h3",
+    "Adjustable Pressure"
+   ],
+   [
+    "h2",
+    "Balinese Massage Session"
+   ],
+   [
+    "h3",
+    "1 Hour"
+   ],
+   [
+    "h3",
+    "1.5 Hour"
+   ],
+   [
+    "h3",
+    "2 Hour"
+   ],
+   [
+    "h2",
+    "Our Package Options"
+   ],
+   [
+    "h3",
+    "Package A"
+   ],
+   [
+    "h3",
+    "Package B"
+   ],
+   [
+    "h3",
+    "Package C"
+   ],
+   [
+    "h3",
+    "Package D"
+   ],
+   [
+    "h3",
+    "Experienced"
+   ],
+   [
+    "h3",
+    "Flexible"
+   ],
+   [
+    "h3",
+    "Customized"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "Why Guests Choose Balinese Massage"
+   ],
+   [
+    "h2",
+    "Who Is Balinese Massage Best For?"
+   ],
+   [
+    "h2",
+    "What to Expect from a Balinese Massage"
+   ],
+   [
+    "h2",
+    "Revive Your Senses"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "What should I wear during a Balinese massage?"
+   ],
+   [
+    "h3",
+    "Is Balinese massage good after surfing or outdoor activities?"
+   ],
+   [
+    "h3",
+    "How often should you get a Balinese massage?"
+   ],
+   [
+    "h3",
+    "What are the benefits of a Balinese massage?"
+   ],
+   [
+    "h2",
+    "Explore Beyond Your Balinese Massage"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Enjoy Balinese Massage Wherever You Stay"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/body-scrub/": {
+  "url": "https://spabalimoon.com/seminyak/body-scrub/",
+  "title": "Body Scrub in Seminyak – Exfoliating Spa Therapy",
+  "description": "Experience a rejuvenating body scrub treatment in Bali. Refresh your skin, restore softness, and enjoy a calming spa escape in Seminyak.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/body-scrub/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Body Scrub in Seminyak – Exfoliating Spa Therapy",
+   "og:description": "Experience a rejuvenating body scrub treatment in Bali. Refresh your skin, restore softness, and enjoy a calming spa escape in Seminyak.",
+   "og:url": "https://spabalimoon.com/seminyak/body-scrub/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Body Scrub in Seminyak – Exfoliating Spa Therapy",
+   "twitter:description": "Experience a rejuvenating body scrub treatment in Bali. Refresh your skin, restore softness, and enjoy a calming spa escape in Seminyak."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Body Scrub Seminyak"
+   ],
+   [
+    "h2",
+    "Why Do So Many Guests Add a Body Scrub to Their Bali Stay?"
+   ],
+   [
+    "h3",
+    "Natural Ingredients"
+   ],
+   [
+    "h3",
+    "Gentle Exfoliation"
+   ],
+   [
+    "h2",
+    "Body Scrub Options"
+   ],
+   [
+    "h2",
+    "Our Package Options"
+   ],
+   [
+    "h3",
+    "Package A"
+   ],
+   [
+    "h3",
+    "Package B"
+   ],
+   [
+    "h3",
+    "Package C"
+   ],
+   [
+    "h3",
+    "Package D"
+   ],
+   [
+    "h3",
+    "Natural"
+   ],
+   [
+    "h3",
+    "Multiple"
+   ],
+   [
+    "h3",
+    "Customized"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "When Is the Best Time to Use a Body Scrub?"
+   ],
+   [
+    "h2",
+    "What Are the Main Body Scrub Benefits?"
+   ],
+   [
+    "h2",
+    "Which Natural Scrub Matches Your Skin Goals?"
+   ],
+   [
+    "h2",
+    "What Happens During a Body Scrub Session?"
+   ],
+   [
+    "h2",
+    "Renew Your Skin"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "What happens during a body scrub massage?"
+   ],
+   [
+    "h3",
+    "What are the benefits of a full body scrub?"
+   ],
+   [
+    "h3",
+    "How often should I get a body scrub treatment?"
+   ],
+   [
+    "h3",
+    "Will the scrub feel rough on my skin?"
+   ],
+   [
+    "h3",
+    "Is body scrub suitable for dry skin?"
+   ],
+   [
+    "h3",
+    "Can I get a body scrub after spending time in the sun?"
+   ],
+   [
+    "h3",
+    "Can body scrubs help with body acne or clogged pores?"
+   ],
+   [
+    "h2",
+    "Discover More Ways to Renew Your Glow"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Give Your Skin a Fresh Start After Days in the Bali Sun"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/coconut-oil-massage/": {
+  "url": "https://spabalimoon.com/seminyak/coconut-oil-massage/",
+  "title": "Virgin Coconut Oil Massage in Bali – Hydrate & Relax",
+  "description": "Indulge in a virgin coconut oil massage at Spa Bali Moon. Deeply hydrating, naturally soothing, and perfect for tropical skin renewal in Seminyak.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/coconut-oil-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Virgin Coconut Oil Massage in Bali – Hydrate & Relax",
+   "og:description": "Indulge in a virgin coconut oil massage at Spa Bali Moon. Deeply hydrating, naturally soothing, and perfect for tropical skin renewal in Seminyak.",
+   "og:url": "https://spabalimoon.com/seminyak/coconut-oil-massage/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Virgin Coconut Oil Massage in Bali – Hydrate & Relax",
+   "twitter:description": "Indulge in a virgin coconut oil massage at Spa Bali Moon. Deeply hydrating, naturally soothing, and perfect for tropical skin renewal in Seminyak."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Virgin Cold Press Coconut Oil Massage"
+   ],
+   [
+    "h2",
+    "The Benefits of Virgin Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Cold-Pressed Oil"
+   ],
+   [
+    "h3",
+    "Skin-Friendly Formula"
+   ],
+   [
+    "h2",
+    "Session Duration & Pricing"
+   ],
+   [
+    "h3",
+    "1 Hour"
+   ],
+   [
+    "h3",
+    "1.5 Hours"
+   ],
+   [
+    "h3",
+    "2 Hours"
+   ],
+   [
+    "h3",
+    "Pure"
+   ],
+   [
+    "h3",
+    "Flexible"
+   ],
+   [
+    "h3",
+    "Adjustable"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "More Than Just Massage Oil"
+   ],
+   [
+    "h2",
+    "Who Usually Chooses This Massage?"
+   ],
+   [
+    "h2",
+    "Why Virgin Coconut Oil Works So Well for Massage"
+   ],
+   [
+    "h2",
+    "Pure Coconut Care"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "What makes virgin cold-pressed coconut oil different from regular massage oil?"
+   ],
+   [
+    "h3",
+    "Is this massage suitable for sensitive skin?"
+   ],
+   [
+    "h3",
+    "Will the massage leave my skin feeling oily?"
+   ],
+   [
+    "h3",
+    "Can I book this massage as a home service?"
+   ],
+   [
+    "h3",
+    "Is this massage only for relaxation?"
+   ],
+   [
+    "h3",
+    "Is virgin coconut oil massage suitable for dry skin?"
+   ],
+   [
+    "h3",
+    "Can virgin coconut oil massage help with muscle tension?"
+   ],
+   [
+    "h2",
+    "Nourish Your Body With More Spa Rituals"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Experience the Natural Comfort of Virgin Coconut Oil"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/couple-spa/": {
+  "url": "https://spabalimoon.com/seminyak/couple-spa/",
+  "title": "Romantic Couple Massage in Bali",
+  "description": "Indulge in a warm candle massage perfect for couples. Includes facial, natural scrub, and Balinese massage. Book for In-Spa or Villa.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/couple-spa/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Romantic Couple Massage in Bali",
+   "og:description": "Indulge in a warm candle massage perfect for couples. Includes facial, natural scrub, and Balinese massage. Book for In-Spa or Villa.",
+   "og:url": "https://spabalimoon.com/seminyak/couple-spa/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Romantic Couple Massage in Bali",
+   "twitter:description": "Indulge in a warm candle massage perfect for couples. Includes facial, natural scrub, and Balinese massage. Book for In-Spa or Villa."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Couple Massage Seminyak"
+   ],
+   [
+    "h2",
+    "The Couples Massage Experience"
+   ],
+   [
+    "h3",
+    "Side-by-Side Treatment"
+   ],
+   [
+    "h3",
+    "Personalised for Each Guest"
+   ],
+   [
+    "h2",
+    "Couple Massage Session"
+   ],
+   [
+    "h3",
+    "Couple Balinese Massage"
+   ],
+   [
+    "h3",
+    "1 Hour · 2 Guests"
+   ],
+   [
+    "h3",
+    "1.5 Hours · 2 Guests"
+   ],
+   [
+    "h3",
+    "2 Hours · 2 Guests"
+   ],
+   [
+    "h3",
+    "Couple Traditional Massage"
+   ],
+   [
+    "h3",
+    "1 Hour · 2 Guests"
+   ],
+   [
+    "h3",
+    "1.5 Hours · 2 Guests"
+   ],
+   [
+    "h3",
+    "2 Hours · 2 Guests"
+   ],
+   [
+    "h3",
+    "Couple Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "1 Hour · 2 Guests"
+   ],
+   [
+    "h3",
+    "1.5 Hours · 2 Guests"
+   ],
+   [
+    "h3",
+    "Couple Warm Candle Massage"
+   ],
+   [
+    "h3",
+    "1 Hour · 2 Guests"
+   ],
+   [
+    "h3",
+    "1.5 Hours · 2 Guests"
+   ],
+   [
+    "h3",
+    "2 Hours · 2 Guests"
+   ],
+   [
+    "h2",
+    "Our Package Options"
+   ],
+   [
+    "h3",
+    "Package A"
+   ],
+   [
+    "h3",
+    "Package B"
+   ],
+   [
+    "h3",
+    "Package C"
+   ],
+   [
+    "h3",
+    "Package D"
+   ],
+   [
+    "h3",
+    "Private"
+   ],
+   [
+    "h3",
+    "Flexible"
+   ],
+   [
+    "h3",
+    "Customized"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "Why Is Couple Massage So Popular in Bali?"
+   ],
+   [
+    "h2",
+    "Couple Massage isn't Just for Couples"
+   ],
+   [
+    "h2",
+    "What to Expect During Your Couple Massage"
+   ],
+   [
+    "h2",
+    "Relax Together"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "Is Couple Massage only for romantic couples?"
+   ],
+   [
+    "h3",
+    "Do we receive our massages in the same room?"
+   ],
+   [
+    "h3",
+    "Can each person request different pressure?"
+   ],
+   [
+    "h3",
+    "Can we choose different massage treatments?"
+   ],
+   [
+    "h3",
+    "Is Couple Massage suitable for honeymooners?"
+   ],
+   [
+    "h3",
+    "What massage treatments are suitable for a couple massage?"
+   ],
+   [
+    "h2",
+    "Discover More Ways to Relax Together"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Make Time for Each Other While You're in Bali"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/creambath/": {
+  "url": "https://spabalimoon.com/seminyak/creambath/",
+  "title": "Hair Cream Bath Bali - Seminyak Spa Experience",
+  "description": "Indulge in cream bath therapy in Seminyak, Bali. A soothing hair spa treatment that nourishes roots, relaxes the scalp, and restores natural shine.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/creambath/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Hair Cream Bath Bali - Seminyak Spa Experience",
+   "og:description": "Indulge in cream bath therapy in Seminyak, Bali. A soothing hair spa treatment that nourishes roots, relaxes the scalp, and restores natural shine.",
+   "og:url": "https://spabalimoon.com/seminyak/creambath/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Hair Cream Bath Bali - Seminyak Spa Experience",
+   "twitter:description": "Indulge in cream bath therapy in Seminyak, Bali. A soothing hair spa treatment that nourishes roots, relaxes the scalp, and restores natural shine."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Hair Creambath Seminyak"
+   ],
+   [
+    "h2",
+    "The Ritual Behind a Cream Bath Treatment"
+   ],
+   [
+    "h3",
+    "Hair Conditioning"
+   ],
+   [
+    "h3",
+    "Scalp Relaxation"
+   ],
+   [
+    "h2",
+    "Creambath & Hair Mask Options"
+   ],
+   [
+    "h3",
+    "Ginseng"
+   ],
+   [
+    "h3",
+    "Avocado"
+   ],
+   [
+    "h3",
+    "Aloe Vera"
+   ],
+   [
+    "h3",
+    "L'Oreal"
+   ],
+   [
+    "h3",
+    "NR"
+   ],
+   [
+    "h3",
+    "Hair Mask"
+   ],
+   [
+    "h2",
+    "Our Package Options"
+   ],
+   [
+    "h3",
+    "Package A"
+   ],
+   [
+    "h3",
+    "Package B"
+   ],
+   [
+    "h3",
+    "Package C"
+   ],
+   [
+    "h3",
+    "Package D"
+   ],
+   [
+    "h3",
+    "Multiple"
+   ],
+   [
+    "h3",
+    "Flexible"
+   ],
+   [
+    "h3",
+    "Customized"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "Which Creambath Formula is Right for You?"
+   ],
+   [
+    "h2",
+    "How Does a Cream Bath Care for Your Hair?"
+   ],
+   [
+    "h2",
+    "Inside a Traditional Creambath Session"
+   ],
+   [
+    "h2",
+    "Refresh Your Hair"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "What is the difference between a creambath and a hair mask?"
+   ],
+   [
+    "h3",
+    "Is creambath suitable for coloured or chemically treated hair?"
+   ],
+   [
+    "h3",
+    "Which creambath is best for dry hair?"
+   ],
+   [
+    "h3",
+    "How often should I get a creambath?"
+   ],
+   [
+    "h3",
+    "Can I get a creambath after swimming or spending time at the beach?"
+   ],
+   [
+    "h3",
+    "Does a hair creambath include a scalp massage?"
+   ],
+   [
+    "h3",
+    "What is the difference between a creambath and a regular hair wash?"
+   ],
+   [
+    "h3",
+    "Should I wash my hair before a creambath?"
+   ],
+   [
+    "h2",
+    "Discover More Ways to Nourish and Unwind"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Restore Your Hair After Bali's Tropical Days"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/day-spa/": {
+  "url": "https://spabalimoon.com/seminyak/day-spa/",
+  "title": "Day Spa Treatments in Seminyak – Relax & Rejuvenate",
+  "description": "Discover day spa treatments in Seminyak, Bali. From massages to facials, our therapies are designed to relax, refresh, and restore your natural glow.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/day-spa/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Day Spa Treatments in Seminyak – Relax & Rejuvenate",
+   "og:description": "Discover day spa treatments in Seminyak, Bali. From massages to facials, our therapies are designed to relax, refresh, and restore your natural glow.",
+   "og:url": "https://spabalimoon.com/seminyak/day-spa/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Day Spa Treatments in Seminyak – Relax & Rejuvenate",
+   "twitter:description": "Discover day spa treatments in Seminyak, Bali. From massages to facials, our therapies are designed to relax, refresh, and restore your natural glow."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Day Spa in Seminyak"
+   ],
+   [
+    "h2",
+    "What Makes a Day Spa Visit Different?"
+   ],
+   [
+    "h3",
+    "Care from Head to Toe"
+   ],
+   [
+    "h3",
+    "Made Around Your Time"
+   ],
+   [
+    "h3",
+    "Balinese"
+   ],
+   [
+    "h3",
+    "Experienced"
+   ],
+   [
+    "h3",
+    "Flexible"
+   ],
+   [
+    "h3",
+    "In-Spa &"
+   ],
+   [
+    "h2",
+    "How Can You Spend Your Day at the Spa?"
+   ],
+   [
+    "h2",
+    "Is a Longer Spa Visit Worth the Time?"
+   ],
+   [
+    "h2",
+    "Skilled Therapists in a Comfortable Seminyak Space"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "Your Seminyak Day Spa"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "What does a day spa in Seminyak usually include?"
+   ],
+   [
+    "h3",
+    "How many hours should I spend at a day spa?"
+   ],
+   [
+    "h3",
+    "Can I choose my own treatments?"
+   ],
+   [
+    "h3",
+    "What is a good spa treatment after a flight?"
+   ],
+   [
+    "h3",
+    "Can I book a day spa at my hotel or villa?"
+   ],
+   [
+    "h3",
+    "Do I need to reserve a day spa appointment in advance?"
+   ],
+   [
+    "h3",
+    "How can I arrange a home service booking?"
+   ],
+   [
+    "h2",
+    "Leave Room in Your Bali Holiday for Yourself"
+   ],
+   [
+    "h2",
+    "Our Services Will Make You Glow"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/deep-tissue-massage/": {
+  "url": "https://spabalimoon.com/seminyak/deep-tissue-massage/",
+  "title": "Deep Tissue Massage Bali – Relieve Tension & Stress",
+  "description": "Relax deeply with professional deep tissue massage therapy in Seminyak. Perfect for easing tension, restoring energy, and enhancing overall wellness.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/deep-tissue-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Deep Tissue Massage Bali – Relieve Tension & Stress",
+   "og:description": "Relax deeply with professional deep tissue massage therapy in Seminyak. Perfect for easing tension, restoring energy, and enhancing overall wellness.",
+   "og:url": "https://spabalimoon.com/seminyak/deep-tissue-massage/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Deep Tissue Massage Bali – Relieve Tension & Stress",
+   "twitter:description": "Relax deeply with professional deep tissue massage therapy in Seminyak. Perfect for easing tension, restoring energy, and enhancing overall wellness."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Deep Tissue Massage Seminyak"
+   ],
+   [
+    "h2",
+    "What Is Deep Tissue Massage?"
+   ],
+   [
+    "h3",
+    "Deep Muscle Focus"
+   ],
+   [
+    "h3",
+    "Controlled Pressure"
+   ],
+   [
+    "h2",
+    "Choose Your Duration"
+   ],
+   [
+    "h3",
+    "1 Hour"
+   ],
+   [
+    "h3",
+    "1.5 Hours"
+   ],
+   [
+    "h3",
+    "Skilled"
+   ],
+   [
+    "h3",
+    "Muscle"
+   ],
+   [
+    "h3",
+    "Adjustable"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "Why Do People Get Deep Tissue Massage?"
+   ],
+   [
+    "h2",
+    "Which Parts of the Body Are Commonly Treated?"
+   ],
+   [
+    "h2",
+    "How Does Deep Tissue Massage Work?"
+   ],
+   [
+    "h2",
+    "Muscle Recovery"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "Does deep tissue massage hurt?"
+   ],
+   [
+    "h3",
+    "What's the difference between Swedish and deep tissue massage?"
+   ],
+   [
+    "h3",
+    "Is Deep Tissue Massage suitable after exercise?"
+   ],
+   [
+    "h3",
+    "How often should I get Deep Tissue Massage?"
+   ],
+   [
+    "h3",
+    "Can Deep Tissue Massage be done at a villa or hotel?"
+   ],
+   [
+    "h3",
+    "What should I do after a deep tissue massage?"
+   ],
+   [
+    "h3",
+    "Is deep tissue massage good for sciatica?"
+   ],
+   [
+    "h3",
+    "What are the benefits of a deep tissue massage?"
+   ],
+   [
+    "h2",
+    "Go Beyond Deep Tissue Relief"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Release Built-Up Muscle Tension During Your Bali Stay"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/ear-wax-removal/": {
+  "url": "https://spabalimoon.com/seminyak/ear-wax-removal/",
+  "title": "Ear Candle Bali - Traditional Spa Treatment",
+  "description": "Book a special ear candle therapy in Seminyak. It gives a warm and comfy feeling. The candle's warmth offers more than just touch.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/ear-wax-removal/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Ear Candle Bali - Traditional Spa Treatment",
+   "og:description": "Book a special ear candle therapy in Seminyak. It gives a warm and comfy feeling. The candle's warmth offers more than just touch.",
+   "og:url": "https://spabalimoon.com/seminyak/ear-wax-removal/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Ear Candle Bali - Traditional Spa Treatment",
+   "twitter:description": "Book a special ear candle therapy in Seminyak. It gives a warm and comfy feeling. The candle's warmth offers more than just touch."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Ear Candle Seminyak"
+   ],
+   [
+    "h2",
+    "What Is an Ear Candle Treatment?"
+   ],
+   [
+    "h3",
+    "Gentle Warmth"
+   ],
+   [
+    "h3",
+    "Relaxing Approach"
+   ],
+   [
+    "h2",
+    "One Relaxing Ear Candle Session"
+   ],
+   [
+    "h3",
+    "30 Minutes"
+   ],
+   [
+    "h3",
+    "Controlled"
+   ],
+   [
+    "h3",
+    "Outer"
+   ],
+   [
+    "h3",
+    "Head"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "When Is Ear Candle Commonly Chosen?"
+   ],
+   [
+    "h2",
+    "Areas Included During an Ear Candle Session"
+   ],
+   [
+    "h2",
+    "How Does an Ear Wax Candle Work?"
+   ],
+   [
+    "h2",
+    "Gentle Ear Care"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "What is Ear Candle treatment?"
+   ],
+   [
+    "h3",
+    "Does Ear Candle remove earwax?"
+   ],
+   [
+    "h3",
+    "Is Ear Candle safe?"
+   ],
+   [
+    "h3",
+    "How long does Ear Candle treatment take?"
+   ],
+   [
+    "h3",
+    "Can I enjoy Ear Candle after travelling or flying?"
+   ],
+   [
+    "h3",
+    "Can Ear Candle be combined with other spa treatments?"
+   ],
+   [
+    "h2",
+    "Explore More Ways to Feel Restored"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Restore a Sense of Comfort Around Your Ears"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/facial/": {
+  "url": "https://spabalimoon.com/seminyak/facial/",
+  "title": "Seminyak Facial – Organic Scrub & Lymphatic Face Massage",
+  "description": "Enjoy facials at Spa Bali Moon in Seminyak. Treatments include organic scrubs, Argan Oil massage, warm steam therapy, natural masks, and lymphatic face massage.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/facial/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Seminyak Facial – Organic Scrub & Lymphatic Face Massage",
+   "og:description": "Enjoy facials at Spa Bali Moon in Seminyak. Treatments include organic scrubs, Argan Oil massage, warm steam therapy, natural masks, and lymphatic face massage.",
+   "og:url": "https://spabalimoon.com/seminyak/facial/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Seminyak Facial – Organic Scrub & Lymphatic Face Massage",
+   "twitter:description": "Enjoy facials at Spa Bali Moon in Seminyak. Treatments include organic scrubs, Argan Oil massage, warm steam therapy, natural masks, and lymphatic face massage."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Bali Moon Facial Seminyak"
+   ],
+   [
+    "h2",
+    "What Makes Bali Moon Facial Different?"
+   ],
+   [
+    "h3",
+    "Tea Tree Mask"
+   ],
+   [
+    "h3",
+    "Gold Mask"
+   ],
+   [
+    "h2",
+    "Bali Moon Facial Options"
+   ],
+   [
+    "h3",
+    "Bali Moon Tea Tree Facial"
+   ],
+   [
+    "h3",
+    "Bali Moon Gold Facial"
+   ],
+   [
+    "h2",
+    "Our Package Options"
+   ],
+   [
+    "h3",
+    "Package A"
+   ],
+   [
+    "h3",
+    "Package B"
+   ],
+   [
+    "h3",
+    "Package C"
+   ],
+   [
+    "h3",
+    "Package D"
+   ],
+   [
+    "h3",
+    "For All"
+   ],
+   [
+    "h3",
+    "Personalized"
+   ],
+   [
+    "h3",
+    "Customized"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "What Does a Facial Help With?"
+   ],
+   [
+    "h2",
+    "Which Mask is Right for Your Skin?"
+   ],
+   [
+    "h2",
+    "What to Expect During Your Facial"
+   ],
+   [
+    "h2",
+    "Refresh Your Skin"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "What Is a Bali Moon Facial?"
+   ],
+   [
+    "h3",
+    "Can a facial help after spending time in the Bali sun?"
+   ],
+   [
+    "h3",
+    "What Are the Benefits of a Bali Moon Facial?"
+   ],
+   [
+    "h3",
+    "Where Can I Get a Bali Moon Facial in Seminyak?"
+   ],
+   [
+    "h2",
+    "Complete Your Glow Beyond a Facial"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Professional Facial Care at Your Spa, Villa, or Hotel"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/foot-massage/": {
+  "url": "https://spabalimoon.com/seminyak/foot-massage/",
+  "title": "Foot Massage Treatment in Seminyak",
+  "description": "Soothe tired feet with gentle strokes, reflexology-inspired techniques, and warm oils at Spa Bali Moon Seminyak.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/foot-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Foot Massage Treatment in Seminyak",
+   "og:description": "Soothe tired feet with gentle strokes, reflexology-inspired techniques, and warm oils at Spa Bali Moon Seminyak.",
+   "og:url": "https://spabalimoon.com/seminyak/foot-massage/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Foot Massage Treatment in Seminyak",
+   "twitter:description": "Soothe tired feet with gentle strokes, reflexology-inspired techniques, and warm oils at Spa Bali Moon Seminyak."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Foot Massage Seminyak"
+   ],
+   [
+    "h2",
+    "Foot Massage for Daily Comfort and Recovery"
+   ],
+   [
+    "h3",
+    "Foot Recovery"
+   ],
+   [
+    "h3",
+    "Reflexology-Inspired"
+   ],
+   [
+    "h2",
+    "Choose the Right Duration"
+   ],
+   [
+    "h3",
+    "1 Hour"
+   ],
+   [
+    "h3",
+    "1.5 Hours"
+   ],
+   [
+    "h3",
+    "2 Hours"
+   ],
+   [
+    "h3",
+    "Experienced"
+   ],
+   [
+    "h3",
+    "Gentle"
+   ],
+   [
+    "h3",
+    "Natural Oil"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "When Is a Foot Massage Most Helpful?"
+   ],
+   [
+    "h2",
+    "Where Does Foot Massage Work?"
+   ],
+   [
+    "h2",
+    "How Our Foot Massage Is Performed"
+   ],
+   [
+    "h2",
+    "Foot Recovery"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "Is Foot Massage the same as reflexology?"
+   ],
+   [
+    "h3",
+    "Can Foot Massage help after walking all day?"
+   ],
+   [
+    "h3",
+    "Does the massage include the lower legs?"
+   ],
+   [
+    "h3",
+    "Is strong pressure used?"
+   ],
+   [
+    "h3",
+    "Can I book Foot Massage at my hotel or villa?"
+   ],
+   [
+    "h3",
+    "Does foot massage help neuropathy?"
+   ],
+   [
+    "h3",
+    "Is foot massage good for plantar fasciitis?"
+   ],
+   [
+    "h3",
+    "Can I get a foot massage while pregnant?"
+   ],
+   [
+    "h3",
+    "Why does a foot massage feel so good?"
+   ],
+   [
+    "h2",
+    "Give More Than Your Feet a Break"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Give Your Feet the Attention They Rarely Receive"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/foot-reflexology/": {
+  "url": "https://spabalimoon.com/seminyak/foot-reflexology/",
+  "title": "Foot Reflexology in Seminyak, Bali",
+  "description": "Experience authentic Bali reflexology in Seminyak. Unwind in our spa where traditional techniques meet relaxing foot therapy.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/foot-reflexology/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Foot Reflexology in Seminyak, Bali",
+   "og:description": "Experience authentic Bali reflexology in Seminyak. Unwind in our spa where traditional techniques meet relaxing foot therapy.",
+   "og:url": "https://spabalimoon.com/seminyak/foot-reflexology/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Foot Reflexology in Seminyak, Bali",
+   "twitter:description": "Experience authentic Bali reflexology in Seminyak. Unwind in our spa where traditional techniques meet relaxing foot therapy."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Foot Reflexology Seminyak"
+   ],
+   [
+    "h2",
+    "What Is Foot Reflexology and How Does It Work?"
+   ],
+   [
+    "h3",
+    "Reflex Point Therapy"
+   ],
+   [
+    "h3",
+    "Whole-Body Relaxation"
+   ],
+   [
+    "h2",
+    "Choose the Session That Fits You"
+   ],
+   [
+    "h3",
+    "30 Minutes"
+   ],
+   [
+    "h3",
+    "1 Hour"
+   ],
+   [
+    "h3",
+    "1.5 Hours"
+   ],
+   [
+    "h3",
+    "Reflex"
+   ],
+   [
+    "h3",
+    "Flexible"
+   ],
+   [
+    "h3",
+    "Gentle"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "A Simple Way to Refresh Tired Feet"
+   ],
+   [
+    "h2",
+    "Where Does Foot Reflexology Focus?"
+   ],
+   [
+    "h2",
+    "What Is a Foot Reflexology Session Like?"
+   ],
+   [
+    "h2",
+    "Reflex Points"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "Is Foot Reflexology the same as a Foot Massage?"
+   ],
+   [
+    "h3",
+    "Does Foot Reflexology hurt?"
+   ],
+   [
+    "h3",
+    "Is Foot Reflexology suitable after walking around Bali?"
+   ],
+   [
+    "h3",
+    "Can I combine Foot Reflexology with another treatment?"
+   ],
+   [
+    "h3",
+    "Is home service available?"
+   ],
+   [
+    "h2",
+    "Step Into More Feel-Good Treatments"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Restore Comfort to Every Step"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/hair-braiding/": {
+  "url": "https://spabalimoon.com/seminyak/hair-braiding/",
+  "title": "Hair Braiding Bali – Stylish Braided Hair & Braid Services at Spa Bali Moon",
+  "description": "Experience professional hair braiding in Bali at Spa Bali Moon, Seminyak. From casual braid hair to intricate braided hair styles, enjoy glossy, protective braids that suit the beach, events, or everyday wear.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/hair-braiding/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Hair Braiding Bali – Stylish Braided Hair & Braid Services at Spa Bali Moon",
+   "og:description": "Experience professional hair braiding in Bali at Spa Bali Moon, Seminyak. From casual braid hair to intricate braided hair styles, enjoy glossy, protective braids that suit the beach, events, or everyday wear.",
+   "og:url": "https://spabalimoon.com/seminyak/hair-braiding/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Hair Braiding Bali – Stylish Braided Hair & Braid Services at Spa Bali Moon",
+   "twitter:description": "Experience professional hair braiding in Bali at Spa Bali Moon, Seminyak. From casual braid hair to intricate braided hair styles, enjoy glossy, protective braids that suit the beach, events, or everyday wear."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Hair Braiding in Bali"
+   ],
+   [
+    "h2",
+    "Hair Braiding for Style, Comfort, and Everyday Wear"
+   ],
+   [
+    "h3",
+    "Protective Styling"
+   ],
+   [
+    "h3",
+    "Personalised Designs"
+   ],
+   [
+    "h2",
+    "Choose the Style That Fits Your Hair"
+   ],
+   [
+    "h3",
+    "Short Hair"
+   ],
+   [
+    "h3",
+    "Medium Hair"
+   ],
+   [
+    "h3",
+    "Long Hair"
+   ],
+   [
+    "h3",
+    "Popular"
+   ],
+   [
+    "h3",
+    "Custom"
+   ],
+   [
+    "h3",
+    "Extension"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "Why Many Visitors Choose Hair Braiding in Bali"
+   ],
+   [
+    "h2",
+    "Explore Our Most Popular Hair Braiding Styles"
+   ],
+   [
+    "h2",
+    "Every Braid Starts with the Right Plan"
+   ],
+   [
+    "h2",
+    "Braid Styles"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "Is Hair Braiding suitable for all hair types?"
+   ],
+   [
+    "h3",
+    "How long does Hair Braiding usually take?"
+   ],
+   [
+    "h3",
+    "Will braiding damage my hair?"
+   ],
+   [
+    "h3",
+    "How long do braids usually last?"
+   ],
+   [
+    "h3",
+    "Can I bring a reference photo?"
+   ],
+   [
+    "h3",
+    "Are hair extensions available?"
+   ],
+   [
+    "h2",
+    "Complete Your Bali Look"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "A Hairstyle That Keeps Up with Your Bali Plans"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/head-massage/": {
+  "url": "https://spabalimoon.com/seminyak/head-massage/",
+  "title": "Head Massage Bali Treatment",
+  "description": "Relax with a head massage that relieves tension, soothes the scalp, and promotes overall relaxation by skilled masseurs' in Seminyak, Bali.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/head-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Head Massage Bali Treatment",
+   "og:description": "Relax with a head massage that relieves tension, soothes the scalp, and promotes overall relaxation by skilled masseurs' in Seminyak, Bali.",
+   "og:url": "https://spabalimoon.com/seminyak/head-massage/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Head Massage Bali Treatment",
+   "twitter:description": "Relax with a head massage that relieves tension, soothes the scalp, and promotes overall relaxation by skilled masseurs' in Seminyak, Bali."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Head Massage Seminyak"
+   ],
+   [
+    "h2",
+    "What Is a Head Massage?"
+   ],
+   [
+    "h3",
+    "Scalp Relaxation"
+   ],
+   [
+    "h3",
+    "Neck Comfort"
+   ],
+   [
+    "h2",
+    "Our Duration Options"
+   ],
+   [
+    "h3",
+    "1 Hour"
+   ],
+   [
+    "h3",
+    "1.5 Hours"
+   ],
+   [
+    "h3",
+    "2 Hours"
+   ],
+   [
+    "h3",
+    "Scalp"
+   ],
+   [
+    "h3",
+    "Neck"
+   ],
+   [
+    "h3",
+    "Adjustable"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "How Can a Head Massage Help?"
+   ],
+   [
+    "h2",
+    "Which Areas Receive the Most Attention?"
+   ],
+   [
+    "h2",
+    "What to Expect During a Head Massage Session"
+   ],
+   [
+    "h2",
+    "Scalp Care"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "Can a Head Massage help with stress?"
+   ],
+   [
+    "h3",
+    "Is oil always used during the treatment?"
+   ],
+   [
+    "h3",
+    "Can Head Massage help after long hours at a computer?"
+   ],
+   [
+    "h3",
+    "Is Head Massage suitable before sleeping?"
+   ],
+   [
+    "h3",
+    "Can I receive Head Massage at my hotel or villa?"
+   ],
+   [
+    "h3",
+    "Does head massage help hair growth?"
+   ],
+   [
+    "h3",
+    "Why does a head massage feel so good?"
+   ],
+   [
+    "h2",
+    "Relax From Head to Toe"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Refresh Your Mind While Caring for Your Body"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/hot-stone-massage/": {
+  "url": "https://spabalimoon.com/seminyak/hot-stone-massage/",
+  "title": "Hot Stone Massage - Spa Bali Moon in Seminyak",
+  "description": "Melt into bliss with the best hot stone massages in Bali. Our traditions meet warm serenity, providing a soul-soothing escape.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/hot-stone-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Hot Stone Massage - Spa Bali Moon in Seminyak",
+   "og:description": "Melt into bliss with the best hot stone massages in Bali. Our traditions meet warm serenity, providing a soul-soothing escape.",
+   "og:url": "https://spabalimoon.com/seminyak/hot-stone-massage/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Hot Stone Massage - Spa Bali Moon in Seminyak",
+   "twitter:description": "Melt into bliss with the best hot stone massages in Bali. Our traditions meet warm serenity, providing a soul-soothing escape."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Traditional Hot Stone Massage"
+   ],
+   [
+    "h2",
+    "Why Does Hot Stone Massage Feel Different?"
+   ],
+   [
+    "h3",
+    "Heated Basalt Stones"
+   ],
+   [
+    "h3",
+    "Deep Relaxation"
+   ],
+   [
+    "h2",
+    "Hot Stone Massage Duration Options"
+   ],
+   [
+    "h3",
+    "1 Hour"
+   ],
+   [
+    "h3",
+    "1.5 Hours"
+   ],
+   [
+    "h3",
+    "2 Hours"
+   ],
+   [
+    "h2",
+    "Our Package Options"
+   ],
+   [
+    "h3",
+    "Package A"
+   ],
+   [
+    "h3",
+    "Package B"
+   ],
+   [
+    "h3",
+    "Package C"
+   ],
+   [
+    "h3",
+    "Package D"
+   ],
+   [
+    "h3",
+    "Heated"
+   ],
+   [
+    "h3",
+    "Muscle"
+   ],
+   [
+    "h3",
+    "Customized"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "How Can Hot Stone Massage Support Your Wellbeing?"
+   ],
+   [
+    "h2",
+    "Where Are the Warm Stones Used?"
+   ],
+   [
+    "h2",
+    "What Happens During a Hot Stone Massage"
+   ],
+   [
+    "h2",
+    "Warm Stone Therapy"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "Are the stones very hot?"
+   ],
+   [
+    "h3",
+    "What type of stones are used?"
+   ],
+   [
+    "h3",
+    "Is Hot Stone Massage better than a regular massage?"
+   ],
+   [
+    "h3",
+    "Can this treatment help after travelling?"
+   ],
+   [
+    "h3",
+    "Can I receive Hot Stone Massage at my villa or hotel?"
+   ],
+   [
+    "h3",
+    "What is a hot stone massage?"
+   ],
+   [
+    "h2",
+    "Warm Up to More Than Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Warmth That Helps the Body Fully Unwind"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/lymphatic-drainage-massage/": {
+  "url": "https://spabalimoon.com/seminyak/lymphatic-drainage-massage/",
+  "title": "Lymphatic Drainage Massage in Bali - Restore Balance",
+  "description": "Experience gentle lymphatic drainage massage in Seminyak, Bali, to reduce swelling, support detox, and boost your immune system.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/lymphatic-drainage-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Lymphatic Drainage Massage in Bali - Restore Balance",
+   "og:description": "Experience gentle lymphatic drainage massage in Seminyak, Bali, to reduce swelling, support detox, and boost your immune system.",
+   "og:url": "https://spabalimoon.com/seminyak/lymphatic-drainage-massage/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Lymphatic Drainage Massage in Bali - Restore Balance",
+   "twitter:description": "Experience gentle lymphatic drainage massage in Seminyak, Bali, to reduce swelling, support detox, and boost your immune system."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Lymphatic Massage in Bali"
+   ],
+   [
+    "h2",
+    "What Does the Lymphatic System Actually Do?"
+   ],
+   [
+    "h3",
+    "Gentle Drainage"
+   ],
+   [
+    "h3",
+    "Body Balance"
+   ],
+   [
+    "h2",
+    "Our Duration Options"
+   ],
+   [
+    "h3",
+    "1 Hour"
+   ],
+   [
+    "h3",
+    "1.5 Hours"
+   ],
+   [
+    "h3",
+    "2 Hours"
+   ],
+   [
+    "h3",
+    "Experienced"
+   ],
+   [
+    "h3",
+    "Flexible"
+   ],
+   [
+    "h3",
+    "Slimming"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "When Lymphatic Massage Helps"
+   ],
+   [
+    "h2",
+    "Where Does Lymphatic Drainage Go?"
+   ],
+   [
+    "h2",
+    "What to Expect from a Lymphatic Massage"
+   ],
+   [
+    "h2",
+    "Gentle Drainage"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "Is Lymphatic Massage the same as Deep Tissue Massage?"
+   ],
+   [
+    "h3",
+    "Can Lymphatic Massage help with swollen legs after travelling?"
+   ],
+   [
+    "h3",
+    "Does Lymphatic Massage remove toxins from the body?"
+   ],
+   [
+    "h3",
+    "Will the massage feel gentle?"
+   ],
+   [
+    "h3",
+    "Can I combine Lymphatic Massage with other spa treatments?"
+   ],
+   [
+    "h3",
+    "Is lymphatic drainage real?"
+   ],
+   [
+    "h3",
+    "Does lymphatic drainage work on the face?"
+   ],
+   [
+    "h3",
+    "Can lymphatic drainage make you sick?"
+   ],
+   [
+    "h2",
+    "Keep Your Wellness Journey Flowing"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Renew Balance from the Inside Out with Lymphatic Massage"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/manicure-pedicure/": {
+  "url": "https://spabalimoon.com/seminyak/manicure-pedicure/",
+  "title": "Professional Nail Care in Bali – Manicure & Pedicure",
+  "description": "Discover manicure and pedicure treatments in Seminyak, Bali. From shaping and polishing to nourishing care, our spa ensures radiant nails and refreshed hands and feet.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/manicure-pedicure/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Professional Nail Care in Bali – Manicure & Pedicure",
+   "og:description": "Discover manicure and pedicure treatments in Seminyak, Bali. From shaping and polishing to nourishing care, our spa ensures radiant nails and refreshed hands and feet.",
+   "og:url": "https://spabalimoon.com/seminyak/manicure-pedicure/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Professional Nail Care in Bali – Manicure & Pedicure",
+   "twitter:description": "Discover manicure and pedicure treatments in Seminyak, Bali. From shaping and polishing to nourishing care, our spa ensures radiant nails and refreshed hands and feet."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Manicure & Pedicure Seminyak"
+   ],
+   [
+    "h2",
+    "More Than Beautiful Nails"
+   ],
+   [
+    "h3",
+    "Healthy Nails"
+   ],
+   [
+    "h3",
+    "Soft Skin"
+   ],
+   [
+    "h2",
+    "Manicure & Pedicure Treatment Options"
+   ],
+   [
+    "h3",
+    "Manicure & Pedicure"
+   ],
+   [
+    "h3",
+    "Manicure"
+   ],
+   [
+    "h3",
+    "Pedicure"
+   ],
+   [
+    "h3",
+    "Nail Color Feet & Hands"
+   ],
+   [
+    "h3",
+    "Nail Color Feet or Hands"
+   ],
+   [
+    "h3",
+    "Nail Remover Feet & Hands"
+   ],
+   [
+    "h3",
+    "Nail Gel Feet & Hands"
+   ],
+   [
+    "h3",
+    "Nail Gel Feet or Hands"
+   ],
+   [
+    "h2",
+    "Our Package Options"
+   ],
+   [
+    "h3",
+    "Package A"
+   ],
+   [
+    "h3",
+    "Package B"
+   ],
+   [
+    "h3",
+    "Package C"
+   ],
+   [
+    "h3",
+    "Package D"
+   ],
+   [
+    "h3",
+    "Nail"
+   ],
+   [
+    "h3",
+    "Cuticle"
+   ],
+   [
+    "h3",
+    "Gel Colour"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "Why Is Regular Nail Care Important?"
+   ],
+   [
+    "h2",
+    "Professional Care from Nails to Skin"
+   ],
+   [
+    "h2",
+    "What Can You Expect During Your Appointment?"
+   ],
+   [
+    "h2",
+    "Nail Care"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "What is included in a Manicure & Pedicure?"
+   ],
+   [
+    "h3",
+    "What is the difference between a manicure and a pedicure?"
+   ],
+   [
+    "h3",
+    "How often should I have a Manicure & Pedicure?"
+   ],
+   [
+    "h3",
+    "Can I choose gel nails instead of regular polish?"
+   ],
+   [
+    "h3",
+    "Can I book Manicure & Pedicure at my villa or hotel?"
+   ],
+   [
+    "h3",
+    "What is a manicure and pedicure?"
+   ],
+   [
+    "h2",
+    "Complete Your Care Beyond Nails"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Keep Your Hands and Feet Looking Their Best"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/nail-spa/": {
+  "url": "https://spabalimoon.com/seminyak/nail-spa/",
+  "title": "Gel Art & Nails in Seminyak",
+  "description": "Indulge in Seminyak's affordable nail care, offering sublime nail salon treatments. Experience fabulous extensions and more today!",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/nail-spa/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Gel Art & Nails in Seminyak",
+   "og:description": "Indulge in Seminyak's affordable nail care, offering sublime nail salon treatments. Experience fabulous extensions and more today!",
+   "og:url": "https://spabalimoon.com/seminyak/nail-spa/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Gel Art & Nails in Seminyak",
+   "twitter:description": "Indulge in Seminyak's affordable nail care, offering sublime nail salon treatments. Experience fabulous extensions and more today!"
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Nail Art & Gel Nails in Seminyak"
+   ],
+   [
+    "h2",
+    "Why Do Many Guests Choose Gel Nail Art?"
+   ],
+   [
+    "h3",
+    "Long Lasting Finish"
+   ],
+   [
+    "h3",
+    "Personalised Designs"
+   ],
+   [
+    "h2",
+    "Choose the Finish You Prefer"
+   ],
+   [
+    "h3",
+    "Manicure & Colour"
+   ],
+   [
+    "h3",
+    "Pedicure & Colour"
+   ],
+   [
+    "h3",
+    "Nail Gel"
+   ],
+   [
+    "h3",
+    "Creative"
+   ],
+   [
+    "h3",
+    "Quality"
+   ],
+   [
+    "h3",
+    "Natural"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "What Makes Gel Nail Art So Popular?"
+   ],
+   [
+    "h2",
+    "Find Nail Art Style That Matches You"
+   ],
+   [
+    "h2",
+    "How Is Gel Nail Art Applied?"
+   ],
+   [
+    "h2",
+    "Gel Nail Art"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "Is Gel Nail Art better than regular nail polish?"
+   ],
+   [
+    "h3",
+    "Can I bring my own nail design reference?"
+   ],
+   [
+    "h3",
+    "Will gel nails damage my natural nails?"
+   ],
+   [
+    "h3",
+    "How long does a Nail Art appointment take?"
+   ],
+   [
+    "h3",
+    "How long will Gel Nail Art last?"
+   ],
+   [
+    "h3",
+    "What is nail art?"
+   ],
+   [
+    "h2",
+    "Explore More Ways to Perfect Your Bali Glow"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Experience Beautiful Nails That Last Beyond Your Bali Holiday"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/shiatsu-massage/": {
+  "url": "https://spabalimoon.com/seminyak/shiatsu-massage/",
+  "title": "Traditional Shiatsu Massage Bali – Energy Flow & Wellness",
+  "description": "Experience Japanese Shiatsu massage therapy in Seminyak, Bali. Gentle stretches and focused pressure release muscle tension, restore energy flow, and promote deep relaxation.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/shiatsu-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Traditional Shiatsu Massage Bali – Energy Flow & Wellness",
+   "og:description": "Experience Japanese Shiatsu massage therapy in Seminyak, Bali. Gentle stretches and focused pressure release muscle tension, restore energy flow, and promote deep relaxation.",
+   "og:url": "https://spabalimoon.com/seminyak/shiatsu-massage/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Traditional Shiatsu Massage Bali – Energy Flow & Wellness",
+   "twitter:description": "Experience Japanese Shiatsu massage therapy in Seminyak, Bali. Gentle stretches and focused pressure release muscle tension, restore energy flow, and promote deep relaxation."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Traditional Shiatsu Massage"
+   ],
+   [
+    "h2",
+    "What Makes Shiatsu Different from Other Massage Techniques?"
+   ],
+   [
+    "h3",
+    "Pressure Point Therapy"
+   ],
+   [
+    "h3",
+    "Gentle Body Stretching"
+   ],
+   [
+    "h2",
+    "Our Duration Options"
+   ],
+   [
+    "h3",
+    "30 Minutes"
+   ],
+   [
+    "h3",
+    "1 Hour"
+   ],
+   [
+    "h3",
+    "1.5 Hours"
+   ],
+   [
+    "h3",
+    "Traditional"
+   ],
+   [
+    "h3",
+    "Pressure"
+   ],
+   [
+    "h3",
+    "Gentle"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "Why Do People Choose Shiatsu Massage?"
+   ],
+   [
+    "h2",
+    "Which Areas Does Shiatsu Commonly Target?"
+   ],
+   [
+    "h2",
+    "How Does Our Shiatsu Massage Work?"
+   ],
+   [
+    "h2",
+    "Shiatsu Massage"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "Is Shiatsu Massage performed with oil?"
+   ],
+   [
+    "h3",
+    "Is Shiatsu suitable for beginners?"
+   ],
+   [
+    "h3",
+    "What is the difference between Shiatsu and Deep Tissue Massage?"
+   ],
+   [
+    "h3",
+    "Can Shiatsu help reduce stress?"
+   ],
+   [
+    "h3",
+    "Can Shiatsu be combined with other spa treatments?"
+   ],
+   [
+    "h3",
+    "Is shiatsu massage painful?"
+   ],
+   [
+    "h3",
+    "What is shiatsu massage good for?"
+   ],
+   [
+    "h3",
+    "When should you not do shiatsu massage?"
+   ],
+   [
+    "h2",
+    "Discover More Than Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Experience the Traditional Japanese Approach to Body Wellness"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/sport-massage/": {
+  "url": "https://spabalimoon.com/seminyak/sport-massage/",
+  "title": "Sports Massage in Bali – Recovery & Performance",
+  "description": "Sports massage therapy in Seminyak tailored for athletes and active guests. Reduce pain, enhance mobility, and enjoy faster recovery in a relaxing spa setting.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/sport-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Sports Massage in Bali – Recovery & Performance",
+   "og:description": "Sports massage therapy in Seminyak tailored for athletes and active guests. Reduce pain, enhance mobility, and enjoy faster recovery in a relaxing spa setting.",
+   "og:url": "https://spabalimoon.com/seminyak/sport-massage/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Sports Massage in Bali – Recovery & Performance",
+   "twitter:description": "Sports massage therapy in Seminyak tailored for athletes and active guests. Reduce pain, enhance mobility, and enjoy faster recovery in a relaxing spa setting."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Sport Massage Seminyak"
+   ],
+   [
+    "h2",
+    "What Makes Sport Massage Different from a Regular Massage?"
+   ],
+   [
+    "h3",
+    "Muscle Recovery"
+   ],
+   [
+    "h3",
+    "Active Mobility"
+   ],
+   [
+    "h2",
+    "Our Session Options"
+   ],
+   [
+    "h3",
+    "1 Hour"
+   ],
+   [
+    "h3",
+    "1.5 Hours"
+   ],
+   [
+    "h3",
+    "Experienced"
+   ],
+   [
+    "h3",
+    "Deep"
+   ],
+   [
+    "h3",
+    "Muscle"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "Who Can Benefit from Sport Massage?"
+   ],
+   [
+    "h2",
+    "Areas That Receive the Most Attention During Sport Massage"
+   ],
+   [
+    "h2",
+    "What Happens During a Sport Massage?"
+   ],
+   [
+    "h2",
+    "Sport Massage"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "Is Sport Massage only for professional athletes?"
+   ],
+   [
+    "h3",
+    "What is the difference between Sport Massage and Deep Tissue Massage?"
+   ],
+   [
+    "h3",
+    "Should I get Sport Massage before or after exercise?"
+   ],
+   [
+    "h3",
+    "Will Sport Massage feel painful?"
+   ],
+   [
+    "h3",
+    "How often should I receive Sport Massage?"
+   ],
+   [
+    "h2",
+    "Take Your Recovery Further"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Renew Your Body After Every Challenge"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/sunburn-massage/": {
+  "url": "https://spabalimoon.com/seminyak/sunburn-massage/",
+  "title": "Sunburn Massage Treatment in Bali - Skin Repair with Soft Aloe Vera",
+  "description": "Our sunburn massage treatment provides quick relief with the healing power of cold aloe vera, known for its soothing effects.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/sunburn-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Sunburn Massage Treatment in Bali - Skin Repair with Soft Aloe Vera",
+   "og:description": "Our sunburn massage treatment provides quick relief with the healing power of cold aloe vera, known for its soothing effects.",
+   "og:url": "https://spabalimoon.com/seminyak/sunburn-massage/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Sunburn Massage Treatment in Bali - Skin Repair with Soft Aloe Vera",
+   "twitter:description": "Our sunburn massage treatment provides quick relief with the healing power of cold aloe vera, known for its soothing effects."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Sunburn Seminyak"
+   ],
+   [
+    "h2",
+    "Why Does Sunburned Skin Need Gentle Treatment?"
+   ],
+   [
+    "h3",
+    "Cooling Care"
+   ],
+   [
+    "h3",
+    "Gentle Application"
+   ],
+   [
+    "h2",
+    "A Dedicated Session for Sun-Exposed Skin"
+   ],
+   [
+    "h3",
+    "1 Hour"
+   ],
+   [
+    "h3",
+    "Aloe Vera"
+   ],
+   [
+    "h3",
+    "Cooling"
+   ],
+   [
+    "h3",
+    "Sensitive"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "How Can a Sunburn Treatment Help?"
+   ],
+   [
+    "h2",
+    "Which Parts of the Body Are Commonly Treated?"
+   ],
+   [
+    "h2",
+    "What to Expect from a Sunburn Treatment"
+   ],
+   [
+    "h2",
+    "After Sun Care"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "Can I get a massage if I have sunburn?"
+   ],
+   [
+    "h3",
+    "Why is aloe vera commonly used after sun exposure?"
+   ],
+   [
+    "h3",
+    "Is this treatment suitable immediately after the beach?"
+   ],
+   [
+    "h3",
+    "Does the treatment focus on the whole body?"
+   ],
+   [
+    "h3",
+    "Can I return to the sun after my appointment?"
+   ],
+   [
+    "h2",
+    "Soothe, Restore, and Explore More"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Give Your Skin the Recovery Time It Deserves"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/thai-massage/": {
+  "url": "https://spabalimoon.com/seminyak/thai-massage/",
+  "title": "Thai Massage Bali - Stretch, Heal, Renew",
+  "description": "Experience authentic Thai massage therapy in Seminyak, Bali. Combining ancient techniques with modern spa comfort, our treatments restore energy and balance.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/thai-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Thai Massage Bali - Stretch, Heal, Renew",
+   "og:description": "Experience authentic Thai massage therapy in Seminyak, Bali. Combining ancient techniques with modern spa comfort, our treatments restore energy and balance.",
+   "og:url": "https://spabalimoon.com/seminyak/thai-massage/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Thai Massage Bali - Stretch, Heal, Renew",
+   "twitter:description": "Experience authentic Thai massage therapy in Seminyak, Bali. Combining ancient techniques with modern spa comfort, our treatments restore energy and balance."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Traditional Thai Massage in Bali"
+   ],
+   [
+    "h2",
+    "What Makes Traditional Thai Massage Unique?"
+   ],
+   [
+    "h3",
+    "Assisted Stretching"
+   ],
+   [
+    "h3",
+    "Pressure Point Focus"
+   ],
+   [
+    "h2",
+    "Thai Massage Duration Options"
+   ],
+   [
+    "h3",
+    "30 Minutes"
+   ],
+   [
+    "h3",
+    "1 Hour"
+   ],
+   [
+    "h3",
+    "1.5 Hours"
+   ],
+   [
+    "h2",
+    "Our Package Options"
+   ],
+   [
+    "h3",
+    "Package A"
+   ],
+   [
+    "h3",
+    "Package B"
+   ],
+   [
+    "h3",
+    "Package C"
+   ],
+   [
+    "h3",
+    "Package D"
+   ],
+   [
+    "h3",
+    "Traditional"
+   ],
+   [
+    "h3",
+    "Guided"
+   ],
+   [
+    "h3",
+    "Body"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "Why Do Guests Choose Thai Massage in Bali?"
+   ],
+   [
+    "h2",
+    "Which Parts of the Body Are Treated During Thai Massage?"
+   ],
+   [
+    "h2",
+    "How Does Traditional Thai Massage Work?"
+   ],
+   [
+    "h2",
+    "Thai Massage"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "What is Traditional Thai Massage?"
+   ],
+   [
+    "h3",
+    "Is Thai Massage different from Balinese Massage?"
+   ],
+   [
+    "h3",
+    "Is Thai Massage suitable for beginners?"
+   ],
+   [
+    "h3",
+    "What should I wear during a Thai Massage session?"
+   ],
+   [
+    "h3",
+    "Is Thai Massage good after a long flight or travel?"
+   ],
+   [
+    "h3",
+    "Can I combine Thai Massage with other spa treatments?"
+   ],
+   [
+    "h2",
+    "Book More Than a Thai Massage"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Increase Your Flexibility with Traditional Thai Massage at Spa Bali Moon"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/traditional-massage/": {
+  "url": "https://spabalimoon.com/seminyak/traditional-massage/",
+  "title": "Traditional Massage — Spa Bali Moon in Seminyak",
+  "description": "Relieve tensions with traditional massage. Let our hands guide you through a journey of passive techniques and soothing recovery.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/traditional-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Traditional Massage — Spa Bali Moon in Seminyak",
+   "og:description": "Relieve tensions with traditional massage. Let our hands guide you through a journey of passive techniques and soothing recovery.",
+   "og:url": "https://spabalimoon.com/seminyak/traditional-massage/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Traditional Massage — Spa Bali Moon in Seminyak",
+   "twitter:description": "Relieve tensions with traditional massage. Let our hands guide you through a journey of passive techniques and soothing recovery."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Traditional Massage Seminyak"
+   ],
+   [
+    "h2",
+    "What Makes Traditional Massage Different?"
+   ],
+   [
+    "h3",
+    "Firm Pressure"
+   ],
+   [
+    "h3",
+    "Full Body Relief"
+   ],
+   [
+    "h2",
+    "Our Session Options"
+   ],
+   [
+    "h3",
+    "1 Hour"
+   ],
+   [
+    "h3",
+    "1.5 Hours"
+   ],
+   [
+    "h3",
+    "2 Hours"
+   ],
+   [
+    "h3",
+    "Traditional"
+   ],
+   [
+    "h3",
+    "Adjustable"
+   ],
+   [
+    "h3",
+    "Warm Oil"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "Why Do Guests Choose Traditional Massage?"
+   ],
+   [
+    "h2",
+    "Which Areas Receive the Most Attention?"
+   ],
+   [
+    "h2",
+    "Inside a Traditional Massage Session"
+   ],
+   [
+    "h2",
+    "Traditional Massage"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "What is Traditional Massage?"
+   ],
+   [
+    "h3",
+    "What is the difference between Traditional Massage and Balinese Massage?"
+   ],
+   [
+    "h3",
+    "Is Traditional Massage painful?"
+   ],
+   [
+    "h3",
+    "Is Traditional Massage suitable for first-time guests?"
+   ],
+   [
+    "h3",
+    "Should I choose Traditional Massage or Deep Tissue Massage?"
+   ],
+   [
+    "h2",
+    "Go Beyond Traditional Massage"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Restore Your Body After Long Days in Bali"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/seminyak/waxing-salon/": {
+  "url": "https://spabalimoon.com/seminyak/waxing-salon/",
+  "title": "Waxing Treatment in Bali – Smooth & Confident Skin",
+  "description": "Discover waxing therapy in Seminyak, Bali. From brows to full body, our treatments deliver silky skin with expert precision in a relaxing spa atmosphere.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/seminyak/waxing-salon/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Waxing Treatment in Bali – Smooth & Confident Skin",
+   "og:description": "Discover waxing therapy in Seminyak, Bali. From brows to full body, our treatments deliver silky skin with expert precision in a relaxing spa atmosphere.",
+   "og:url": "https://spabalimoon.com/seminyak/waxing-salon/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Waxing Treatment in Bali – Smooth & Confident Skin",
+   "twitter:description": "Discover waxing therapy in Seminyak, Bali. From brows to full body, our treatments deliver silky skin with expert precision in a relaxing spa atmosphere."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Waxing Seminyak in Bali"
+   ],
+   [
+    "h2",
+    "What Is Professional Waxing Treatment?"
+   ],
+   [
+    "h3",
+    "Longer-Lasting"
+   ],
+   [
+    "h3",
+    "Gentle Finish"
+   ],
+   [
+    "h2",
+    "Our Waxing Options"
+   ],
+   [
+    "h3",
+    "Arms"
+   ],
+   [
+    "h3",
+    "Under Arms"
+   ],
+   [
+    "h3",
+    "Back"
+   ],
+   [
+    "h3",
+    "Full Back"
+   ],
+   [
+    "h3",
+    "Half Legs"
+   ],
+   [
+    "h3",
+    "Full Legs"
+   ],
+   [
+    "h3",
+    "Waxing Brazilian"
+   ],
+   [
+    "h3",
+    "Private"
+   ],
+   [
+    "h3",
+    "Quality"
+   ],
+   [
+    "h3",
+    "Various"
+   ],
+   [
+    "h3",
+    "Outcall"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "Why Do Guests Choose Waxing Treatment in Bali?"
+   ],
+   [
+    "h2",
+    "Which Areas Can Be Treated with Waxing?"
+   ],
+   [
+    "h2",
+    "How Does a Waxing Treatment Work?"
+   ],
+   [
+    "h2",
+    "Waxing Treatment"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "How long does waxing results usually last?"
+   ],
+   [
+    "h3",
+    "Is waxing painful?"
+   ],
+   [
+    "h3",
+    "Should I shave before my waxing appointment?"
+   ],
+   [
+    "h3",
+    "Can I get Brazilian waxing at Spa Bali Moon?"
+   ],
+   [
+    "h3",
+    "What should I avoid after waxing?"
+   ],
+   [
+    "h3",
+    "Is waxing suitable for men?"
+   ],
+   [
+    "h2",
+    "Complete Your Smooth-Skin Ritual"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ],
+   [
+    "h3",
+    "Balinese Massage"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage"
+   ],
+   [
+    "h3",
+    "Sports Massage"
+   ],
+   [
+    "h3",
+    "Thai Massage"
+   ],
+   [
+    "h3",
+    "Lymphatic Massage"
+   ],
+   [
+    "h3",
+    "Shiatsu Massage"
+   ],
+   [
+    "h3",
+    "Traditional Massage"
+   ],
+   [
+    "h3",
+    "Virgin Cold-Press Coconut Oil Massage"
+   ],
+   [
+    "h3",
+    "Foot Massage"
+   ],
+   [
+    "h3",
+    "Body Scrub"
+   ],
+   [
+    "h3",
+    "Hair Cream Bath"
+   ],
+   [
+    "h3",
+    "Manicure Pedicure"
+   ],
+   [
+    "h3",
+    "Couple Massage Balinese"
+   ],
+   [
+    "h2",
+    "Smooth Skin Starts with the Right Care at Spa Bali Moon"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/terms-and-conditions/": {
+  "url": "https://spabalimoon.com/terms-and-conditions/",
+  "title": "Spa Bali Moon Terms and Conditions",
+  "description": "Review Spa Bali Moon’s terms and conditions outlining policies, services, and guest responsibilities for a seamless experience.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/terms-and-conditions/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Spa Bali Moon Terms and Conditions",
+   "og:description": "Review Spa Bali Moon’s terms and conditions outlining policies, services, and guest responsibilities for a seamless experience.",
+   "og:url": "https://spabalimoon.com/terms-and-conditions/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Spa Bali Moon Terms and Conditions",
+   "twitter:description": "Review Spa Bali Moon’s terms and conditions outlining policies, services, and guest responsibilities for a seamless experience."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Terms & Conditions"
+   ],
+   [
+    "h3",
+    "Spa Etiquette"
+   ],
+   [
+    "h3",
+    "Bookings & Arrival"
+   ],
+   [
+    "h3",
+    "Maintaining Serenity"
+   ],
+   [
+    "h3",
+    "Respect & Professional Conduct"
+   ],
+   [
+    "h3",
+    "Cancellation & Rescheduling"
+   ],
+   [
+    "h3",
+    "Home Service Transport"
+   ],
+   [
+    "h3",
+    "Liability"
+   ],
+   [
+    "h4",
+    "Hours of Operation"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/villa-hotel-massage/": {
+  "url": "https://spabalimoon.com/villa-hotel-massage/",
+  "title": "In-Room Villa & Hotel Massage Services - Seminyak, Bali",
+  "description": "In-room massage service with authentic Balinese techniques. Feel great in Bali with our villa and hotel massage.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/villa-hotel-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "In-Room Villa & Hotel Massage Services - Seminyak, Bali",
+   "og:description": "In-room massage service with authentic Balinese techniques. Feel great in Bali with our villa and hotel massage.",
+   "og:url": "https://spabalimoon.com/villa-hotel-massage/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "In-Room Villa & Hotel Massage Services - Seminyak, Bali",
+   "twitter:description": "In-room massage service with authentic Balinese techniques. Feel great in Bali with our villa and hotel massage."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Hotel Villa Massage in Seminyak"
+   ],
+   [
+    "h2",
+    "What Is an In-Room Massage?"
+   ],
+   [
+    "h3",
+    "No Travel Required"
+   ],
+   [
+    "h3",
+    "Experienced Therapists"
+   ],
+   [
+    "h3",
+    "Delivered"
+   ],
+   [
+    "h3",
+    "Professional"
+   ],
+   [
+    "h3",
+    "Flexible"
+   ],
+   [
+    "h3",
+    "Easy WhatsApp"
+   ],
+   [
+    "h4",
+    "Bea Tan"
+   ],
+   [
+    "h4",
+    "Michael Smith"
+   ],
+   [
+    "h4",
+    "Trisna faris"
+   ],
+   [
+    "h4",
+    "Elena Lagovskaya"
+   ],
+   [
+    "h4",
+    "Chantal Haban"
+   ],
+   [
+    "h4",
+    "Bill Peterson"
+   ],
+   [
+    "h4",
+    "Ava Saraskittya"
+   ],
+   [
+    "h4",
+    "J. L.H.D"
+   ],
+   [
+    "h4",
+    "Pong ki"
+   ],
+   [
+    "h4",
+    "Lina Kamsiana"
+   ],
+   [
+    "h4",
+    "Putra Wirawan"
+   ],
+   [
+    "h4",
+    "wulan Dhari"
+   ],
+   [
+    "h4",
+    "Eny Harnani"
+   ],
+   [
+    "h4",
+    "Aziz"
+   ],
+   [
+    "h4",
+    "Sascha US TT (Hothouse2001)"
+   ],
+   [
+    "h4",
+    "Pur Nami"
+   ],
+   [
+    "h4",
+    "Soojung Park"
+   ],
+   [
+    "h4",
+    "WILLY COPPENOLLE"
+   ],
+   [
+    "h4",
+    "Agita Ajeng"
+   ],
+   [
+    "h4",
+    "Tudor Dinu"
+   ],
+   [
+    "h4",
+    "Надежда Селезнева"
+   ],
+   [
+    "h4",
+    "Komang Eka"
+   ],
+   [
+    "h4",
+    "WAWAN DARMAWAN"
+   ],
+   [
+    "h2",
+    "Why Book a Massage at Your Hotel or Villa?"
+   ],
+   [
+    "h2",
+    "Treatments That Work Well in Your Hotel or Villa"
+   ],
+   [
+    "h2",
+    "Booking Your Hotel & Villa Massage"
+   ],
+   [
+    "h2",
+    "Relax In Your Room"
+   ],
+   [
+    "h2",
+    "Everything You Need to Know"
+   ],
+   [
+    "h3",
+    "How do I book a hotel or villa massage in Seminyak?"
+   ],
+   [
+    "h3",
+    "How long does it take for the therapist to arrive?"
+   ],
+   [
+    "h3",
+    "Can I book a massage for more than one person?"
+   ],
+   [
+    "h3",
+    "Can I book more than just a massage?"
+   ],
+   [
+    "h3",
+    "Is there an additional fee for home service?"
+   ],
+   [
+    "h3",
+    "How can I pay for my in-room treatment?"
+   ],
+   [
+    "h2",
+    "Bring the Spa Experience to Your Hotel or Villa"
+   ],
+   [
+    "h2",
+    "Massage Services for Your Stay"
+   ],
+   [
+    "h3",
+    "Foot Reflexology"
+   ],
+   [
+    "h3",
+    "Head Massage"
+   ],
+   [
+    "h3",
+    "Hot Stone Massage"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/wellness-in-bali/": {
+  "url": "https://spabalimoon.com/wellness-in-bali/",
+  "title": "Wellness Bali Guide",
+  "description": "Discover the ultimate wellness experiences in Bali, view our recommendations for wellness retreats to rejuvenating spa treatments.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/wellness-in-bali/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "website",
+   "og:title": "Wellness Bali Guide",
+   "og:description": "Discover the ultimate wellness experiences in Bali, view our recommendations for wellness retreats to rejuvenating spa treatments.",
+   "og:url": "https://spabalimoon.com/wellness-in-bali/"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Wellness Bali Guide",
+   "twitter:description": "Discover the ultimate wellness experiences in Bali, view our recommendations for wellness retreats to rejuvenating spa treatments."
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Wellness Guide in Bali"
+   ],
+   [
+    "h2",
+    "What to Know"
+   ],
+   [
+    "h2",
+    "Spa Bali Moon"
+   ],
+   [
+    "h2",
+    "COMO Shambhala Estate"
+   ],
+   [
+    "h2",
+    "REVĪVŌ Wellness Resort"
+   ],
+   [
+    "h2",
+    "Sukhavati Ayurvedic Retreat"
+   ],
+   [
+    "h2",
+    "Nyuh Bali Luxury Spa"
+   ],
+   [
+    "h2",
+    "Fivelements Retreat"
+   ],
+   [
+    "h2",
+    "Floating Leaf Eco-Luxury Retreat"
+   ],
+   [
+    "h2",
+    "Four Seasons Resort"
+   ],
+   [
+    "h2",
+    "The Apurva Kempinski"
+   ],
+   [
+    "h2",
+    "Wellness Retreats in Bali for Recharging Your Body and Mind"
+   ],
+   [
+    "h2",
+    "Learn More"
+   ],
+   [
+    "h3",
+    "What types of treatments are available at Spa Bali Moon?"
+   ],
+   [
+    "h3",
+    "What unique programs does REVĪVŌ Wellness Resort offer?"
+   ],
+   [
+    "h3",
+    "Can guests experience luxury spa treatments at Nyuh Bali Villas?"
+   ],
+   [
+    "h3",
+    "What wellness services does the Four Seasons Resort in Bali offer?"
+   ],
+   [
+    "h3",
+    "Are there Bali retreats that focus on reforestation and other eco-friendly initiatives?"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/guide/lymphatic-drainage-massage-benefits-techniques-what-to-expect/": {
+  "url": "https://spabalimoon.com/guide/lymphatic-drainage-massage-benefits-techniques-what-to-expect/",
+  "title": "A Guide To Lymphatic Drainage Massage",
+  "description": "Learn how lymphatic drainage massage works, its potential benefits, techniques, recovery support, safety considerations, and what to expect during a treatment session.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/guide/lymphatic-drainage-massage-benefits-techniques-what-to-expect/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "article",
+   "og:title": "A Guide To Lymphatic Drainage Massage",
+   "og:description": "Learn how lymphatic drainage massage works, its potential benefits, techniques, recovery support, safety considerations, and what to expect during a treatment session.",
+   "og:url": "https://spabalimoon.com/guide/lymphatic-drainage-massage-benefits-techniques-what-to-expect/",
+   "og:image": "https://spabalimoon.com/images/guide/lymphatic-drainage-blog-spa-bali-moon.webp"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "A Guide To Lymphatic Drainage Massage",
+   "twitter:description": "Learn how lymphatic drainage massage works, its potential benefits, techniques, recovery support, safety considerations, and what to expect during a treatment session.",
+   "twitter:image": "https://spabalimoon.com/images/guide/lymphatic-drainage-blog-spa-bali-moon.webp"
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "A Guide To Lymphatic Drainage Massage"
+   ],
+   [
+    "h3",
+    "A Guide To Lymphatic Drainage Massage"
+   ],
+   [
+    "h2",
+    "What Is Lymphatic Drainage Massage?"
+   ],
+   [
+    "h2",
+    "What Is the Lymphatic System?"
+   ],
+   [
+    "h2",
+    "What Are the Benefits of Lymphatic Drainage Massage?"
+   ],
+   [
+    "h2",
+    "How Does Lymphatic Drainage Massage Work?"
+   ],
+   [
+    "h2",
+    "How Is Lymphatic Drainage Massage Different From Regular Massage?"
+   ],
+   [
+    "h2",
+    "What Techniques Are Used During Lymphatic Drainage Massage?"
+   ],
+   [
+    "h3",
+    "Manual Lymphatic Drainage (MLD)"
+   ],
+   [
+    "h3",
+    "Lymph Node Stimulation"
+   ],
+   [
+    "h3",
+    "Directional Flow Techniques"
+   ],
+   [
+    "h3",
+    "Whole-Body Lymphatic Support"
+   ],
+   [
+    "h2",
+    "Can Lymphatic Drainage Massage Help Reduce Swelling?"
+   ],
+   [
+    "h2",
+    "Is Lymphatic Drainage Massage Helpful After Surgery?"
+   ],
+   [
+    "h2",
+    "Can Lymphatic Drainage Massage Support Wellness and Recovery?"
+   ],
+   [
+    "h2",
+    "Is Lymphatic Drainage Massage Safe?"
+   ],
+   [
+    "h2",
+    "Who Should Avoid Lymphatic Drainage Massage?"
+   ],
+   [
+    "h2",
+    "What to Expect During a Lymphatic Drainage Massage"
+   ],
+   [
+    "h2",
+    "How Often Should You Get Lymphatic Drainage Massage?"
+   ],
+   [
+    "h2",
+    "Who May Benefit From Lymphatic Drainage Massage?"
+   ],
+   [
+    "h2",
+    "Frequently Asked Questions"
+   ],
+   [
+    "h3",
+    "What Is Lymphatic Drainage Massage?"
+   ],
+   [
+    "h3",
+    "How Does Lymphatic Drainage Massage Work?"
+   ],
+   [
+    "h3",
+    "Can Lymphatic Drainage Massage Reduce Swelling?"
+   ],
+   [
+    "h3",
+    "Is Lymphatic Drainage Massage Painful?"
+   ],
+   [
+    "h3",
+    "How Long Does a Session Last?"
+   ],
+   [
+    "h3",
+    "How Often Should You Get Lymphatic Drainage Massage?"
+   ],
+   [
+    "h2",
+    "Conclusion"
+   ],
+   [
+    "h3",
+    "Latest Posts"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon What Is a Balinese Massage? A Complete Guide for First Timer"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon Thai Massage Benefits & Techniques Explained"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon Facial Massage Benefits for Modern Self‑Care"
+   ],
+   [
+    "h3",
+    "More Articles"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/guide/what-is-a-balinese-massage/": {
+  "url": "https://spabalimoon.com/guide/what-is-a-balinese-massage/",
+  "title": "What Is a Balinese Massage? A Complete Guide for First Timer",
+  "description": "Discover what makes Balinese massage unique, including its techniques, benefits, pressure style, and why it is one of Bali’s most popular spa treatments.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/guide/what-is-a-balinese-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "article",
+   "og:title": "What Is a Balinese Massage? A Complete Guide for First Timer",
+   "og:description": "Discover what makes Balinese massage unique, including its techniques, benefits, pressure style, and why it is one of Bali’s most popular spa treatments.",
+   "og:url": "https://spabalimoon.com/guide/what-is-a-balinese-massage/",
+   "og:image": "https://spabalimoon.com/images/guide/balinese-massage-blog-spa-bali-moon.webp"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "What Is a Balinese Massage? A Complete Guide for First Timer",
+   "twitter:description": "Discover what makes Balinese massage unique, including its techniques, benefits, pressure style, and why it is one of Bali’s most popular spa treatments.",
+   "twitter:image": "https://spabalimoon.com/images/guide/balinese-massage-blog-spa-bali-moon.webp"
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "What Is a Balinese Massage? A Complete Guide for First Timer"
+   ],
+   [
+    "h3",
+    "What Is a Balinese Massage? A Complete Guide for First Timer"
+   ],
+   [
+    "h2",
+    "Understanding Traditional Balinese Massage"
+   ],
+   [
+    "h2",
+    "Where Does Balinese Massage Come From?"
+   ],
+   [
+    "h2",
+    "What Makes a Balinese Massage Unique?"
+   ],
+   [
+    "h2",
+    "What Techniques Are Used in a Balinese Massage?"
+   ],
+   [
+    "h3",
+    "Long Flowing Strokes"
+   ],
+   [
+    "h3",
+    "Acupressure"
+   ],
+   [
+    "h3",
+    "Gentle Stretching"
+   ],
+   [
+    "h3",
+    "Aromatherapy Massage"
+   ],
+   [
+    "h3",
+    "Muscle Relaxation Techniques"
+   ],
+   [
+    "h2",
+    "Why Is Balinese Massage One of the Most Popular Massage Treatments in Bali?"
+   ],
+   [
+    "h2",
+    "What Are the Benefits of Balinese Massage?"
+   ],
+   [
+    "h2",
+    "How Is Balinese Massage Different from Other Types of Massage?"
+   ],
+   [
+    "h2",
+    "Who May Benefit from a Balinese Massage?"
+   ],
+   [
+    "h2",
+    "What Should You Expect During a Balinese Massage?"
+   ],
+   [
+    "h2",
+    "Why Choose a Balinese Massage During Your Bali Holiday?"
+   ],
+   [
+    "h2",
+    "Frequently Asked Questions"
+   ],
+   [
+    "h3",
+    "What Is a Balinese Massage?"
+   ],
+   [
+    "h3",
+    "Is Balinese Massage the Same as a Massage in Bali?"
+   ],
+   [
+    "h3",
+    "What Techniques Are Used in Balinese Massage?"
+   ],
+   [
+    "h3",
+    "Who Should Try a Balinese Massage?"
+   ],
+   [
+    "h3",
+    "How Long Does a Balinese Massage Last?"
+   ],
+   [
+    "h2",
+    "Conclusion"
+   ],
+   [
+    "h3",
+    "Latest Posts"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon A Guide To Lymphatic Drainage Massage"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon Thai Massage Benefits & Techniques Explained"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon Facial Massage Benefits for Modern Self‑Care"
+   ],
+   [
+    "h3",
+    "More Articles"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/guide/what-is-thai-massage/": {
+  "url": "https://spabalimoon.com/guide/what-is-thai-massage/",
+  "title": "Thai Massage Benefits & Techniques Explained",
+  "description": "Discover Thai massage benefits and techniques. Learn how it works, who it’s best for, and how this traditional therapy restores balance and flexibility.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/guide/what-is-thai-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "article",
+   "og:title": "Thai Massage Benefits & Techniques Explained",
+   "og:description": "Discover Thai massage benefits and techniques. Learn how it works, who it’s best for, and how this traditional therapy restores balance and flexibility.",
+   "og:url": "https://spabalimoon.com/guide/what-is-thai-massage/",
+   "og:image": "https://spabalimoon.com/images/guide/thai-massage-blog-spa-bali-moon.webp"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Thai Massage Benefits & Techniques Explained",
+   "twitter:description": "Discover Thai massage benefits and techniques. Learn how it works, who it’s best for, and how this traditional therapy restores balance and flexibility.",
+   "twitter:image": "https://spabalimoon.com/images/guide/thai-massage-blog-spa-bali-moon.webp"
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Thai Massage Benefits & Techniques Explained"
+   ],
+   [
+    "h3",
+    "Thai Massage Benefits & Techniques Explained"
+   ],
+   [
+    "h2",
+    "What Is Thai Massage?"
+   ],
+   [
+    "h2",
+    "The Origins of Traditional Thai Massage"
+   ],
+   [
+    "h2",
+    "How Does Thai Massage Work?"
+   ],
+   [
+    "h2",
+    "What Makes Thai Massage Different from Other Massage Treatments?"
+   ],
+   [
+    "h2",
+    "How Facial Massage Supports Skin Wellness"
+   ],
+   [
+    "h2",
+    "Common Techniques Used in Thai Massage"
+   ],
+   [
+    "h3",
+    "Assisted Stretching"
+   ],
+   [
+    "h3",
+    "Acupressure"
+   ],
+   [
+    "h3",
+    "Rhythmic Compression"
+   ],
+   [
+    "h3",
+    "Joint Mobilization"
+   ],
+   [
+    "h3",
+    "Full-Body Bodywork"
+   ],
+   [
+    "h2",
+    "What Are the Benefits of Thai Massage?"
+   ],
+   [
+    "h2",
+    "Who Is Thai Massage Best For?"
+   ],
+   [
+    "h3",
+    "Travelers"
+   ],
+   [
+    "h3",
+    "Office Workers"
+   ],
+   [
+    "h3",
+    "Active Individuals"
+   ],
+   [
+    "h3",
+    "Individuals Experiencing General Stiffness"
+   ],
+   [
+    "h2",
+    "Is Thai Massage Good for Muscle Tension?"
+   ],
+   [
+    "h2",
+    "Can Thai Massage Help Improve Flexibility?"
+   ],
+   [
+    "h2",
+    "Is Thai Massage Good After Exercise?"
+   ],
+   [
+    "h2",
+    "Is Thai Massage Suitable for Beginners?"
+   ],
+   [
+    "h2",
+    "How Often Should You Get a Thai Massage?"
+   ],
+   [
+    "h2",
+    "What Should You Wear During a Thai Massage?"
+   ],
+   [
+    "h2",
+    "Frequently Asked Questions"
+   ],
+   [
+    "h3",
+    "What Is Thai Massage?"
+   ],
+   [
+    "h3",
+    "Is Thai Massage Relaxing?"
+   ],
+   [
+    "h3",
+    "Is Thai Massage Painful?"
+   ],
+   [
+    "h3",
+    "Can Thai Massage Improve Flexibility?"
+   ],
+   [
+    "h3",
+    "How Long Does a Thai Massage Session Last?"
+   ],
+   [
+    "h3",
+    "Is Thai Massage Suitable for First-Time Visitors?"
+   ],
+   [
+    "h2",
+    "Conclusion"
+   ],
+   [
+    "h3",
+    "Latest Posts"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon A Guide To Lymphatic Drainage Massage"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon What Is a Balinese Massage? A Complete Guide for First Timer"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon Facial Massage Benefits for Modern Self‑Care"
+   ],
+   [
+    "h3",
+    "More Articles"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/guide/understanding-of-facial-massage/": {
+  "url": "https://spabalimoon.com/guide/understanding-of-facial-massage/",
+  "title": "Facial Massage Benefits for Modern Self‑Care",
+  "description": "Learn why facial massage is a popular self‑care trend. Discover its benefits for relaxation, circulation, and skin health in modern routines.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/guide/understanding-of-facial-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "article",
+   "og:title": "Facial Massage Benefits for Modern Self‑Care",
+   "og:description": "Learn why facial massage is a popular self‑care trend. Discover its benefits for relaxation, circulation, and skin health in modern routines.",
+   "og:url": "https://spabalimoon.com/guide/understanding-of-facial-massage/",
+   "og:image": "https://spabalimoon.com/images/guide/facial-massage-blog-spa-bali-moon.webp"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Facial Massage Benefits for Modern Self‑Care",
+   "twitter:description": "Learn why facial massage is a popular self‑care trend. Discover its benefits for relaxation, circulation, and skin health in modern routines.",
+   "twitter:image": "https://spabalimoon.com/images/guide/facial-massage-blog-spa-bali-moon.webp"
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Facial Massage Benefits for Modern Self‑Care"
+   ],
+   [
+    "h3",
+    "Facial Massage Benefits for Modern Self‑Care"
+   ],
+   [
+    "h2",
+    "More Than Just a Beauty Treatment"
+   ],
+   [
+    "h2",
+    "Why Does the Face Hold So Much Tension?"
+   ],
+   [
+    "h2",
+    "What Happens During a Facial Massage?"
+   ],
+   [
+    "h2",
+    "How Facial Massage Supports Skin Wellness"
+   ],
+   [
+    "h2",
+    "Facial Massage vs Traditional Facial Treatments"
+   ],
+   [
+    "h2",
+    "Who Typically Books a Facial Massage?"
+   ],
+   [
+    "h2",
+    "Is Facial Massage Good for Relaxation?"
+   ],
+   [
+    "h2",
+    "How Often Should You Get a Facial Massage?"
+   ],
+   [
+    "h2",
+    "Frequently Asked Questions"
+   ],
+   [
+    "h3",
+    "What Is a Facial Massage?"
+   ],
+   [
+    "h3",
+    "Does Facial Massage Include the Neck?"
+   ],
+   [
+    "h3",
+    "Is Facial Massage Relaxing?"
+   ],
+   [
+    "h3",
+    "How Long Does a Facial Massage Last?"
+   ],
+   [
+    "h3",
+    "Can Facial Massage Be Part of a Skincare Routine?"
+   ],
+   [
+    "h2",
+    "Conclusion"
+   ],
+   [
+    "h3",
+    "Latest Posts"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon A Guide To Lymphatic Drainage Massage"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon What Is a Balinese Massage? A Complete Guide for First Timer"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon Thai Massage Benefits & Techniques Explained"
+   ],
+   [
+    "h3",
+    "More Articles"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/guide/understanding-slimming-massage/": {
+  "url": "https://spabalimoon.com/guide/understanding-slimming-massage/",
+  "title": "Slimming Massage Benefits & How It Works",
+  "description": "Learn how slimming massage works, its potential benefits, and what to know before booking. Discover techniques that support body contouring and wellness.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/guide/understanding-slimming-massage/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "article",
+   "og:title": "Slimming Massage Benefits & How It Works",
+   "og:description": "Learn how slimming massage works, its potential benefits, and what to know before booking. Discover techniques that support body contouring and wellness.",
+   "og:url": "https://spabalimoon.com/guide/understanding-slimming-massage/",
+   "og:image": "https://spabalimoon.com/images/guide/slimming-massage-blog-spa-bali-moon.webp"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Slimming Massage Benefits & How It Works",
+   "twitter:description": "Learn how slimming massage works, its potential benefits, and what to know before booking. Discover techniques that support body contouring and wellness.",
+   "twitter:image": "https://spabalimoon.com/images/guide/slimming-massage-blog-spa-bali-moon.webp"
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Slimming Massage Benefits & How It Works"
+   ],
+   [
+    "h3",
+    "Slimming Massage Benefits & How It Works"
+   ],
+   [
+    "h2",
+    "What Is a Slimming Massage?"
+   ],
+   [
+    "h2",
+    "Why Do People Choose Slimming Massage?"
+   ],
+   [
+    "h2",
+    "How Does Slimming Massage Work?"
+   ],
+   [
+    "h2",
+    "What Techniques Are Commonly Used in Slimming Massage?"
+   ],
+   [
+    "h3",
+    "Targeted Body Massage"
+   ],
+   [
+    "h3",
+    "Firm Rhythmic Strokes"
+   ],
+   [
+    "h3",
+    "Deep Tissue Techniques"
+   ],
+   [
+    "h3",
+    "Circulation-Focused Massage"
+   ],
+   [
+    "h3",
+    "Body Contouring Techniques"
+   ],
+   [
+    "h2",
+    "Which Areas Are Commonly Treated?"
+   ],
+   [
+    "h3",
+    "Can Slimming Massage Help Reduce Bloating?"
+   ],
+   [
+    "h3",
+    "Can Slimming Massage Improve Skin Appearance?"
+   ],
+   [
+    "h3",
+    "Is Slimming Massage a Weight-Loss Treatment?"
+   ],
+   [
+    "h2",
+    "Who May Benefit from Slimming Massage?"
+   ],
+   [
+    "h3",
+    "How Often Should You Get a Slimming Massage?"
+   ],
+   [
+    "h2",
+    "What Should You Do After a Slimming Massage?"
+   ],
+   [
+    "h2",
+    "What Results Can You Expect from Slimming Massage?"
+   ],
+   [
+    "h2",
+    "Frequently Asked Questions"
+   ],
+   [
+    "h3",
+    "What Is a Slimming Massage?"
+   ],
+   [
+    "h3",
+    "Does Slimming Massage Help with Weight Loss?"
+   ],
+   [
+    "h3",
+    "Can Slimming Massage Reduce Bloating?"
+   ],
+   [
+    "h3",
+    "Which Areas Are Treated During a Slimming Massage?"
+   ],
+   [
+    "h3",
+    "How Long Does a Slimming Massage Session Last?"
+   ],
+   [
+    "h3",
+    "How Often Should I Get a Slimming Massage?"
+   ],
+   [
+    "h2",
+    "Conclusion"
+   ],
+   [
+    "h3",
+    "Latest Posts"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon A Guide To Lymphatic Drainage Massage"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon What Is a Balinese Massage? A Complete Guide for First Timer"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon Thai Massage Benefits & Techniques Explained"
+   ],
+   [
+    "h3",
+    "More Articles"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/guide/best-massages-after-a-long-flight/": {
+  "url": "https://spabalimoon.com/guide/best-massages-after-a-long-flight/",
+  "title": "Best Massage After a Long Flight – Jet Lag Relie",
+  "description": "Discover the best massage after a long flight. From Swedish to Thai, ease stiffness, improve circulation, and restore comfort for faster recovery.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/guide/best-massages-after-a-long-flight/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "article",
+   "og:title": "Best Massage After a Long Flight – Jet Lag Relie",
+   "og:description": "Discover the best massage after a long flight. From Swedish to Thai, ease stiffness, improve circulation, and restore comfort for faster recovery.",
+   "og:url": "https://spabalimoon.com/guide/best-massages-after-a-long-flight/",
+   "og:image": "https://spabalimoon.com/images/guide/jet-lag-recovery-blog-spa-bali-moon.webp"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Best Massage After a Long Flight – Jet Lag Relie",
+   "twitter:description": "Discover the best massage after a long flight. From Swedish to Thai, ease stiffness, improve circulation, and restore comfort for faster recovery.",
+   "twitter:image": "https://spabalimoon.com/images/guide/jet-lag-recovery-blog-spa-bali-moon.webp"
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "Best Massages for Jet Lag Recovery After a Long Flight"
+   ],
+   [
+    "h3",
+    "Best Massages for Jet Lag Recovery After a Long Flight"
+   ],
+   [
+    "h2",
+    "Experience the Best Massages to Beat Jet Lag"
+   ],
+   [
+    "h2",
+    "Can Spa Massages Help With Jet Lag?"
+   ],
+   [
+    "h2",
+    "Which Massage Is Best After a Flight?"
+   ],
+   [
+    "h3",
+    "Swedish Massage: The Best Overall Choice"
+   ],
+   [
+    "h3",
+    "Traditional Balinese Massage: A Relaxing Recovery Experience"
+   ],
+   [
+    "h3",
+    "Thai Massage: Best for Stiffness and Tight Muscles"
+   ],
+   [
+    "h3",
+    "Lymphatic Drainage Massage: Best for Swollen Legs"
+   ],
+   [
+    "h3",
+    "Foot Reflexology: Best for Tired Feet"
+   ],
+   [
+    "h3",
+    "Deep Tissue Massage: Better After Initial Recovery"
+   ],
+   [
+    "h2",
+    "Best Spa Treatments for Better Sleep After Travel"
+   ],
+   [
+    "h2",
+    "Tips for Using Spa Treatments to Recover From Jet Lag"
+   ],
+   [
+    "h2",
+    "Recover and Relax at Spa Bali Moon"
+   ],
+   [
+    "h3",
+    "Latest Posts"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon A Guide To Lymphatic Drainage Massage"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon What Is a Balinese Massage? A Complete Guide for First Timer"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon Thai Massage Benefits & Techniques Explained"
+   ],
+   [
+    "h3",
+    "More Articles"
+   ]
+  ],
+  "lang": "en"
+ },
+ "https://spabalimoon.com/guide/iv-drip/": {
+  "url": "https://spabalimoon.com/guide/iv-drip/",
+  "title": "IV Drip Therapy in Bali - Saline Infusion",
+  "description": "Rehydrate and revitalize in Bali with IV drip therapy. Tailored treatments for wellness, recovery, and immune support at Spa Bali Moon.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://spabalimoon.com/guide/iv-drip/",
+  "og": {
+   "og:locale": "en_US",
+   "og:site_name": "Spa Bali Moon",
+   "og:type": "article",
+   "og:title": "IV Drip Therapy in Bali - Saline Infusion",
+   "og:description": "Rehydrate and revitalize in Bali with IV drip therapy. Tailored treatments for wellness, recovery, and immune support at Spa Bali Moon.",
+   "og:url": "https://spabalimoon.com/guide/iv-drip/",
+   "og:image": "https://spabalimoon.com/images/guide/iv-drip-therapy-banner-1024x576.webp"
+  },
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:title": "IV Drip Therapy in Bali - Saline Infusion",
+   "twitter:description": "Rehydrate and revitalize in Bali with IV drip therapy. Tailored treatments for wellness, recovery, and immune support at Spa Bali Moon.",
+   "twitter:image": "https://spabalimoon.com/images/guide/iv-drip-therapy-banner-1024x576.webp"
+  },
+  "hreflang": [],
+  "jsonld": [],
+  "headings": [
+   [
+    "h1",
+    "IV Drip Therapy in Bali"
+   ],
+   [
+    "h3",
+    "IV Drip Therapy in Bali"
+   ],
+   [
+    "h2",
+    "Book IV Drip Therapy"
+   ],
+   [
+    "h2",
+    "Learn More About IV Drip Therapy"
+   ],
+   [
+    "h2",
+    "Combination of Saline with Vitamins and Medications"
+   ],
+   [
+    "h2",
+    "Faster Than Oral Medications"
+   ],
+   [
+    "h2",
+    "Immune Booster"
+   ],
+   [
+    "h2",
+    "Improves Skin Health"
+   ],
+   [
+    "h2",
+    "Bring Your Body Back Into Balance with IV Drip Therapy"
+   ],
+   [
+    "h2",
+    "IV Drip Therapy with Thrive Wellness Bali"
+   ],
+   [
+    "h3",
+    "Latest Posts"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon A Guide To Lymphatic Drainage Massage"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon What Is a Balinese Massage? A Complete Guide for First Timer"
+   ],
+   [
+    "h3",
+    "Spa Bali Moon Thai Massage Benefits & Techniques Explained"
+   ],
+   [
+    "h3",
+    "More Articles"
+   ]
+  ],
+  "lang": "en"
+ }
+}

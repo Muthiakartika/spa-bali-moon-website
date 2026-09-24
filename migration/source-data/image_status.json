@@ -1,0 +1,4220 @@
+{
+ "/images/shape/banner-two-shape.png": {
+  "url": "https://spabalimoon.com/images/shape/banner-two-shape.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 9751,
+  "w": 325,
+  "h": 331,
+  "orientation": "square"
+ },
+ "/images/contact/contact-1.webp": {
+  "url": "https://spabalimoon.com/images/contact/contact-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 49304,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/contact/contact-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/contact/contact-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 14604,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/logo/sbm.webp": {
+  "url": "https://spabalimoon.com/images/logo/sbm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19692,
+  "w": 659,
+  "h": 515,
+  "orientation": "landscape"
+ },
+ "/images/guide/lymphatic-drainage-blog-spa-bali-moon.webp": {
+  "url": "https://spabalimoon.com/images/guide/lymphatic-drainage-blog-spa-bali-moon.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 89582,
+  "w": 1920,
+  "h": 1080,
+  "orientation": "landscape"
+ },
+ "/images/guide/balinese-massage-blog-spa-bali-moon.webp": {
+  "url": "https://spabalimoon.com/images/guide/balinese-massage-blog-spa-bali-moon.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 110868,
+  "w": 1920,
+  "h": 1080,
+  "orientation": "landscape"
+ },
+ "/images/guide/thai-massage-blog-spa-bali-moon.webp": {
+  "url": "https://spabalimoon.com/images/guide/thai-massage-blog-spa-bali-moon.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 102814,
+  "w": 1920,
+  "h": 1080,
+  "orientation": "landscape"
+ },
+ "/images/guide/facial-massage-blog-spa-bali-moon.webp": {
+  "url": "https://spabalimoon.com/images/guide/facial-massage-blog-spa-bali-moon.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 77884,
+  "w": 1920,
+  "h": 1080,
+  "orientation": "landscape"
+ },
+ "/images/guide/slimming-massage-blog-spa-bali-moon.webp": {
+  "url": "https://spabalimoon.com/images/guide/slimming-massage-blog-spa-bali-moon.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 298594,
+  "w": 1920,
+  "h": 1080,
+  "orientation": "landscape"
+ },
+ "/images/guide/jet-lag-recovery-blog-spa-bali-moon.webp": {
+  "url": "https://spabalimoon.com/images/guide/jet-lag-recovery-blog-spa-bali-moon.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 73254,
+  "w": 1920,
+  "h": 1080,
+  "orientation": "landscape"
+ },
+ "/images/guide/iv-drip-therapy-banner-1024x576.webp": {
+  "url": "https://spabalimoon.com/images/guide/iv-drip-therapy-banner-1024x576.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15728,
+  "w": 1024,
+  "h": 576,
+  "orientation": "landscape"
+ },
+ "/images/guide/swedish-massage-for-jetlag-spa-bali-moon.webp": {
+  "url": "https://spabalimoon.com/images/guide/swedish-massage-for-jetlag-spa-bali-moon.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18112,
+  "w": 660,
+  "h": 372,
+  "orientation": "landscape"
+ },
+ "/images/guide/lymphatic-drainage-spa-bali-moon.webp": {
+  "url": "https://spabalimoon.com/images/guide/lymphatic-drainage-spa-bali-moon.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20492,
+  "w": 605,
+  "h": 341,
+  "orientation": "landscape"
+ },
+ "/images/guide/trafitional-facial-massage-spa-bali-moon.webp": {
+  "url": "https://spabalimoon.com/images/guide/trafitional-facial-massage-spa-bali-moon.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 22512,
+  "w": 660,
+  "h": 372,
+  "orientation": "landscape"
+ },
+ "/images/guide/targeted-body-massage-spa-bali-moon.webp": {
+  "url": "https://spabalimoon.com/images/guide/targeted-body-massage-spa-bali-moon.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 17422,
+  "w": 660,
+  "h": 372,
+  "orientation": "landscape"
+ },
+ "/images/guide/balinese-massage-spa-bali-moon.webp": {
+  "url": "https://spabalimoon.com/images/guide/balinese-massage-spa-bali-moon.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 9142,
+  "w": 660,
+  "h": 372,
+  "orientation": "landscape"
+ },
+ "/images/guide/thai-massage-spa-bali-moon.webp": {
+  "url": "https://spabalimoon.com/images/guide/thai-massage-spa-bali-moon.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 24754,
+  "w": 660,
+  "h": 372,
+  "orientation": "landscape"
+ },
+ "/images/shape/about-two-left.png": {
+  "url": "https://spabalimoon.com/images/shape/about-two-left.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 19300,
+  "w": 255,
+  "h": 367,
+  "orientation": "portrait"
+ },
+ "/images/banner/banner-five-arry.png": {
+  "url": "https://spabalimoon.com/images/banner/banner-five-arry.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 1241,
+  "w": 107,
+  "h": 109,
+  "orientation": "square"
+ },
+ "/images/home/homepage-1.webp": {
+  "url": "https://spabalimoon.com/images/home/homepage-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13352,
+  "w": 388,
+  "h": 561,
+  "orientation": "portrait"
+ },
+ "/images/home/homepage-2.webp": {
+  "url": "https://spabalimoon.com/images/home/homepage-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 9764,
+  "w": 337,
+  "h": 452,
+  "orientation": "portrait"
+ },
+ "/images/shape/package-four-shape-left.png": {
+  "url": "https://spabalimoon.com/images/shape/package-four-shape-left.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 28205,
+  "w": 205,
+  "h": 321,
+  "orientation": "portrait"
+ },
+ "/images/shape/banner-six-shape2.png": {
+  "url": "https://spabalimoon.com/images/shape/banner-six-shape2.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 11059,
+  "w": 295,
+  "h": 234,
+  "orientation": "landscape"
+ },
+ "/images/shape/service-four-shape-right.png": {
+  "url": "https://spabalimoon.com/images/shape/service-four-shape-right.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 18756,
+  "w": 265,
+  "h": 236,
+  "orientation": "landscape"
+ },
+ "/images/shape/step-line.png": {
+  "url": "https://spabalimoon.com/images/shape/step-line.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 2345,
+  "w": 846,
+  "h": 75,
+  "orientation": "landscape"
+ },
+ "/images/shape/about-three-shape.png": {
+  "url": "https://spabalimoon.com/images/shape/about-three-shape.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 7955,
+  "w": 205,
+  "h": 263,
+  "orientation": "portrait"
+ },
+ "/images/home/homepage-3.webp": {
+  "url": "https://spabalimoon.com/images/home/homepage-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15148,
+  "w": 360,
+  "h": 636,
+  "orientation": "portrait"
+ },
+ "/images/home/homepage-4.webp": {
+  "url": "https://spabalimoon.com/images/home/homepage-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 7878,
+  "w": 237,
+  "h": 421,
+  "orientation": "portrait"
+ },
+ "/images/about/shape2.png": {
+  "url": "https://spabalimoon.com/images/about/shape2.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 18013,
+  "w": 223,
+  "h": 143,
+  "orientation": "landscape"
+ },
+ "/images/about/shape3.png": {
+  "url": "https://spabalimoon.com/images/about/shape3.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 4504,
+  "w": 195,
+  "h": 433,
+  "orientation": "portrait"
+ },
+ "/images/listmenu/balinesemassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/balinesemassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19080,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/Balinese.svg": {
+  "url": "https://spabalimoon.com/images/spa/Balinese.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 6869,
+  "orientation": "vector/icon"
+ },
+ "/images/listmenu/creambath.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/creambath.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 36654,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/CreamBath.svg": {
+  "url": "https://spabalimoon.com/images/spa/CreamBath.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 9182,
+  "orientation": "vector/icon"
+ },
+ "/images/listmenu/hotstonemassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/hotstonemassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 21582,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/HotStone.svg": {
+  "url": "https://spabalimoon.com/images/spa/HotStone.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 11510,
+  "orientation": "vector/icon"
+ },
+ "/images/listmenu/sportmassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/sportmassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19228,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/sports.svg": {
+  "url": "https://spabalimoon.com/images/spa/sports.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 13914,
+  "orientation": "vector/icon"
+ },
+ "/images/listmenu/balimoonteatreefacial.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/balimoonteatreefacial.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 27162,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/listmenu/deeptissuemassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/deeptissuemassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18262,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/DeepTissue.svg": {
+  "url": "https://spabalimoon.com/images/spa/DeepTissue.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 17313,
+  "orientation": "vector/icon"
+ },
+ "/images/listmenu/headmassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/headmassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 22490,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/Head.svg": {
+  "url": "https://spabalimoon.com/images/spa/Head.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 14535,
+  "orientation": "vector/icon"
+ },
+ "/images/listmenu/aloeveramassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/aloeveramassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 21164,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/Sunburn.svg": {
+  "url": "https://spabalimoon.com/images/spa/Sunburn.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 15504,
+  "orientation": "vector/icon"
+ },
+ "/images/listmenu/bodyscrub.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/bodyscrub.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19558,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/Scrub.svg": {
+  "url": "https://spabalimoon.com/images/spa/Scrub.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 10965,
+  "orientation": "vector/icon"
+ },
+ "/images/listmenu/earcandle.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/earcandle.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18706,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/EarCandle.svg": {
+  "url": "https://spabalimoon.com/images/spa/EarCandle.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 12178,
+  "orientation": "vector/icon"
+ },
+ "/images/listmenu/lymphaticmassage .webp": {
+  "url": "https://spabalimoon.com/images/listmenu/lymphaticmassage%20.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18200,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/Lymphatic.svg": {
+  "url": "https://spabalimoon.com/images/spa/Lymphatic.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 17734,
+  "orientation": "vector/icon"
+ },
+ "/images/listmenu/traditionalmassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/traditionalmassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 24366,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/listmenu/cellulitemassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/cellulitemassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20748,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/cellulite.svg": {
+  "url": "https://spabalimoon.com/images/spa/cellulite.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 12614,
+  "orientation": "vector/icon"
+ },
+ "/images/listmenu/footmassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/footmassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18200,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/FootMassage.svg": {
+  "url": "https://spabalimoon.com/images/spa/FootMassage.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 18372,
+  "orientation": "vector/icon"
+ },
+ "/images/listmenu/manicurepedicure.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/manicurepedicure.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15662,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/Manicure.svg": {
+  "url": "https://spabalimoon.com/images/spa/Manicure.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 17404,
+  "orientation": "vector/icon"
+ },
+ "/images/listmenu/thaimassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/thaimassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19396,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/thai.svg": {
+  "url": "https://spabalimoon.com/images/spa/thai.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 13195,
+  "orientation": "vector/icon"
+ },
+ "/images/listmenu/couplebalinesemassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/couplebalinesemassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 25442,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/Couple.svg": {
+  "url": "https://spabalimoon.com/images/spa/Couple.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 14238,
+  "orientation": "vector/icon"
+ },
+ "/images/listmenu/footreflexology.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/footreflexology.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20102,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/FootReflexology.svg": {
+  "url": "https://spabalimoon.com/images/spa/FootReflexology.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 21151,
+  "orientation": "vector/icon"
+ },
+ "/images/spa/NailArt.svg": {
+  "url": "https://spabalimoon.com/images/spa/NailArt.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 17870,
+  "orientation": "vector/icon"
+ },
+ "/images/listmenu/waxing.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/waxing.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 14310,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/waxing.svg": {
+  "url": "https://spabalimoon.com/images/spa/waxing.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 7686,
+  "orientation": "vector/icon"
+ },
+ "/images/listmenu/coconutoilmassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/coconutoilmassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18120,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/CoconutOil.svg": {
+  "url": "https://spabalimoon.com/images/spa/CoconutOil.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 12978,
+  "orientation": "vector/icon"
+ },
+ "/images/spa/HairBraiding.svg": {
+  "url": "https://spabalimoon.com/images/spa/HairBraiding.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 18355,
+  "orientation": "vector/icon"
+ },
+ "/images/listmenu/shiatsumassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/shiatsumassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19706,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/spa/Shiatsu.svg": {
+  "url": "https://spabalimoon.com/images/spa/Shiatsu.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 17085,
+  "orientation": "vector/icon"
+ },
+ "/images/shape/testimonial-two-shape-left.png": {
+  "url": "https://spabalimoon.com/images/shape/testimonial-two-shape-left.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 31785,
+  "w": 316,
+  "h": 339,
+  "orientation": "portrait"
+ },
+ "/images/shape/testimonial-two-shape-right.png": {
+  "url": "https://spabalimoon.com/images/shape/testimonial-two-shape-right.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 27087,
+  "w": 473,
+  "h": 406,
+  "orientation": "landscape"
+ },
+ "/images/shape/banner-five-shape1.png": {
+  "url": "https://spabalimoon.com/images/shape/banner-five-shape1.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 18897,
+  "w": 209,
+  "h": 353,
+  "orientation": "portrait"
+ },
+ "/images/shape/package-shape-right.png": {
+  "url": "https://spabalimoon.com/images/shape/package-shape-right.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 27087,
+  "w": 473,
+  "h": 406,
+  "orientation": "landscape"
+ },
+ "/images/listmenu/aromatherapymassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/aromatherapymassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18654,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/listmenu/backmassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/backmassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 25014,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/listmenu/fourhandmassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/fourhandmassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 25382,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/listmenu/organicwarmcandle.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/organicwarmcandle.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19788,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/listmenu/herbalmassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/herbalmassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20124,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/pricing/shape.png": {
+  "url": "https://spabalimoon.com/images/pricing/shape.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 5462,
+  "w": 225,
+  "h": 104,
+  "orientation": "landscape"
+ },
+ "/images/shape/service-shape-left.png": {
+  "url": "https://spabalimoon.com/images/shape/service-shape-left.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 71539,
+  "w": 327,
+  "h": 511,
+  "orientation": "portrait"
+ },
+ "/images/shape/service-shape-right.png": {
+  "url": "https://spabalimoon.com/images/shape/service-shape-right.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 17226,
+  "w": 310,
+  "h": 176,
+  "orientation": "landscape"
+ },
+ "/images/homepage/homepage-2.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13662,
+  "w": 337,
+  "h": 452,
+  "orientation": "portrait"
+ },
+ "/images/home/homepage-5.webp": {
+  "url": "https://spabalimoon.com/images/home/homepage-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 71536,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/massagekuta/massagekuta-1.webp": {
+  "url": "https://spabalimoon.com/images/services/massagekuta/massagekuta-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 109684,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/massagekuta/massagekuta-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/massagekuta/massagekuta-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 33676,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/shape/leaf/6a.png": {
+  "url": "https://spabalimoon.com/images/shape/leaf/6a.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 32936,
+  "w": 256,
+  "h": 367,
+  "orientation": "portrait"
+ },
+ "/images/shape/leaf/7a.png": {
+  "url": "https://spabalimoon.com/images/shape/leaf/7a.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 33794,
+  "w": 256,
+  "h": 367,
+  "orientation": "portrait"
+ },
+ "/images/services/massagekuta/massagekuta-2.webp": {
+  "url": "https://spabalimoon.com/images/services/massagekuta/massagekuta-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 24708,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/massagekuta/massagekuta-3.webp": {
+  "url": "https://spabalimoon.com/images/services/massagekuta/massagekuta-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19894,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/shape/leaf/8a.png": {
+  "url": "https://spabalimoon.com/images/shape/leaf/8a.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 37611,
+  "w": 256,
+  "h": 367,
+  "orientation": "portrait"
+ },
+ "/images/shape/leaf/9a.png": {
+  "url": "https://spabalimoon.com/images/shape/leaf/9a.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 20188,
+  "w": 256,
+  "h": 367,
+  "orientation": "portrait"
+ },
+ "/images/services/massagekuta/massagekuta-4.webp": {
+  "url": "https://spabalimoon.com/images/services/massagekuta/massagekuta-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 16384,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/shape/leaf/12a.png": {
+  "url": "https://spabalimoon.com/images/shape/leaf/12a.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 42589,
+  "w": 256,
+  "h": 367,
+  "orientation": "portrait"
+ },
+ "/images/shape/leaf/13a.png": {
+  "url": "https://spabalimoon.com/images/shape/leaf/13a.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 38304,
+  "w": 256,
+  "h": 367,
+  "orientation": "portrait"
+ },
+ "/images/services/massagekuta/massagekuta-5.webp": {
+  "url": "https://spabalimoon.com/images/services/massagekuta/massagekuta-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 22128,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/shape/leaf/10a.png": {
+  "url": "https://spabalimoon.com/images/shape/leaf/10a.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 25023,
+  "w": 256,
+  "h": 367,
+  "orientation": "portrait"
+ },
+ "/images/shape/leaf/11a.png": {
+  "url": "https://spabalimoon.com/images/shape/leaf/11a.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 38110,
+  "w": 256,
+  "h": 367,
+  "orientation": "portrait"
+ },
+ "/images/services/massagekuta/massagekuta-6.webp": {
+  "url": "https://spabalimoon.com/images/services/massagekuta/massagekuta-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18236,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/massagekuta/massagekuta-7.webp": {
+  "url": "https://spabalimoon.com/images/services/massagekuta/massagekuta-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 22164,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/massagekuta/massagekuta-8.webp": {
+  "url": "https://spabalimoon.com/images/services/massagekuta/massagekuta-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 114116,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/service/shape.png": {
+  "url": "https://spabalimoon.com/images/service/shape.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 4554,
+  "w": 202,
+  "h": 90,
+  "orientation": "landscape"
+ },
+ "/images/homepage/homepage-28.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-28.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 61016,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/homepage/homepage-28-sm.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-28-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15244,
+  "w": 828,
+  "h": 387,
+  "orientation": "landscape"
+ },
+ "/images/shape/about-two-right.png": {
+  "url": "https://spabalimoon.com/images/shape/about-two-right.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 7955,
+  "w": 205,
+  "h": 263,
+  "orientation": "portrait"
+ },
+ "/images/outcall/outcall-2.webp": {
+  "url": "https://spabalimoon.com/images/outcall/outcall-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 23670,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/outcall/outcall-3.webp": {
+  "url": "https://spabalimoon.com/images/outcall/outcall-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 25940,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/shape/leaf/2a.png": {
+  "url": "https://spabalimoon.com/images/shape/leaf/2a.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 33214,
+  "w": 256,
+  "h": 367,
+  "orientation": "portrait"
+ },
+ "/images/shape/leaf/3a.png": {
+  "url": "https://spabalimoon.com/images/shape/leaf/3a.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 29834,
+  "w": 256,
+  "h": 367,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-3.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 11346,
+  "w": 360,
+  "h": 636,
+  "orientation": "portrait"
+ },
+ "/images/shape/banner-six-shape.png": {
+  "url": "https://spabalimoon.com/images/shape/banner-six-shape.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 17811,
+  "w": 187,
+  "h": 320,
+  "orientation": "portrait"
+ },
+ "/images/shape/mirror-left-shape.png": {
+  "url": "https://spabalimoon.com/images/shape/mirror-left-shape.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 60094,
+  "w": 413,
+  "h": 581,
+  "orientation": "portrait"
+ },
+ "/images/outcall/outcall-4.webp": {
+  "url": "https://spabalimoon.com/images/outcall/outcall-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 16994,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/listmenu/couplemassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/couplemassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 32508,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/listmenu/balimoongoldfacial.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/balimoongoldfacial.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20906,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/listmenu/footscrub.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/footscrub.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 25330,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/listmenu/biokosfacial.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/biokosfacial.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 26866,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/listmenu/eyelash.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/eyelash.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 22312,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/listmenu/coupletraditionalmassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/coupletraditionalmassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 28050,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/listmenu/coupledeeptissumassage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/coupledeeptissumassage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 28854,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/listmenu/couplewarmcandle.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/couplewarmcandle.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 23742,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/listmenu/couplemassagepackage.webp": {
+  "url": "https://spabalimoon.com/images/listmenu/couplemassagepackage.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 32050,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/shape/about-left-shape.png": {
+  "url": "https://spabalimoon.com/images/shape/about-left-shape.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 55257,
+  "w": 413,
+  "h": 581,
+  "orientation": "portrait"
+ },
+ "/images/shape/about-right-shape.png": {
+  "url": "https://spabalimoon.com/images/shape/about-right-shape.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 20275,
+  "w": 205,
+  "h": 348,
+  "orientation": "portrait"
+ },
+ "/images/outcall/outcall-5.webp": {
+  "url": "https://spabalimoon.com/images/outcall/outcall-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 70478,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/pricelist/pricelist-1.webp": {
+  "url": "https://spabalimoon.com/images/pricelist/pricelist-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 50766,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/pricelist/pricelist-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/pricelist/pricelist-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13252,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/shape/video-shape.png": {
+  "url": "https://spabalimoon.com/images/shape/video-shape.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 4329,
+  "w": 173,
+  "h": 198,
+  "orientation": "portrait"
+ },
+ "/images/pricelist/pricelist-2.webp": {
+  "url": "https://spabalimoon.com/images/pricelist/pricelist-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15568,
+  "w": 778,
+  "h": 265,
+  "orientation": "landscape"
+ },
+ "/images/pricelist/pricelist-3.webp": {
+  "url": "https://spabalimoon.com/images/pricelist/pricelist-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20524,
+  "w": 688,
+  "h": 648,
+  "orientation": "landscape"
+ },
+ "/images/icon/icon-spa/Body Scrub.png": {
+  "url": "https://spabalimoon.com/images/icon/icon-spa/Body%20Scrub.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 12204,
+  "w": 383,
+  "h": 394,
+  "orientation": "square"
+ },
+ "/images/icon/icon-spa/Couple Massage.png": {
+  "url": "https://spabalimoon.com/images/icon/icon-spa/Couple%20Massage.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 18943,
+  "w": 383,
+  "h": 394,
+  "orientation": "square"
+ },
+ "/images/icon/icon-spa/Cream Bath.png": {
+  "url": "https://spabalimoon.com/images/icon/icon-spa/Cream%20Bath.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 17381,
+  "w": 383,
+  "h": 394,
+  "orientation": "square"
+ },
+ "/images/icon/icon-spa/Biokos Facial.png": {
+  "url": "https://spabalimoon.com/images/icon/icon-spa/Biokos%20Facial.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 15883,
+  "w": 383,
+  "h": 394,
+  "orientation": "square"
+ },
+ "/images/icon/icon-spa/Hot Stone.png": {
+  "url": "https://spabalimoon.com/images/icon/icon-spa/Hot%20Stone.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 7235,
+  "w": 383,
+  "h": 394,
+  "orientation": "square"
+ },
+ "/images/icon/icon-spa/menipedi.png": {
+  "url": "https://spabalimoon.com/images/icon/icon-spa/menipedi.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 9003,
+  "w": 383,
+  "h": 394,
+  "orientation": "square"
+ },
+ "/images/icon/icon-spa/Thai Massage.png": {
+  "url": "https://spabalimoon.com/images/icon/icon-spa/Thai%20Massage.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 15953,
+  "w": 383,
+  "h": 394,
+  "orientation": "square"
+ },
+ "/images/pricelist/pricelist-4.webp": {
+  "url": "https://spabalimoon.com/images/pricelist/pricelist-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 38482,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/pricelist/pricelist-5.webp": {
+  "url": "https://spabalimoon.com/images/pricelist/pricelist-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 74396,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/cellulitemassage/cellulitemassage-1.webp": {
+  "url": "https://spabalimoon.com/images/services/cellulitemassage/cellulitemassage-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 56382,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/cellulitemassage/cellulitemassage-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/cellulitemassage/cellulitemassage-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15256,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/cellulitemassage/cellulitemassage-2.webp": {
+  "url": "https://spabalimoon.com/images/services/cellulitemassage/cellulitemassage-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18412,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/cellulitemassage/cellulitemassage-3.webp": {
+  "url": "https://spabalimoon.com/images/services/cellulitemassage/cellulitemassage-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20748,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/shape/pricing-three-shape-right.png": {
+  "url": "https://spabalimoon.com/images/shape/pricing-three-shape-right.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 20020,
+  "w": 382,
+  "h": 328,
+  "orientation": "landscape"
+ },
+ "/images/services/cellulitemassage/cellulitemassage-4.webp": {
+  "url": "https://spabalimoon.com/images/services/cellulitemassage/cellulitemassage-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 29320,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/cellulitemassage/cellulitemassage-5.webp": {
+  "url": "https://spabalimoon.com/images/services/cellulitemassage/cellulitemassage-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 29794,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/cellulitemassage/cellulitemassage-6.webp": {
+  "url": "https://spabalimoon.com/images/services/cellulitemassage/cellulitemassage-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 12984,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/shape/step-shape-left.png": {
+  "url": "https://spabalimoon.com/images/shape/step-shape-left.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 17994,
+  "w": 202,
+  "h": 342,
+  "orientation": "portrait"
+ },
+ "/images/services/cellulitemassage/cellulitemassage-7.webp": {
+  "url": "https://spabalimoon.com/images/services/cellulitemassage/cellulitemassage-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 26898,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/shape/banner-three-shape2.png": {
+  "url": "https://spabalimoon.com/images/shape/banner-three-shape2.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 4369,
+  "w": 166,
+  "h": 153,
+  "orientation": "landscape"
+ },
+ "/images/services/cellulitemassage/cellulitemassage-8.webp": {
+  "url": "https://spabalimoon.com/images/services/cellulitemassage/cellulitemassage-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13240,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/cellulitemassage/cellulitemassage-9.webp": {
+  "url": "https://spabalimoon.com/images/services/cellulitemassage/cellulitemassage-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 25084,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/cellulitemassage/cellulitemassage-10.webp": {
+  "url": "https://spabalimoon.com/images/services/cellulitemassage/cellulitemassage-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 55212,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/balinesemassage/balinesemassage-1.webp": {
+  "url": "https://spabalimoon.com/images/services/balinesemassage/balinesemassage-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 51606,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/balinesemassage/balinesemassage-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/balinesemassage/balinesemassage-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15958,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/balinesemassage/balinesemassage-2.webp": {
+  "url": "https://spabalimoon.com/images/services/balinesemassage/balinesemassage-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19186,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/balinesemassage/balinesemassage-3.webp": {
+  "url": "https://spabalimoon.com/images/services/balinesemassage/balinesemassage-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19080,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/logo/SMBtitle.svg": {
+  "url": "https://spabalimoon.com/images/logo/SMBtitle.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 11609,
+  "orientation": "vector/icon"
+ },
+ "/images/services/balinesemassage/balinesemassage-4.webp": {
+  "url": "https://spabalimoon.com/images/services/balinesemassage/balinesemassage-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 30738,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/balinesemassage/balinesemassage-5.webp": {
+  "url": "https://spabalimoon.com/images/services/balinesemassage/balinesemassage-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 31102,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/balinesemassage/balinesemassage-6.webp": {
+  "url": "https://spabalimoon.com/images/services/balinesemassage/balinesemassage-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 25806,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/balinesemassage/balinesemassage-7.webp": {
+  "url": "https://spabalimoon.com/images/services/balinesemassage/balinesemassage-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 29316,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/balinesemassage/balinesemassage-8.webp": {
+  "url": "https://spabalimoon.com/images/services/balinesemassage/balinesemassage-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 17726,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/balinesemassage/balinesemassage-9.webp": {
+  "url": "https://spabalimoon.com/images/services/balinesemassage/balinesemassage-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 16458,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/shape/leaf/4a.png": {
+  "url": "https://spabalimoon.com/images/shape/leaf/4a.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 18939,
+  "w": 256,
+  "h": 367,
+  "orientation": "portrait"
+ },
+ "/images/services/balinesemassage/balinesemassage-10.webp": {
+  "url": "https://spabalimoon.com/images/services/balinesemassage/balinesemassage-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13026,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/balinesemassage/balinesemassage-11.webp": {
+  "url": "https://spabalimoon.com/images/services/balinesemassage/balinesemassage-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 25084,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/balinesemassage/balinesemassage-12.webp": {
+  "url": "https://spabalimoon.com/images/services/balinesemassage/balinesemassage-12.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 234168,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/bodyscrub/bodyscrub-1.webp": {
+  "url": "https://spabalimoon.com/images/services/bodyscrub/bodyscrub-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 63602,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/bodyscrub/bodyscrub-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/bodyscrub/bodyscrub-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 17984,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/bodyscrub/bodyscrub-2.webp": {
+  "url": "https://spabalimoon.com/images/services/bodyscrub/bodyscrub-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 22592,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/bodyscrub/bodyscrub-3.webp": {
+  "url": "https://spabalimoon.com/images/services/bodyscrub/bodyscrub-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19558,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/bodyscrub/bodyscrub-4.webp": {
+  "url": "https://spabalimoon.com/images/services/bodyscrub/bodyscrub-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 42954,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/bodyscrub/bodyscrub-5.webp": {
+  "url": "https://spabalimoon.com/images/services/bodyscrub/bodyscrub-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 89706,
+  "w": 1376,
+  "h": 768,
+  "orientation": "landscape"
+ },
+ "/images/services/bodyscrub/bodyscrub-6.webp": {
+  "url": "https://spabalimoon.com/images/services/bodyscrub/bodyscrub-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 32106,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/bodyscrub/bodyscrub-7.webp": {
+  "url": "https://spabalimoon.com/images/services/bodyscrub/bodyscrub-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 50504,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/bodyscrub/bodyscrub-8.webp": {
+  "url": "https://spabalimoon.com/images/services/bodyscrub/bodyscrub-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 21786,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/bodyscrub/bodyscrub-9.webp": {
+  "url": "https://spabalimoon.com/images/services/bodyscrub/bodyscrub-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18000,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/shape/leaf/1a-v2.png": {
+  "url": "https://spabalimoon.com/images/shape/leaf/1a-v2.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 26573,
+  "w": 256,
+  "h": 367,
+  "orientation": "portrait"
+ },
+ "/images/services/bodyscrub/bodyscrub-10.webp": {
+  "url": "https://spabalimoon.com/images/services/bodyscrub/bodyscrub-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 11890,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/bodyscrub/bodyscrub-11.webp": {
+  "url": "https://spabalimoon.com/images/services/bodyscrub/bodyscrub-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 38282,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/bodyscrub/bodyscrub-12.webp": {
+  "url": "https://spabalimoon.com/images/services/bodyscrub/bodyscrub-12.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 67382,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-1.webp": {
+  "url": "https://spabalimoon.com/images/services/coconutoilmassage/coconutoilmassage-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 52072,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/coconutoilmassage/coconutoilmassage-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13160,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-2.webp": {
+  "url": "https://spabalimoon.com/images/services/coconutoilmassage/coconutoilmassage-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15762,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-3.webp": {
+  "url": "https://spabalimoon.com/images/services/coconutoilmassage/coconutoilmassage-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18120,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-4.webp": {
+  "url": "https://spabalimoon.com/images/services/coconutoilmassage/coconutoilmassage-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 21102,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-5.webp": {
+  "url": "https://spabalimoon.com/images/services/coconutoilmassage/coconutoilmassage-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 42204,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-6.webp": {
+  "url": "https://spabalimoon.com/images/services/coconutoilmassage/coconutoilmassage-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 27308,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-7.webp": {
+  "url": "https://spabalimoon.com/images/services/coconutoilmassage/coconutoilmassage-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 12128,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-8.webp": {
+  "url": "https://spabalimoon.com/images/services/coconutoilmassage/coconutoilmassage-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 14976,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-9.webp": {
+  "url": "https://spabalimoon.com/images/services/coconutoilmassage/coconutoilmassage-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 16018,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-10.webp": {
+  "url": "https://spabalimoon.com/images/services/coconutoilmassage/coconutoilmassage-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 27736,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-11.webp": {
+  "url": "https://spabalimoon.com/images/services/coconutoilmassage/coconutoilmassage-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 103110,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/couplemassage/couplemassage-1.webp": {
+  "url": "https://spabalimoon.com/images/services/couplemassage/couplemassage-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 44840,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/couplemassage/couplemassage-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/couplemassage/couplemassage-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 12498,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/couplemassage/couplemassage-2.webp": {
+  "url": "https://spabalimoon.com/images/services/couplemassage/couplemassage-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 29754,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/couplemassage/couplemassage-3.webp": {
+  "url": "https://spabalimoon.com/images/services/couplemassage/couplemassage-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 32508,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/couplemassage/couplemassage-4.webp": {
+  "url": "https://spabalimoon.com/images/services/couplemassage/couplemassage-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 38618,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/couplemassage/couplemassage-5.webp": {
+  "url": "https://spabalimoon.com/images/services/couplemassage/couplemassage-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 39970,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/couplemassage/couplemassage-6.webp": {
+  "url": "https://spabalimoon.com/images/services/couplemassage/couplemassage-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 41286,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/couplemassage/couplemassage-7.webp": {
+  "url": "https://spabalimoon.com/images/services/couplemassage/couplemassage-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 31990,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/couplemassage/couplemassage-8.webp": {
+  "url": "https://spabalimoon.com/images/services/couplemassage/couplemassage-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 29284,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/couplemassage/couplemassage-9.webp": {
+  "url": "https://spabalimoon.com/images/services/couplemassage/couplemassage-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 24954,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/couplemassage/couplemassage-10.webp": {
+  "url": "https://spabalimoon.com/images/services/couplemassage/couplemassage-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 22438,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/couplemassage/couplemassage-11.webp": {
+  "url": "https://spabalimoon.com/images/services/couplemassage/couplemassage-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 37792,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/couplemassage/couplemassage-12.webp": {
+  "url": "https://spabalimoon.com/images/services/couplemassage/couplemassage-12.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 79086,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/creambath/creambath-1.webp": {
+  "url": "https://spabalimoon.com/images/services/creambath/creambath-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 91440,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/creambath/creambath-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/creambath/creambath-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 22246,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/creambath/creambath-2.webp": {
+  "url": "https://spabalimoon.com/images/services/creambath/creambath-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 24824,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/creambath/creambath-3.webp": {
+  "url": "https://spabalimoon.com/images/services/creambath/creambath-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 36654,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/creambath/creambath-4.webp": {
+  "url": "https://spabalimoon.com/images/services/creambath/creambath-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 40440,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/creambath/creambath-5.webp": {
+  "url": "https://spabalimoon.com/images/services/creambath/creambath-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 63164,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/creambath/creambath-6.webp": {
+  "url": "https://spabalimoon.com/images/services/creambath/creambath-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 47136,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/creambath/creambath-7.webp": {
+  "url": "https://spabalimoon.com/images/services/creambath/creambath-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 27560,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/creambath/creambath-8.webp": {
+  "url": "https://spabalimoon.com/images/services/creambath/creambath-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 36130,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/creambath/creambath-9.webp": {
+  "url": "https://spabalimoon.com/images/services/creambath/creambath-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 21012,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/creambath/creambath-10.webp": {
+  "url": "https://spabalimoon.com/images/services/creambath/creambath-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 24694,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/creambath/creambath-11.webp": {
+  "url": "https://spabalimoon.com/images/services/creambath/creambath-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 50630,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/creambath/creambath-12.webp": {
+  "url": "https://spabalimoon.com/images/services/creambath/creambath-12.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 70270,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/dayspaseminyak/dayspa-1.webp": {
+  "url": "https://spabalimoon.com/images/services/dayspaseminyak/dayspa-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 202456,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/dayspaseminyak/dayspa-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/dayspaseminyak/dayspa-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 69116,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/dayspaseminyak/dayspa-2.webp": {
+  "url": "https://spabalimoon.com/images/services/dayspaseminyak/dayspa-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 27940,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/dayspaseminyak/dayspa-3.webp": {
+  "url": "https://spabalimoon.com/images/services/dayspaseminyak/dayspa-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 24908,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/dayspaseminyak/dayspa-4.webp": {
+  "url": "https://spabalimoon.com/images/services/dayspaseminyak/dayspa-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19438,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/dayspaseminyak/dayspa-5.webp": {
+  "url": "https://spabalimoon.com/images/services/dayspaseminyak/dayspa-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15950,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/dayspaseminyak/dayspa-6.webp": {
+  "url": "https://spabalimoon.com/images/services/dayspaseminyak/dayspa-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 17136,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/dayspaseminyak/dayspa-7.webp": {
+  "url": "https://spabalimoon.com/images/services/dayspaseminyak/dayspa-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 17010,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/dayspaseminyak/dayspa-8.webp": {
+  "url": "https://spabalimoon.com/images/services/dayspaseminyak/dayspa-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 174782,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-1.webp": {
+  "url": "https://spabalimoon.com/images/services/deeptissuemassage/deeptissuemassage-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 62648,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/deeptissuemassage/deeptissuemassage-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 16158,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-2.webp": {
+  "url": "https://spabalimoon.com/images/services/deeptissuemassage/deeptissuemassage-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 22258,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-3.webp": {
+  "url": "https://spabalimoon.com/images/services/deeptissuemassage/deeptissuemassage-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18262,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-4.webp": {
+  "url": "https://spabalimoon.com/images/services/deeptissuemassage/deeptissuemassage-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 41884,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-5.webp": {
+  "url": "https://spabalimoon.com/images/services/deeptissuemassage/deeptissuemassage-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19816,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-6.webp": {
+  "url": "https://spabalimoon.com/images/services/deeptissuemassage/deeptissuemassage-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18870,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-7.webp": {
+  "url": "https://spabalimoon.com/images/services/deeptissuemassage/deeptissuemassage-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20254,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-8.webp": {
+  "url": "https://spabalimoon.com/images/services/deeptissuemassage/deeptissuemassage-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20276,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-9.webp": {
+  "url": "https://spabalimoon.com/images/services/deeptissuemassage/deeptissuemassage-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 26836,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-10.webp": {
+  "url": "https://spabalimoon.com/images/services/deeptissuemassage/deeptissuemassage-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 135710,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/earcandle/earcandle-1.webp": {
+  "url": "https://spabalimoon.com/images/services/earcandle/earcandle-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 82152,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/earcandle/earcandle-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/earcandle/earcandle-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 23052,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/earcandle/earcandle-2.webp": {
+  "url": "https://spabalimoon.com/images/services/earcandle/earcandle-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18342,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/earcandle/earcandle-3.webp": {
+  "url": "https://spabalimoon.com/images/services/earcandle/earcandle-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18706,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/earcandle/earcandle-4.webp": {
+  "url": "https://spabalimoon.com/images/services/earcandle/earcandle-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 21608,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/earcandle/earcandle-5.webp": {
+  "url": "https://spabalimoon.com/images/services/earcandle/earcandle-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 14788,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/earcandle/earcandle-6.webp": {
+  "url": "https://spabalimoon.com/images/services/earcandle/earcandle-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 16188,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/earcandle/earcandle-7.webp": {
+  "url": "https://spabalimoon.com/images/services/earcandle/earcandle-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 14706,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/earcandle/earcandle-8.webp": {
+  "url": "https://spabalimoon.com/images/services/earcandle/earcandle-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 28216,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/earcandle/earcandle-9.webp": {
+  "url": "https://spabalimoon.com/images/services/earcandle/earcandle-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 52042,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/balimoonfacial/balimoonfacial-1.webp": {
+  "url": "https://spabalimoon.com/images/services/balimoonfacial/balimoonfacial-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 67560,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/balimoonfacial/balimoonfacial-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/balimoonfacial/balimoonfacial-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19774,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/balimoonfacial/balimoonfacial-2.webp": {
+  "url": "https://spabalimoon.com/images/services/balimoonfacial/balimoonfacial-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15322,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/balimoonfacial/balimoonfacial-3.webp": {
+  "url": "https://spabalimoon.com/images/services/balimoonfacial/balimoonfacial-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 27628,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/balimoonfacial/balimoonfacial-4.webp": {
+  "url": "https://spabalimoon.com/images/services/balimoonfacial/balimoonfacial-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 26148,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/balimoonfacial/balimoonfacial-5.webp": {
+  "url": "https://spabalimoon.com/images/services/balimoonfacial/balimoonfacial-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 21252,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/balimoonfacial/balimoonfacial-6.webp": {
+  "url": "https://spabalimoon.com/images/services/balimoonfacial/balimoonfacial-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 33348,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/balimoonfacial/balimoonfacial-7.webp": {
+  "url": "https://spabalimoon.com/images/services/balimoonfacial/balimoonfacial-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 25862,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/balimoonfacial/balimoonfacial-8.webp": {
+  "url": "https://spabalimoon.com/images/services/balimoonfacial/balimoonfacial-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15032,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/balimoonfacial/balimoonfacial-9.webp": {
+  "url": "https://spabalimoon.com/images/services/balimoonfacial/balimoonfacial-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15040,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/balimoonfacial/balimoonfacial-10.webp": {
+  "url": "https://spabalimoon.com/images/services/balimoonfacial/balimoonfacial-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 16356,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/balimoonfacial/balimoonfacial-11.webp": {
+  "url": "https://spabalimoon.com/images/services/balimoonfacial/balimoonfacial-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 50892,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/balimoonfacial/balimoonfacial-12.webp": {
+  "url": "https://spabalimoon.com/images/services/balimoonfacial/balimoonfacial-12.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 111508,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/footmassage/footmassage-1.webp": {
+  "url": "https://spabalimoon.com/images/services/footmassage/footmassage-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 54816,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/footmassage/footmassage-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/footmassage/footmassage-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15794,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/footmassage/footmassage-2.webp": {
+  "url": "https://spabalimoon.com/images/services/footmassage/footmassage-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 21200,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/footmassage/footmassage-3.webp": {
+  "url": "https://spabalimoon.com/images/services/footmassage/footmassage-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18200,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/footmassage/footmassage-4.webp": {
+  "url": "https://spabalimoon.com/images/services/footmassage/footmassage-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20694,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/footmassage/footmassage-5.webp": {
+  "url": "https://spabalimoon.com/images/services/footmassage/footmassage-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 34190,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/footmassage/footmassage-6.webp": {
+  "url": "https://spabalimoon.com/images/services/footmassage/footmassage-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 42518,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/footmassage/footmassage-7.webp": {
+  "url": "https://spabalimoon.com/images/services/footmassage/footmassage-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15000,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/footmassage/footmassage-8.webp": {
+  "url": "https://spabalimoon.com/images/services/footmassage/footmassage-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13302,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/footmassage/footmassage-9.webp": {
+  "url": "https://spabalimoon.com/images/services/footmassage/footmassage-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 16542,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/footmassage/footmassage-10.webp": {
+  "url": "https://spabalimoon.com/images/services/footmassage/footmassage-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 31126,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/footmassage/footmassage-11.webp": {
+  "url": "https://spabalimoon.com/images/services/footmassage/footmassage-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 71978,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/footreflexology/footreflexology-1.webp": {
+  "url": "https://spabalimoon.com/images/services/footreflexology/footreflexology-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 43224,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/footreflexology/footreflexology-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/footreflexology/footreflexology-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 12782,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/footreflexology/footreflexology-2.webp": {
+  "url": "https://spabalimoon.com/images/services/footreflexology/footreflexology-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 28124,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/footreflexology/footreflexology-3.webp": {
+  "url": "https://spabalimoon.com/images/services/footreflexology/footreflexology-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20102,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/footreflexology/footreflexology-4.webp": {
+  "url": "https://spabalimoon.com/images/services/footreflexology/footreflexology-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 27802,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/footreflexology/footreflexology-5.webp": {
+  "url": "https://spabalimoon.com/images/services/footreflexology/footreflexology-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20900,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/footreflexology/footreflexology-6.webp": {
+  "url": "https://spabalimoon.com/images/services/footreflexology/footreflexology-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 21950,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/footreflexology/footreflexology-7.webp": {
+  "url": "https://spabalimoon.com/images/services/footreflexology/footreflexology-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 17320,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/footreflexology/footreflexology-8.webp": {
+  "url": "https://spabalimoon.com/images/services/footreflexology/footreflexology-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13692,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/footreflexology/footreflexology-9.webp": {
+  "url": "https://spabalimoon.com/images/services/footreflexology/footreflexology-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15536,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/footreflexology/footreflexology-10.webp": {
+  "url": "https://spabalimoon.com/images/services/footreflexology/footreflexology-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 24960,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/footreflexology/footreflexology-11.webp": {
+  "url": "https://spabalimoon.com/images/services/footreflexology/footreflexology-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 71978,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/hairbraiding/hairbraiding-1.webp": {
+  "url": "https://spabalimoon.com/images/services/hairbraiding/hairbraiding-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 64814,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/hairbraiding/hairbraiding-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/hairbraiding/hairbraiding-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18262,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/hairbraiding/hairbraiding-2.webp": {
+  "url": "https://spabalimoon.com/images/services/hairbraiding/hairbraiding-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 26572,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/hairbraiding/hairbraiding-3.webp": {
+  "url": "https://spabalimoon.com/images/services/hairbraiding/hairbraiding-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 42102,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/hairbraiding/hairbraiding-4.webp": {
+  "url": "https://spabalimoon.com/images/services/hairbraiding/hairbraiding-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 25764,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/hairbraiding/hairbraiding-5.webp": {
+  "url": "https://spabalimoon.com/images/services/hairbraiding/hairbraiding-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 23046,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/hairbraiding/hairbraiding-6.webp": {
+  "url": "https://spabalimoon.com/images/services/hairbraiding/hairbraiding-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 40812,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/hairbraiding/hairbraiding-7.webp": {
+  "url": "https://spabalimoon.com/images/services/hairbraiding/hairbraiding-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 22506,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/hairbraiding/hairbraiding-8.webp": {
+  "url": "https://spabalimoon.com/images/services/hairbraiding/hairbraiding-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18672,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/hairbraiding/hairbraiding-9.webp": {
+  "url": "https://spabalimoon.com/images/services/hairbraiding/hairbraiding-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 22346,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/hairbraiding/hairbraiding-10.webp": {
+  "url": "https://spabalimoon.com/images/services/hairbraiding/hairbraiding-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 46736,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/hairbraiding/hairbraiding-11.webp": {
+  "url": "https://spabalimoon.com/images/services/hairbraiding/hairbraiding-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 51956,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/headmassage/headmassage-1.webp": {
+  "url": "https://spabalimoon.com/images/services/headmassage/headmassage-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 76938,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/headmassage/headmassage-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/headmassage/headmassage-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20736,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/headmassage/headmassage-2.webp": {
+  "url": "https://spabalimoon.com/images/services/headmassage/headmassage-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 1684897,
+  "w": 1254,
+  "h": 1254,
+  "orientation": "square"
+ },
+ "/images/services/headmassage/headmassage-3.webp": {
+  "url": "https://spabalimoon.com/images/services/headmassage/headmassage-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 464926,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/headmassage/headmassage-4.webp": {
+  "url": "https://spabalimoon.com/images/services/headmassage/headmassage-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 607784,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/headmassage/headmassage-5.webp": {
+  "url": "https://spabalimoon.com/images/services/headmassage/headmassage-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 606568,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/headmassage/headmassage-6.webp": {
+  "url": "https://spabalimoon.com/images/services/headmassage/headmassage-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 581668,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/headmassage/headmassage-7.webp": {
+  "url": "https://spabalimoon.com/images/services/headmassage/headmassage-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 333567,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/headmassage/headmassage-8.webp": {
+  "url": "https://spabalimoon.com/images/services/headmassage/headmassage-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 344561,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/headmassage/headmassage-9.webp": {
+  "url": "https://spabalimoon.com/images/services/headmassage/headmassage-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 340983,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/headmassage/headmassage-10.webp": {
+  "url": "https://spabalimoon.com/images/services/headmassage/headmassage-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 25432,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/headmassage/headmassage-11.webp": {
+  "url": "https://spabalimoon.com/images/services/headmassage/headmassage-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 51102,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/hotstonemassage/hotstonemassage-1.webp": {
+  "url": "https://spabalimoon.com/images/services/hotstonemassage/hotstonemassage-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 42080,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/hotstonemassage/hotstonemassage-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/hotstonemassage/hotstonemassage-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 11902,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/hotstonemassage/hotstonemassage-2.webp": {
+  "url": "https://spabalimoon.com/images/services/hotstonemassage/hotstonemassage-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 23696,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/hotstonemassage/hotstonemassage-3.webp": {
+  "url": "https://spabalimoon.com/images/services/hotstonemassage/hotstonemassage-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 21582,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/hotstonemassage/hotstonemassage-4.webp": {
+  "url": "https://spabalimoon.com/images/services/hotstonemassage/hotstonemassage-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 22188,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/hotstonemassage/hotstonemassage-5.webp": {
+  "url": "https://spabalimoon.com/images/services/hotstonemassage/hotstonemassage-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 23084,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/hotstonemassage/hotstonemassage-6.webp": {
+  "url": "https://spabalimoon.com/images/services/hotstonemassage/hotstonemassage-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 23252,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/hotstonemassage/hotstonemassage-7.webp": {
+  "url": "https://spabalimoon.com/images/services/hotstonemassage/hotstonemassage-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 16986,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/hotstonemassage/hotstonemassage-8.webp": {
+  "url": "https://spabalimoon.com/images/services/hotstonemassage/hotstonemassage-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18056,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/hotstonemassage/hotstonemassage-9.webp": {
+  "url": "https://spabalimoon.com/images/services/hotstonemassage/hotstonemassage-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 21622,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/hotstonemassage/hotstonemassage-10.webp": {
+  "url": "https://spabalimoon.com/images/services/hotstonemassage/hotstonemassage-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 23282,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/hotstonemassage/hotstonemassage-11.webp": {
+  "url": "https://spabalimoon.com/images/services/hotstonemassage/hotstonemassage-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 25286,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/hotstonemassage/hotstonemassage-12.webp": {
+  "url": "https://spabalimoon.com/images/services/hotstonemassage/hotstonemassage-12.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 49186,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-1.webp": {
+  "url": "https://spabalimoon.com/images/services/lymphaticmassage/lymphaticmassage-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 46166,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/lymphaticmassage/lymphaticmassage-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13196,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-2.webp": {
+  "url": "https://spabalimoon.com/images/services/lymphaticmassage/lymphaticmassage-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 16880,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-3.webp": {
+  "url": "https://spabalimoon.com/images/services/lymphaticmassage/lymphaticmassage-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 454614,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-4.webp": {
+  "url": "https://spabalimoon.com/images/services/lymphaticmassage/lymphaticmassage-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 25262,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-5.webp": {
+  "url": "https://spabalimoon.com/images/services/lymphaticmassage/lymphaticmassage-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 28570,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-6.webp": {
+  "url": "https://spabalimoon.com/images/services/lymphaticmassage/lymphaticmassage-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 601140,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-7.webp": {
+  "url": "https://spabalimoon.com/images/services/lymphaticmassage/lymphaticmassage-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 12486,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-8.webp": {
+  "url": "https://spabalimoon.com/images/services/lymphaticmassage/lymphaticmassage-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 16122,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-9.webp": {
+  "url": "https://spabalimoon.com/images/services/lymphaticmassage/lymphaticmassage-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 348107,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-10.webp": {
+  "url": "https://spabalimoon.com/images/services/lymphaticmassage/lymphaticmassage-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 26238,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-11.webp": {
+  "url": "https://spabalimoon.com/images/services/lymphaticmassage/lymphaticmassage-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 167316,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/manicurepedicure/manicurepedicure-1.webp": {
+  "url": "https://spabalimoon.com/images/services/manicurepedicure/manicurepedicure-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 26726,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/manicurepedicure/manicurepedicure-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/manicurepedicure/manicurepedicure-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8410,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/manicurepedicure/manicurepedicure-2.webp": {
+  "url": "https://spabalimoon.com/images/services/manicurepedicure/manicurepedicure-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 17938,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/manicurepedicure/manicurepedicure-3.webp": {
+  "url": "https://spabalimoon.com/images/services/manicurepedicure/manicurepedicure-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15662,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/manicurepedicure/manicurepedicure-4.webp": {
+  "url": "https://spabalimoon.com/images/services/manicurepedicure/manicurepedicure-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 21816,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/manicurepedicure/manicurepedicure-5.webp": {
+  "url": "https://spabalimoon.com/images/services/manicurepedicure/manicurepedicure-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20932,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/manicurepedicure/manicurepedicure-6.webp": {
+  "url": "https://spabalimoon.com/images/services/manicurepedicure/manicurepedicure-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 23726,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/manicurepedicure/manicurepedicure-7.webp": {
+  "url": "https://spabalimoon.com/images/services/manicurepedicure/manicurepedicure-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 22802,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/manicurepedicure/manicurepedicure-8.webp": {
+  "url": "https://spabalimoon.com/images/services/manicurepedicure/manicurepedicure-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 16680,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/manicurepedicure/manicurepedicure-9.webp": {
+  "url": "https://spabalimoon.com/images/services/manicurepedicure/manicurepedicure-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 14932,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/manicurepedicure/manicurepedicure-10.webp": {
+  "url": "https://spabalimoon.com/images/services/manicurepedicure/manicurepedicure-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15042,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/manicurepedicure/manicurepedicure-11.webp": {
+  "url": "https://spabalimoon.com/images/services/manicurepedicure/manicurepedicure-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 32148,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/manicurepedicure/manicurepedicure-12.webp": {
+  "url": "https://spabalimoon.com/images/services/manicurepedicure/manicurepedicure-12.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 187648,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/nailart/nailart-1.webp": {
+  "url": "https://spabalimoon.com/images/services/nailart/nailart-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 67532,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/nailart/nailart-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/nailart/nailart-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20946,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/nailart/nailart-2.webp": {
+  "url": "https://spabalimoon.com/images/services/nailart/nailart-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19790,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/nailart/nailart-3.webp": {
+  "url": "https://spabalimoon.com/images/services/nailart/nailart-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 23580,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/nailart/nailart-4.webp": {
+  "url": "https://spabalimoon.com/images/services/nailart/nailart-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 29696,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/nailart/nailart-5.webp": {
+  "url": "https://spabalimoon.com/images/services/nailart/nailart-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 25806,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/nailart/nailart-6.webp": {
+  "url": "https://spabalimoon.com/images/services/nailart/nailart-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 28066,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/nailart/nailart-7.webp": {
+  "url": "https://spabalimoon.com/images/services/nailart/nailart-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 16980,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/nailart/nailart-8.webp": {
+  "url": "https://spabalimoon.com/images/services/nailart/nailart-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19098,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/nailart/nailart-9.webp": {
+  "url": "https://spabalimoon.com/images/services/nailart/nailart-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 22736,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/nailart/nailart-10.webp": {
+  "url": "https://spabalimoon.com/images/services/nailart/nailart-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 31470,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/nailart/nailart-11.webp": {
+  "url": "https://spabalimoon.com/images/services/nailart/nailart-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 71522,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/shiatsumassage/shiatsumassage-1.webp": {
+  "url": "https://spabalimoon.com/images/services/shiatsumassage/shiatsumassage-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 68354,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/shiatsumassage/shiatsumassage-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/shiatsumassage/shiatsumassage-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19678,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/shiatsumassage/shiatsumassage-2.webp": {
+  "url": "https://spabalimoon.com/images/services/shiatsumassage/shiatsumassage-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 17726,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/shiatsumassage/shiatsumassage-3.webp": {
+  "url": "https://spabalimoon.com/images/services/shiatsumassage/shiatsumassage-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19706,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/shiatsumassage/shiatsumassage-4.webp": {
+  "url": "https://spabalimoon.com/images/services/shiatsumassage/shiatsumassage-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 22630,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/shiatsumassage/shiatsumassage-5.webp": {
+  "url": "https://spabalimoon.com/images/services/shiatsumassage/shiatsumassage-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20220,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/shiatsumassage/shiatsumassage-6.webp": {
+  "url": "https://spabalimoon.com/images/services/shiatsumassage/shiatsumassage-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 30720,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/shiatsumassage/shiatsumassage-7.webp": {
+  "url": "https://spabalimoon.com/images/services/shiatsumassage/shiatsumassage-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13076,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/shiatsumassage/shiatsumassage-8.webp": {
+  "url": "https://spabalimoon.com/images/services/shiatsumassage/shiatsumassage-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18402,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/shiatsumassage/shiatsumassage-9.webp": {
+  "url": "https://spabalimoon.com/images/services/shiatsumassage/shiatsumassage-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13064,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/shiatsumassage/shiatsumassage-10.webp": {
+  "url": "https://spabalimoon.com/images/services/shiatsumassage/shiatsumassage-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 47004,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/shiatsumassage/shiatsumassage-11.webp": {
+  "url": "https://spabalimoon.com/images/services/shiatsumassage/shiatsumassage-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 520976,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/sportsmassage/sportsmassage-1.webp": {
+  "url": "https://spabalimoon.com/images/services/sportsmassage/sportsmassage-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 46516,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/sportsmassage/sportsmassage-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/sportsmassage/sportsmassage-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 11920,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/sportsmassage/sportsmassage-2.webp": {
+  "url": "https://spabalimoon.com/images/services/sportsmassage/sportsmassage-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 41932,
+  "w": 1254,
+  "h": 1254,
+  "orientation": "square"
+ },
+ "/images/services/sportsmassage/sportsmassage-3.webp": {
+  "url": "https://spabalimoon.com/images/services/sportsmassage/sportsmassage-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 43616,
+  "w": 1024,
+  "h": 1024,
+  "orientation": "square"
+ },
+ "/images/services/sportsmassage/sportsmassage-4.webp": {
+  "url": "https://spabalimoon.com/images/services/sportsmassage/sportsmassage-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 48062,
+  "w": 1376,
+  "h": 768,
+  "orientation": "landscape"
+ },
+ "/images/services/sportsmassage/sportsmassage-5.webp": {
+  "url": "https://spabalimoon.com/images/services/sportsmassage/sportsmassage-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 33696,
+  "w": 1376,
+  "h": 768,
+  "orientation": "landscape"
+ },
+ "/images/services/sportsmassage/sportsmassage-6.webp": {
+  "url": "https://spabalimoon.com/images/services/sportsmassage/sportsmassage-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 29196,
+  "w": 1024,
+  "h": 1024,
+  "orientation": "square"
+ },
+ "/images/services/sportsmassage/sportsmassage-7.webp": {
+  "url": "https://spabalimoon.com/images/services/sportsmassage/sportsmassage-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 40976,
+  "w": 1024,
+  "h": 1024,
+  "orientation": "square"
+ },
+ "/images/services/sportsmassage/sportsmassage-8.webp": {
+  "url": "https://spabalimoon.com/images/services/sportsmassage/sportsmassage-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 37736,
+  "w": 1024,
+  "h": 1024,
+  "orientation": "square"
+ },
+ "/images/services/sportsmassage/sportsmassage-9.webp": {
+  "url": "https://spabalimoon.com/images/services/sportsmassage/sportsmassage-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20158,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/sportsmassage/sportsmassage-10.webp": {
+  "url": "https://spabalimoon.com/images/services/sportsmassage/sportsmassage-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 95390,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/sunburntreatment/sunburntreatment-1.webp": {
+  "url": "https://spabalimoon.com/images/services/sunburntreatment/sunburntreatment-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 68924,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/sunburntreatment/sunburntreatment-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/sunburntreatment/sunburntreatment-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19664,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/sunburntreatment/sunburntreatment-2.webp": {
+  "url": "https://spabalimoon.com/images/services/sunburntreatment/sunburntreatment-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 14456,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/sunburntreatment/sunburntreatment-3.webp": {
+  "url": "https://spabalimoon.com/images/services/sunburntreatment/sunburntreatment-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 21164,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/sunburntreatment/sunburntreatment-4.webp": {
+  "url": "https://spabalimoon.com/images/services/sunburntreatment/sunburntreatment-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19552,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/sunburntreatment/sunburntreatment-5.webp": {
+  "url": "https://spabalimoon.com/images/services/sunburntreatment/sunburntreatment-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 10546,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/sunburntreatment/sunburntreatment-6.webp": {
+  "url": "https://spabalimoon.com/images/services/sunburntreatment/sunburntreatment-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 14774,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/sunburntreatment/sunburntreatment-7.webp": {
+  "url": "https://spabalimoon.com/images/services/sunburntreatment/sunburntreatment-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 14900,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/sunburntreatment/sunburntreatment-8.webp": {
+  "url": "https://spabalimoon.com/images/services/sunburntreatment/sunburntreatment-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 32644,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/sunburntreatment/sunburntreatment-9.webp": {
+  "url": "https://spabalimoon.com/images/services/sunburntreatment/sunburntreatment-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 85906,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/thaimassage/thaimassage-1.webp": {
+  "url": "https://spabalimoon.com/images/services/thaimassage/thaimassage-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 61182,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/thaimassage/thaimassage-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/thaimassage/thaimassage-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 17570,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/thaimassage/thaimassage-2.webp": {
+  "url": "https://spabalimoon.com/images/services/thaimassage/thaimassage-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13752,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/thaimassage/thaimassage-3.webp": {
+  "url": "https://spabalimoon.com/images/services/thaimassage/thaimassage-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19396,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/thaimassage/thaimassage-4.webp": {
+  "url": "https://spabalimoon.com/images/services/thaimassage/thaimassage-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19000,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/thaimassage/thaimassage-5.webp": {
+  "url": "https://spabalimoon.com/images/services/thaimassage/thaimassage-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 22500,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/thaimassage/thaimassage-6.webp": {
+  "url": "https://spabalimoon.com/images/services/thaimassage/thaimassage-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19584,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/thaimassage/thaimassage-7.webp": {
+  "url": "https://spabalimoon.com/images/services/thaimassage/thaimassage-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 22620,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/thaimassage/thaimassage-8.webp": {
+  "url": "https://spabalimoon.com/images/services/thaimassage/thaimassage-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 12960,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/thaimassage/thaimassage-9.webp": {
+  "url": "https://spabalimoon.com/images/services/thaimassage/thaimassage-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13614,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/thaimassage/thaimassage-10.webp": {
+  "url": "https://spabalimoon.com/images/services/thaimassage/thaimassage-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 12714,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/thaimassage/thaimassage-11.webp": {
+  "url": "https://spabalimoon.com/images/services/thaimassage/thaimassage-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 36198,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/thaimassage/thaimassage-12.webp": {
+  "url": "https://spabalimoon.com/images/services/thaimassage/thaimassage-12.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 198236,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/traditionalmassage/traditionalmassage-1.webp": {
+  "url": "https://spabalimoon.com/images/services/traditionalmassage/traditionalmassage-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 63314,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/traditionalmassage/traditionalmassage-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/traditionalmassage/traditionalmassage-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 14008,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/traditionalmassage/traditionalmassage-2.webp": {
+  "url": "https://spabalimoon.com/images/services/traditionalmassage/traditionalmassage-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20482,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/traditionalmassage/traditionalmassage-3.webp": {
+  "url": "https://spabalimoon.com/images/services/traditionalmassage/traditionalmassage-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 24366,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/traditionalmassage/traditionalmassage-4.webp": {
+  "url": "https://spabalimoon.com/images/services/traditionalmassage/traditionalmassage-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 30848,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/traditionalmassage/traditionalmassage-5.webp": {
+  "url": "https://spabalimoon.com/images/services/traditionalmassage/traditionalmassage-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 32328,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/traditionalmassage/traditionalmassage-6.webp": {
+  "url": "https://spabalimoon.com/images/services/traditionalmassage/traditionalmassage-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 29102,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/traditionalmassage/traditionalmassage-7.webp": {
+  "url": "https://spabalimoon.com/images/services/traditionalmassage/traditionalmassage-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 16682,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/traditionalmassage/traditionalmassage-8.webp": {
+  "url": "https://spabalimoon.com/images/services/traditionalmassage/traditionalmassage-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15404,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/traditionalmassage/traditionalmassage-9.webp": {
+  "url": "https://spabalimoon.com/images/services/traditionalmassage/traditionalmassage-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 16420,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/traditionalmassage/traditionalmassage-10.webp": {
+  "url": "https://spabalimoon.com/images/services/traditionalmassage/traditionalmassage-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 35324,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/traditionalmassage/traditionalmassage-11.webp": {
+  "url": "https://spabalimoon.com/images/services/traditionalmassage/traditionalmassage-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 277266,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/waxing/waxing-1.webp": {
+  "url": "https://spabalimoon.com/images/services/waxing/waxing-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 24368,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/waxing/waxing-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/waxing/waxing-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 7436,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/waxing/waxing-2.webp": {
+  "url": "https://spabalimoon.com/images/services/waxing/waxing-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 14616,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/waxing/waxing-3.webp": {
+  "url": "https://spabalimoon.com/images/services/waxing/waxing-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 14310,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/waxing/waxing-4.webp": {
+  "url": "https://spabalimoon.com/images/services/waxing/waxing-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 17696,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/waxing/waxing-5.webp": {
+  "url": "https://spabalimoon.com/images/services/waxing/waxing-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 25900,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/waxing/waxing-6.webp": {
+  "url": "https://spabalimoon.com/images/services/waxing/waxing-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 29370,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/waxing/waxing-7.webp": {
+  "url": "https://spabalimoon.com/images/services/waxing/waxing-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 35406,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/waxing/waxing-8.webp": {
+  "url": "https://spabalimoon.com/images/services/waxing/waxing-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 24960,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/waxing/waxing-9.webp": {
+  "url": "https://spabalimoon.com/images/services/waxing/waxing-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 29492,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/waxing/waxing-10.webp": {
+  "url": "https://spabalimoon.com/images/services/waxing/waxing-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20358,
+  "w": 1050,
+  "h": 484,
+  "orientation": "landscape"
+ },
+ "/images/services/waxing/waxing-11.webp": {
+  "url": "https://spabalimoon.com/images/services/waxing/waxing-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 14256,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/waxing/waxing-12.webp": {
+  "url": "https://spabalimoon.com/images/services/waxing/waxing-12.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 7756,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/waxing/waxing-13.webp": {
+  "url": "https://spabalimoon.com/images/services/waxing/waxing-13.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 17638,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/waxing/waxing-14.webp": {
+  "url": "https://spabalimoon.com/images/services/waxing/waxing-14.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 27722,
+  "w": 895,
+  "h": 682,
+  "orientation": "landscape"
+ },
+ "/images/services/waxing/waxing-15.webp": {
+  "url": "https://spabalimoon.com/images/services/waxing/waxing-15.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 36772,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/services/massagehotelvilla/massagehotelvilla-1.webp": {
+  "url": "https://spabalimoon.com/images/services/massagehotelvilla/massagehotelvilla-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 102294,
+  "w": 1920,
+  "h": 850,
+  "orientation": "landscape"
+ },
+ "/images/services/massagehotelvilla/massagehotelvilla-1-sm.webp": {
+  "url": "https://spabalimoon.com/images/services/massagehotelvilla/massagehotelvilla-1-sm.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 28954,
+  "w": 828,
+  "h": 367,
+  "orientation": "landscape"
+ },
+ "/images/services/massagehotelvilla/massagehotelvilla-2.webp": {
+  "url": "https://spabalimoon.com/images/services/massagehotelvilla/massagehotelvilla-2.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 30672,
+  "w": 578,
+  "h": 601,
+  "orientation": "square"
+ },
+ "/images/services/massagehotelvilla/massagehotelvilla-3.webp": {
+  "url": "https://spabalimoon.com/images/services/massagehotelvilla/massagehotelvilla-3.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19924,
+  "w": 630,
+  "h": 580,
+  "orientation": "landscape"
+ },
+ "/images/services/massagehotelvilla/massagehotelvilla-4.webp": {
+  "url": "https://spabalimoon.com/images/services/massagehotelvilla/massagehotelvilla-4.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 27238,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/massagehotelvilla/massagehotelvilla-5.webp": {
+  "url": "https://spabalimoon.com/images/services/massagehotelvilla/massagehotelvilla-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19106,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/massagehotelvilla/massagehotelvilla-6.webp": {
+  "url": "https://spabalimoon.com/images/services/massagehotelvilla/massagehotelvilla-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19198,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/massagehotelvilla/massagehotelvilla-7.webp": {
+  "url": "https://spabalimoon.com/images/services/massagehotelvilla/massagehotelvilla-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19842,
+  "w": 570,
+  "h": 496,
+  "orientation": "landscape"
+ },
+ "/images/services/massagehotelvilla/massagehotelvilla-8.webp": {
+  "url": "https://spabalimoon.com/images/services/massagehotelvilla/massagehotelvilla-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 174808,
+  "w": 1920,
+  "h": 898,
+  "orientation": "landscape"
+ },
+ "/images/shape/footer-shape-left.png": {
+  "url": "https://spabalimoon.com/images/shape/footer-shape-left.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 11724,
+  "w": 237,
+  "h": 333,
+  "orientation": "portrait"
+ },
+ "/images/logo/SMBtitle-footer.svg": {
+  "url": "https://spabalimoon.com/images/logo/SMBtitle-footer.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 11341,
+  "orientation": "vector/icon"
+ },
+ "/images/blog/blog-1.webp": {
+  "url": "https://spabalimoon.com/images/blog/blog-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 37288,
+  "w": 1920,
+  "h": 500,
+  "orientation": "landscape"
+ },
+ "/images/bg/page-title-bg.jpg": {
+  "url": "https://spabalimoon.com/images/bg/page-title-bg.jpg",
+  "status": 200,
+  "type": "image/jpeg",
+  "bytes": 5920,
+  "w": 1920,
+  "h": 500,
+  "orientation": "landscape"
+ },
+ "/images/homepage/homepage-12.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-12.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 7796,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-5.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-5.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 7136,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-10.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-10.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 7586,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-17.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-17.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8686,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-21.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-21.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 5914,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-22.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-22.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 7022,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-18.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-18.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 7144,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-11.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-11.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 5142,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-16.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-16.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 7726,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-15.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-15.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 7644,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-7.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-7.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 6498,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-27.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-27.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8102,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-8.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-8.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 6480,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-20.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-20.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8438,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-25.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-25.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 7382,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-9.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-9.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 11006,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-13.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-13.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 9382,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/services/footscrub/footscrub-1.webp": {
+  "url": "https://spabalimoon.com/images/services/footscrub/footscrub-1.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 55632,
+  "w": 1024,
+  "h": 1024,
+  "orientation": "square"
+ },
+ "/images/homepage/homepage-14.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-14.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 5738,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-23.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-23.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 9402,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-6.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-6.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 9058,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-19.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-19.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 6976,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/homepage/homepage-24.webp": {
+  "url": "https://spabalimoon.com/images/homepage/homepage-24.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 5966,
+  "w": 233,
+  "h": 306,
+  "orientation": "portrait"
+ },
+ "/images/SMBlogo.ico": {
+  "url": "https://spabalimoon.com/images/SMBlogo.ico",
+  "status": 200,
+  "type": "image/vnd.microsoft.icon",
+  "bytes": 6350,
+  "orientation": "vector/icon"
+ }
+}

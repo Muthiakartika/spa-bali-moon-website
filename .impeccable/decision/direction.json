@@ -1,0 +1,129 @@
+{
+  "title": "Spa Bali Moon: pilih dunia visual",
+  "question": "Palette (Warm Ivory, Soft Sand, Taupe, Sage, Deep Olive, Warm Brown) dan font (serif editorial + Manrope) sudah dikunci brief. Yang dipilih di sini adalah cara dunia itu diekspresikan. Pertahankan hasil roll, ambil alternatif, atau re-roll.",
+  "options": [
+    {
+      "id": "assigned",
+      "label": "The Moon Calendar",
+      "kicker": "THE ROLL",
+      "lineage": "Balinese lunar calendar: purnama (full moon) and tilem (new moon) as the island's measure of time",
+      "thesis": "Time at the spa told in moon phases: every duration reads as a crescent that waxes to full.",
+      "palette": ["#F6F1E9", "#33382F", "#B7A28E", "#889481", "#E8DDCF", "#806B59"],
+      "materials": ["original Spa Bali Moon photography", "fine drawn moon-phase rules", "unbleached ivory paper ground"],
+      "viewport": "Tall original treatment photo on one side; 'Our Seminyak Day Spa' in large editorial serif; the WhatsApp booking button; beneath it a slim moon rail (30 min crescent → 2 h full) that previews how durations read across the site.",
+      "risk": "The moon turns kitsch or new-age if it is used as decoration instead of as the working duration scale.",
+      "raised": [
+        { "from": "Drum machine step row", "raise": "The duration scale is one unbroken rail, identical on every page and price card, scaled but never wrapped." },
+        { "from": "Noir duotone one-sheet", "raise": "Two inks carry the page: olive ink on ivory. Taupe exists only as moon fill, sage only as selected state." },
+        { "from": "Coiled earth tower", "raise": "Text sits in horizontal courses: one baseline rhythm for price rows and headings, measure matched to content." }
+      ]
+    },
+    {
+      "id": "model-pick",
+      "label": "The Reception Menu Card",
+      "kicker": "IMPECCABLE’S PICK",
+      "lineage": "the printed treatment menu handed over at a Bali spa reception",
+      "thesis": "The whole site set like the treatment menu you are handed on arrival.",
+      "palette": ["#F6F1E9", "#33382F", "#E8DDCF", "#B7A28E", "#889481"],
+      "materials": ["hairline rules and dot leaders", "folded card stock", "original photography"],
+      "viewport": "Full-height treatment photo with a menu card laid over its edge, listing signature treatments with dot-leader prices and a WhatsApp button at the foot of the card.",
+      "risk": "Familiar: this is where most spa redesigns land."
+    },
+    {
+      "id": "challenger-drum-machine",
+      "label": "Drum Machine Step Row",
+      "verdict": "declined",
+      "lineage": "early-80s rhythm machine step keys",
+      "thesis": "Booking as punching steps into a running pattern.",
+      "palette": ["#26272b", "#d8412f", "#f29a2e", "#f3d24a", "#f4f1ea"],
+      "materials": ["silkscreen panel", "lit step keys"],
+      "viewport": "Sixteen step keys as treatment slots under a chase light.",
+      "case": "Fuses poorly: a spa guest does not identify with a sequencer; neon keys break the pinned palette.",
+      "risk": "Reads as a music toy, not a spa.",
+      "kept": "One unbroken line: the duration rail never wraps.",
+      "hero": "https://impeccable.style/worlds/cards/signals-instruments-drum-machine-step-row-hero.webp"
+    },
+    {
+      "id": "challenger-ascii",
+      "label": "ASCII Live Scene",
+      "verdict": "declined",
+      "lineage": "typewriter glyph renders",
+      "thesis": "Spa scenes rendered as glyph density.",
+      "palette": ["#0b0f0a", "#7cff8a"],
+      "materials": ["monospace grid", "phosphor glow"],
+      "viewport": "A glyph-rendered massage scene with captions in the grid.",
+      "case": "Fuses poorly: cold and technical; loses both identification and clarity.",
+      "risk": "Hostile to the calm the brand promises.",
+      "kept": "One strict grid governs every page.",
+      "hero": "https://impeccable.style/worlds/cards/medium-native-ascii-live-scene-render-hero.webp"
+    },
+    {
+      "id": "challenger-noir",
+      "label": "Noir One-Sheet Duotone",
+      "verdict": "declined",
+      "lineage": "postwar crime film posters",
+      "thesis": "Two inks and a long cast shadow.",
+      "palette": ["#141210", "#d9a441", "#efe6d2"],
+      "materials": ["duotone print", "cast shadow"],
+      "viewport": "A small figure throwing a huge shadow under a condensed title.",
+      "case": "Fuses poorly: dramatic and dark where the brief asks for light and calm.",
+      "risk": "Menace instead of rest.",
+      "kept": "Total two-ink commitment: olive on ivory, nothing sprinkled.",
+      "hero": "https://impeccable.style/worlds/cards/posters-covers-sleeves-noir-one-sheet-duotone-hero.webp"
+    },
+    {
+      "id": "challenger-decollage",
+      "label": "Torn Billboard Décollage",
+      "verdict": "declined",
+      "lineage": "Paris torn poster hoardings",
+      "thesis": "Layers torn back to reveal older campaigns.",
+      "palette": ["#d9d2c3", "#9a948a", "#c4553b", "#2d3a55"],
+      "materials": ["torn paper", "paste board"],
+      "viewport": "Ragged tears exposing fragments of old treatment posters.",
+      "case": "Fuses poorly: chaotic layering fights price clarity.",
+      "risk": "Messy, the opposite of calm.",
+      "kept": "Depth as history: 'Since 2009' earns a real place, not a badge.",
+      "hero": "https://impeccable.style/worlds/cards/design-canon-decollage-torn-billboard-hero.webp"
+    },
+    {
+      "id": "challenger-nightcity",
+      "label": "Rain-Night Cityscape",
+      "verdict": "declined",
+      "lineage": "blue-hour urban nocturne",
+      "thesis": "The city passing from dusk to dawn.",
+      "palette": ["#1b2a5c", "#0c0e14", "#f2a33a", "#c9d3dc"],
+      "materials": ["wet reflections", "neon"],
+      "viewport": "Skyline bands with amber transit lines.",
+      "case": "Fuses poorly: urban and dark; Seminyak guests come to slow down.",
+      "risk": "Dark sections the brief forbids.",
+      "kept": "Time-of-day awareness, once the owner confirms the opening hours.",
+      "hero": "https://impeccable.style/worlds/cards/light-shadow-caustics-rain-night-cityscape-hero.webp"
+    },
+    {
+      "id": "challenger-claytower",
+      "label": "Coiled Earth Tower",
+      "verdict": "declined",
+      "lineage": "hand-coiled clay building",
+      "thesis": "Content rising in hand-pressed coils.",
+      "palette": ["#a8573a", "#6b4630", "#efe3d3"],
+      "materials": ["terracotta coils", "slip seams"],
+      "viewport": "Horizontal clay courses stacking upward.",
+      "case": "Fuses partly: organic and handmade, but terracotta overrides the pinned palette and slab caps hurt reading.",
+      "risk": "Pottery-studio cliché.",
+      "kept": "Horizontal courses: one baseline rhythm for every row.",
+      "hero": "https://impeccable.style/worlds/cards/clay-ceramics-fracture-coiled-earth-tower-hero.webp"
+    }
+  ],
+  "reroll": { "registers": ["safer", "bolder"] },
+  "buildPath": { "value": "code" },
+  "canon": true,
+  "canonCard": {
+    "label": "Luxury spa editorial (category standard)",
+    "thesis": "What every Bali spa site ships, executed with full craft.",
+    "palette": ["#F6F1E9", "#33382F", "#B7A28E"],
+    "materials": ["full-bleed hero photography", "centered serif headlines", "card grids"],
+    "viewport": "Full-bleed photo hero, centered serif headline, two buttons, then a grid of treatment cards.",
+    "risk": "Indistinguishable from the competition by design."
+  },
+  "steer": true
+}

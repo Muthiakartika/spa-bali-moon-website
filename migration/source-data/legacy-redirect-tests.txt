@@ -1,0 +1,60 @@
+/bali-moon-best-massage-bali-seminyak-our-team.html -> 404 
+/bali-moon-best-massage-bali-seminyak-our-team-html.html -> 404 
+/cheap-massage-seminyak-bali-price-list.html -> 301 https://spabalimoon.com/seminyak/
+/cheap-massage-seminyak-bali-price-list/ -> 301 https://spabalimoon.com/seminyak/
+/spa-massage-seminyak-bali-price-list/ -> 301 https://spabalimoon.com/seminyak/
+/cheap-massage-seminyak-bali-price-list/best-body-scrub-in-bali.html -> 404 
+/cheap-massage-seminyak-bali-price-list/extra-massage-service-in-seminyak.html -> 404 
+/cheap-massage-seminyak-bali-price-list/facial.html -> 404 
+/cheap-massage-seminyak-bali-price-list/the-packages.html -> 404 
+/spa-treatments/ -> 301 https://spabalimoon.com/seminyak/
+/spa-treatments/foot-reflexology-seminyak-bali/ -> 301 https://spabalimoon.com/seminyak/foot-reflexology/
+/spa-treatments/reflexology-bali/ -> 301 https://spabalimoon.com/seminyak/foot-reflexology/
+/spa-treatments/waxing-bali/ -> 301 https://spabalimoon.com/seminyak/waxing-salon/
+/spa-treatments/couple-spa-bali/ -> 301 https://spabalimoon.com/seminyak/couple-spa/
+/spa-treatments/ear-candle-bali/ -> 301 https://spabalimoon.com/seminyak/ear-wax-removal/
+/spa-treatments/lymphatic-drainage-massage-bali/ -> 301 https://spabalimoon.com/seminyak/lymphatic-drainage-massage/
+/spa-treatments/facial-seminyak/ -> 301 https://spabalimoon.com/seminyak/facial/
+/spa-treatments/body-scrub-bali/ -> 301 https://spabalimoon.com/seminyak/body-scrub/
+/spa-treatments/nails-seminyak/ -> 301 https://spabalimoon.com/seminyak/nail-spa/
+/spa-treatments/creambath-seminyak/ -> 301 https://spabalimoon.com/seminyak/creambath/
+/spa-treatments/manicure-pedicure-seminyak/ -> 301 https://spabalimoon.com/seminyak/manicure-pedicure/
+/spa-treatments/sport-massage-bali/ -> 301 https://spabalimoon.com/seminyak/sport-massage/
+/spa-treatments/sunburn-massage-treatment-bali/ -> 301 https://spabalimoon.com/seminyak/sunburn-massage/
+/spa-treatments/thai-massage-bali/ -> 301 https://spabalimoon.com/seminyak/thai-massage/
+/spa-treatments/anti-cellulite-massage-bali/ -> 301 https://spabalimoon.com/seminyak/anti-cellulite-massage/
+/spa-treatments/hot-stone-massage-bali/ -> 301 https://spabalimoon.com/seminyak/hot-stone-massage/
+/spa-treatments/coconut-oil-massage/ -> 301 https://spabalimoon.com/seminyak/coconut-oil-massage/
+/spa-treatments/deep-tissue-massage-bali/ -> 301 https://spabalimoon.com/seminyak/deep-tissue-massage/
+/spa-treatments/hair-braiding-bali/ -> 301 https://spabalimoon.com/seminyak/hair-braiding/
+/spa-treatments/head-massage-bali/ -> 301 https://spabalimoon.com/seminyak/head-massage/
+/spa-treatments/shiatsu-massage-bali/ -> 301 https://spabalimoon.com/seminyak/shiatsu-massage/
+/spa-treatments/balinese-massage-bali/ -> 404 
+/spa-treatments/traditional-massage-bali/ -> 404 
+/spa-treatments/foot-massage-bali/ -> 404 
+/massage-bali/ -> 301 https://spabalimoon.com/
+/massage-seminyak/ -> 301 https://spabalimoon.com/seminyak/
+/day-spa-seminyak/ -> 301 https://spabalimoon.com/seminyak/day-spa/
+/villa-hotel-massage-seminyak/ -> 301 https://spabalimoon.com/villa-hotel-massage/
+/index.html -> 404 
+/appointments.html -> 404 
+/beauty-inspiration.html -> 404 
+/contact.html -> 404 
+/reservation-spa-bali-moon-massage.html -> 404 
+/category/interiors -> 308 https://spabalimoon.com/category/interiors/
+/category/resort -> 308 https://spabalimoon.com/category/resort/
+/dt_portfolios/honey-hive -> 308 https://spabalimoon.com/dt_portfolios/honey-hive/
+/portfolio_entries/hair-care -> 308 https://spabalimoon.com/portfolio_entries/hair-care/
+/wp-content/uploads/2018/09/LOGOFIX-2.png -> 403 
+/seminyak/ear-wax-removal -> 308 https://spabalimoon.com/seminyak/ear-wax-removal/
+/spa-packages/ -> 301 https://spabalimoon.com/seminyak/
+/blog/ -> 301 https://spabalimoon.com/guide/
+/home-service/ -> 301 https://spabalimoon.com/outcall-home-service-massage/
+/team/ -> 301 https://spabalimoon.com/seminyak/
+/page-services/ -> 301 https://spabalimoon.com/seminyak/
+/faq/ -> 200 
+/testimonials/ -> 200 
+/page-gallery/ -> 200 
+/news-details/ -> 200 
+/about/ -> 404 
+/guide/iv-drip-therapy/ -> 404 

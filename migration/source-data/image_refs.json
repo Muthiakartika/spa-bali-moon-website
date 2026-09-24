@@ -1,0 +1,6381 @@
+{
+ "/images/shape/banner-two-shape.png": {
+  "pages": [
+   "/contact/",
+   "/massage-kuta/",
+   "/outcall-home-service-massage/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/",
+   "/villa-hotel-massage/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/contact/contact-1.webp": {
+  "pages": [
+   "/contact/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/contact/contact-1-sm.webp": {
+  "pages": [
+   "/contact/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/logo/sbm.webp": {
+  "pages": [
+   "/",
+   "/contact/",
+   "/massage-kuta/",
+   "/outcall-home-service-massage/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/",
+   "/villa-hotel-massage/",
+   "[mobile menu]"
+  ],
+  "alts": [
+   "",
+   "Spa Bali Moon watermark"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/guide/lymphatic-drainage-blog-spa-bali-moon.webp": {
+  "pages": [
+   "/guide/",
+   "/guide/best-massages-after-a-long-flight/",
+   "/guide/iv-drip/",
+   "/guide/lymphatic-drainage-massage-benefits-techniques-what-to-expect/",
+   "/guide/understanding-of-facial-massage/",
+   "/guide/understanding-slimming-massage/",
+   "/guide/what-is-a-balinese-massage/",
+   "/guide/what-is-thai-massage/"
+  ],
+  "alts": [
+   "",
+   "A Guide To Lymphatic Drainage Massage"
+  ],
+  "kinds": [
+   "blog-cover",
+   "img",
+   "og:image",
+   "sitemap"
+  ]
+ },
+ "/images/guide/balinese-massage-blog-spa-bali-moon.webp": {
+  "pages": [
+   "/guide/",
+   "/guide/best-massages-after-a-long-flight/",
+   "/guide/iv-drip/",
+   "/guide/lymphatic-drainage-massage-benefits-techniques-what-to-expect/",
+   "/guide/understanding-of-facial-massage/",
+   "/guide/understanding-slimming-massage/",
+   "/guide/what-is-a-balinese-massage/",
+   "/guide/what-is-thai-massage/"
+  ],
+  "alts": [
+   "",
+   "What Is a Balinese Massage? A Complete Guide for First Timer"
+  ],
+  "kinds": [
+   "blog-cover",
+   "img",
+   "og:image",
+   "sitemap"
+  ]
+ },
+ "/images/guide/thai-massage-blog-spa-bali-moon.webp": {
+  "pages": [
+   "/guide/",
+   "/guide/best-massages-after-a-long-flight/",
+   "/guide/iv-drip/",
+   "/guide/lymphatic-drainage-massage-benefits-techniques-what-to-expect/",
+   "/guide/understanding-of-facial-massage/",
+   "/guide/understanding-slimming-massage/",
+   "/guide/what-is-a-balinese-massage/",
+   "/guide/what-is-thai-massage/"
+  ],
+  "alts": [
+   "",
+   "Thai Massage Benefits & Techniques Explained"
+  ],
+  "kinds": [
+   "blog-cover",
+   "img",
+   "og:image",
+   "sitemap"
+  ]
+ },
+ "/images/guide/facial-massage-blog-spa-bali-moon.webp": {
+  "pages": [
+   "/guide/",
+   "/guide/lymphatic-drainage-massage-benefits-techniques-what-to-expect/",
+   "/guide/understanding-of-facial-massage/",
+   "/guide/understanding-slimming-massage/",
+   "/guide/what-is-a-balinese-massage/",
+   "/guide/what-is-thai-massage/"
+  ],
+  "alts": [
+   "",
+   "Facial Massage Benefits for Modern Self‑Care"
+  ],
+  "kinds": [
+   "blog-cover",
+   "img",
+   "og:image",
+   "sitemap"
+  ]
+ },
+ "/images/guide/slimming-massage-blog-spa-bali-moon.webp": {
+  "pages": [
+   "/guide/",
+   "/guide/best-massages-after-a-long-flight/",
+   "/guide/lymphatic-drainage-massage-benefits-techniques-what-to-expect/",
+   "/guide/understanding-of-facial-massage/",
+   "/guide/understanding-slimming-massage/",
+   "/guide/what-is-a-balinese-massage/",
+   "/guide/what-is-thai-massage/"
+  ],
+  "alts": [
+   "",
+   "Slimming Massage Benefits & How It Works"
+  ],
+  "kinds": [
+   "blog-cover",
+   "img",
+   "og:image",
+   "sitemap"
+  ]
+ },
+ "/images/guide/jet-lag-recovery-blog-spa-bali-moon.webp": {
+  "pages": [
+   "/guide/",
+   "/guide/best-massages-after-a-long-flight/",
+   "/guide/iv-drip/",
+   "/guide/understanding-of-facial-massage/",
+   "/guide/understanding-slimming-massage/",
+   "/guide/what-is-a-balinese-massage/",
+   "/guide/what-is-thai-massage/"
+  ],
+  "alts": [
+   "",
+   "Best Massages for Jet Lag Recovery After a Long Flight"
+  ],
+  "kinds": [
+   "blog-cover",
+   "img",
+   "og:image",
+   "sitemap"
+  ]
+ },
+ "/images/guide/iv-drip-therapy-banner-1024x576.webp": {
+  "pages": [
+   "/guide/",
+   "/guide/best-massages-after-a-long-flight/",
+   "/guide/iv-drip/"
+  ],
+  "alts": [
+   "",
+   "IV Drip Therapy in Bali"
+  ],
+  "kinds": [
+   "blog-cover",
+   "img",
+   "og:image",
+   "sitemap"
+  ]
+ },
+ "/images/guide/swedish-massage-for-jetlag-spa-bali-moon.webp": {
+  "pages": [
+   "/guide/best-massages-after-a-long-flight/"
+  ],
+  "alts": [
+   "Woman lying face down with eyes closed receiving a shoulder and upper-back massage in a spa setting, bowl of spa ingredients nearby"
+  ],
+  "kinds": [
+   "blog-inline",
+   "img"
+  ]
+ },
+ "/images/guide/lymphatic-drainage-spa-bali-moon.webp": {
+  "pages": [
+   "/guide/lymphatic-drainage-massage-benefits-techniques-what-to-expect/"
+  ],
+  "alts": [
+   "Therapist's hands performing an abdominal massage on a relaxed person lying on a towel-covered table with a towel over chest."
+  ],
+  "kinds": [
+   "blog-inline",
+   "img"
+  ]
+ },
+ "/images/guide/trafitional-facial-massage-spa-bali-moon.webp": {
+  "pages": [
+   "/guide/understanding-of-facial-massage/"
+  ],
+  "alts": [
+   "Woman lying back with a towel wrapped around her head receiving a facial massage, hands applying oil to her cheeks and neck."
+  ],
+  "kinds": [
+   "blog-inline",
+   "img"
+  ]
+ },
+ "/images/guide/targeted-body-massage-spa-bali-moon.webp": {
+  "pages": [
+   "/guide/understanding-slimming-massage/"
+  ],
+  "alts": [
+   "Hands massaging the back of a thigh under a white towel during a massage therapy session."
+  ],
+  "kinds": [
+   "blog-inline",
+   "img"
+  ]
+ },
+ "/images/guide/balinese-massage-spa-bali-moon.webp": {
+  "pages": [
+   "/guide/what-is-a-balinese-massage/"
+  ],
+  "alts": [
+   "Therapist's hands pressing and massaging a person's shoulder and upper back during a massage session"
+  ],
+  "kinds": [
+   "blog-inline",
+   "img"
+  ]
+ },
+ "/images/guide/thai-massage-spa-bali-moon.webp": {
+  "pages": [
+   "/guide/what-is-thai-massage/"
+  ],
+  "alts": [
+   "Therapist performing a Thai-style assisted stretch on a relaxed woman lying face down on a massage table in a warmly lit room"
+  ],
+  "kinds": [
+   "blog-inline",
+   "img"
+  ]
+ },
+ "/images/shape/about-two-left.png": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/banner/banner-five-arry.png": {
+  "pages": [
+   "/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/home/homepage-1.webp": {
+  "pages": [
+   "/"
+  ],
+  "alts": [
+   "Spa towels and candles"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/home/homepage-2.webp": {
+  "pages": [
+   "/"
+  ],
+  "alts": [
+   "Hot stone spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/package-four-shape-left.png": {
+  "pages": [
+   "/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "",
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/banner-six-shape2.png": {
+  "pages": [
+   "/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/service-four-shape-right.png": {
+  "pages": [
+   "/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/step-line.png": {
+  "pages": [
+   "/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/about-three-shape.png": {
+  "pages": [
+   "/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/home/homepage-3.webp": {
+  "pages": [
+   "/"
+  ],
+  "alts": [
+   "Spa massage treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/home/homepage-4.webp": {
+  "pages": [
+   "/"
+  ],
+  "alts": [
+   "Spa treatment room"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/about/shape2.png": {
+  "pages": [
+   "/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/about/shape3.png": {
+  "pages": [
+   "/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/balinesemassage.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Balinese Massage",
+   "Balinese Massage - Relaxing"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/Balinese.svg": {
+  "pages": [
+   "/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "",
+   "Bali Moon Facial",
+   "Balinese Massage",
+   "Traditional Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/creambath.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Cream Bath",
+   "Creambath & Hair Mask",
+   "Hair Braiding",
+   "Hair Cream Bath"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/CreamBath.svg": {
+  "pages": [
+   "/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "",
+   "Cream Bath"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/hotstonemassage.webp": {
+  "pages": [
+   "/",
+   "/massage-kuta/",
+   "/outcall-home-service-massage/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/",
+   "/villa-hotel-massage/"
+  ],
+  "alts": [
+   "Hot Stone Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/HotStone.svg": {
+  "pages": [
+   "/",
+   "/seminyak/hot-stone-massage/"
+  ],
+  "alts": [
+   "",
+   "Hot Stone Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/sportmassage.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Sport Massage",
+   "Sports Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/sports.svg": {
+  "pages": [
+   "/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "",
+   "Sports Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/balimoonteatreefacial.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "Bali Moon Facial",
+   "Bali Moon Tea Tree Facial"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/deeptissuemassage.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Deep Tissue Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/DeepTissue.svg": {
+  "pages": [
+   "/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "",
+   "Deep Tissue Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/headmassage.webp": {
+  "pages": [
+   "/",
+   "/massage-kuta/",
+   "/outcall-home-service-massage/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/",
+   "/villa-hotel-massage/"
+  ],
+  "alts": [
+   "Head Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/Head.svg": {
+  "pages": [
+   "/"
+  ],
+  "alts": [
+   "Head Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/aloeveramassage.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "Aloe Vera Massage",
+   "Sunburn Treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/Sunburn.svg": {
+  "pages": [
+   "/"
+  ],
+  "alts": [
+   "Sunburn Treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/bodyscrub.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Body Scrub"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/Scrub.svg": {
+  "pages": [
+   "/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "",
+   "Body Scrub"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/earcandle.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "Ear Candle"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/EarCandle.svg": {
+  "pages": [
+   "/"
+  ],
+  "alts": [
+   "Ear Candle"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/lymphaticmassage .webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Lymphatic Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/Lymphatic.svg": {
+  "pages": [
+   "/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "",
+   "Lymphatic Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/traditionalmassage.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Traditional Massage",
+   "Traditional Massage - Strong"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/cellulitemassage.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "Cellulite Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/cellulite.svg": {
+  "pages": [
+   "/"
+  ],
+  "alts": [
+   "Cellulite Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/footmassage.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Foot Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/FootMassage.svg": {
+  "pages": [
+   "/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "",
+   "Foot Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/manicurepedicure.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Manicure Pedicure",
+   "Nail Art"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/Manicure.svg": {
+  "pages": [
+   "/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "",
+   "Manicure Pedicure"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/thaimassage.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Thai Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/thai.svg": {
+  "pages": [
+   "/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "",
+   "Thai Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/couplebalinesemassage.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Couple Balinese Massage",
+   "Couple Massage",
+   "Couple Massage Balinese"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/Couple.svg": {
+  "pages": [
+   "/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "",
+   "Couple Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/footreflexology.webp": {
+  "pages": [
+   "/",
+   "/massage-kuta/",
+   "/outcall-home-service-massage/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/",
+   "/villa-hotel-massage/"
+  ],
+  "alts": [
+   "Foot Reflexology"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/FootReflexology.svg": {
+  "pages": [
+   "/"
+  ],
+  "alts": [
+   "Foot Reflexology"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/NailArt.svg": {
+  "pages": [
+   "/"
+  ],
+  "alts": [
+   "Nail Art"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/waxing.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "Waxing"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/waxing.svg": {
+  "pages": [
+   "/"
+  ],
+  "alts": [
+   "Waxing"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/coconutoilmassage.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Coconut Oil Massage",
+   "Virgin Cold-Press Coconut Oil Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/CoconutOil.svg": {
+  "pages": [
+   "/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "",
+   "Coconut Oil Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/HairBraiding.svg": {
+  "pages": [
+   "/"
+  ],
+  "alts": [
+   "Hair Braiding"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/shiatsumassage.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Shiatsu Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/spa/Shiatsu.svg": {
+  "pages": [
+   "/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "",
+   "Shiatsu Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/testimonial-two-shape-left.png": {
+  "pages": [
+   "/",
+   "/massage-kuta/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/",
+   "/villa-hotel-massage/"
+  ],
+  "alts": [
+   "",
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/testimonial-two-shape-right.png": {
+  "pages": [
+   "/",
+   "/massage-kuta/",
+   "/seminyak/",
+   "/seminyak/day-spa/",
+   "/villa-hotel-massage/"
+  ],
+  "alts": [
+   "",
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/banner-five-shape1.png": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "",
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/package-shape-right.png": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "",
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/aromatherapymassage.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "Aromatherapy Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/backmassage.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "Back Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/fourhandmassage.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "Four Hand Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/organicwarmcandle.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "Four Hand Warm Candle",
+   "Organic Warm Candle Oil Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/herbalmassage.webp": {
+  "pages": [
+   "/",
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "Herbal Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/pricing/shape.png": {
+  "pages": [
+   "/",
+   "/seminyak/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "",
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/service-shape-left.png": {
+  "pages": [
+   "/",
+   "/reservation/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "",
+   "imag",
+   "shape"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/service-shape-right.png": {
+  "pages": [
+   "/",
+   "/reservation/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "",
+   "image",
+   "shape"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/homepage/homepage-2.webp": {
+  "pages": [
+   "/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/home/homepage-5.webp": {
+  "pages": [
+   "/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/massagekuta/massagekuta-1.webp": {
+  "pages": [
+   "/massage-kuta/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/massagekuta/massagekuta-1-sm.webp": {
+  "pages": [
+   "/massage-kuta/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/shape/leaf/6a.png": {
+  "pages": [
+   "/massage-kuta/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/leaf/7a.png": {
+  "pages": [
+   "/massage-kuta/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/massagekuta/massagekuta-2.webp": {
+  "pages": [
+   "/massage-kuta/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/massagekuta/massagekuta-3.webp": {
+  "pages": [
+   "/massage-kuta/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/leaf/8a.png": {
+  "pages": [
+   "/massage-kuta/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/facial/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/shiatsu-massage/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/leaf/9a.png": {
+  "pages": [
+   "/massage-kuta/",
+   "/seminyak/day-spa/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/massagekuta/massagekuta-4.webp": {
+  "pages": [
+   "/massage-kuta/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/leaf/12a.png": {
+  "pages": [
+   "/massage-kuta/",
+   "/seminyak/couple-spa/",
+   "/seminyak/day-spa/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/sport-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/",
+   "/villa-hotel-massage/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/leaf/13a.png": {
+  "pages": [
+   "/massage-kuta/",
+   "/seminyak/day-spa/",
+   "/seminyak/foot-massage/",
+   "/seminyak/nail-spa/",
+   "/villa-hotel-massage/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/massagekuta/massagekuta-5.webp": {
+  "pages": [
+   "/massage-kuta/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/leaf/10a.png": {
+  "pages": [
+   "/massage-kuta/",
+   "/seminyak/day-spa/",
+   "/seminyak/head-massage/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/leaf/11a.png": {
+  "pages": [
+   "/massage-kuta/",
+   "/seminyak/day-spa/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/massagekuta/massagekuta-6.webp": {
+  "pages": [
+   "/massage-kuta/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/massagekuta/massagekuta-7.webp": {
+  "pages": [
+   "/massage-kuta/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/massagekuta/massagekuta-8.webp": {
+  "pages": [
+   "/massage-kuta/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/service/shape.png": {
+  "pages": [
+   "/massage-kuta/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/",
+   "/villa-hotel-massage/"
+  ],
+  "alts": [
+   "",
+   "shape"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/homepage/homepage-28.webp": {
+  "pages": [
+   "/outcall-home-service-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/homepage/homepage-28-sm.webp": {
+  "pages": [
+   "/outcall-home-service-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/shape/about-two-right.png": {
+  "pages": [
+   "/outcall-home-service-massage/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/outcall/outcall-2.webp": {
+  "pages": [
+   "/outcall-home-service-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/outcall/outcall-3.webp": {
+  "pages": [
+   "/outcall-home-service-massage/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/leaf/2a.png": {
+  "pages": [
+   "/outcall-home-service-massage/",
+   "/villa-hotel-massage/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/leaf/3a.png": {
+  "pages": [
+   "/outcall-home-service-massage/",
+   "/villa-hotel-massage/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/homepage/homepage-3.webp": {
+  "pages": [
+   "/outcall-home-service-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/banner-six-shape.png": {
+  "pages": [
+   "/outcall-home-service-massage/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/mirror-left-shape.png": {
+  "pages": [
+   "/outcall-home-service-massage/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/outcall/outcall-4.webp": {
+  "pages": [
+   "/outcall-home-service-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/couplemassage.webp": {
+  "pages": [
+   "/outcall-home-service-massage/"
+  ],
+  "alts": [
+   "Couple Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/balimoongoldfacial.webp": {
+  "pages": [
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "Bali Moon Gold Facial"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/footscrub.webp": {
+  "pages": [
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "Foot Scrub"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/biokosfacial.webp": {
+  "pages": [
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "Biokos Facial"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/eyelash.webp": {
+  "pages": [
+   "/outcall-home-service-massage/"
+  ],
+  "alts": [
+   "Eyelash"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/coupletraditionalmassage.webp": {
+  "pages": [
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "Couple Traditional Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/coupledeeptissumassage.webp": {
+  "pages": [
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "Couple Deep Tissue Massage"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/couplewarmcandle.webp": {
+  "pages": [
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "Couple Massage Warm Candle",
+   "Couple Warm Candle Oil Massages"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/listmenu/couplemassagepackage.webp": {
+  "pages": [
+   "/outcall-home-service-massage/",
+   "/seminyak/"
+  ],
+  "alts": [
+   "Couple Massage Packages",
+   "Couple Packages"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/about-left-shape.png": {
+  "pages": [
+   "/outcall-home-service-massage/",
+   "/privacy-policy/",
+   "/terms-and-conditions/",
+   "/wellness-in-bali/"
+  ],
+  "alts": [
+   "shape"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/about-right-shape.png": {
+  "pages": [
+   "/outcall-home-service-massage/",
+   "/privacy-policy/",
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/",
+   "/terms-and-conditions/",
+   "/wellness-in-bali/"
+  ],
+  "alts": [
+   "",
+   "shape"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/outcall/outcall-5.webp": {
+  "pages": [
+   "/outcall-home-service-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/pricelist/pricelist-1.webp": {
+  "pages": [
+   "/seminyak/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/pricelist/pricelist-1-sm.webp": {
+  "pages": [
+   "/seminyak/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/shape/video-shape.png": {
+  "pages": [
+   "/seminyak/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/pricelist/pricelist-2.webp": {
+  "pages": [
+   "/seminyak/"
+  ],
+  "alts": [
+   "Spa body treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/pricelist/pricelist-3.webp": {
+  "pages": [
+   "/seminyak/"
+  ],
+  "alts": [
+   "Relaxing spa setting"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/icon/icon-spa/Body Scrub.png": {
+  "pages": [
+   "/seminyak/"
+  ],
+  "alts": [
+   "Body Scrub icon"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/icon/icon-spa/Couple Massage.png": {
+  "pages": [
+   "/seminyak/"
+  ],
+  "alts": [
+   "Couple Massage icon"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/icon/icon-spa/Cream Bath.png": {
+  "pages": [
+   "/seminyak/"
+  ],
+  "alts": [
+   "Cream Bath icon"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/icon/icon-spa/Biokos Facial.png": {
+  "pages": [
+   "/seminyak/"
+  ],
+  "alts": [
+   "Bali Moon Facial icon"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/icon/icon-spa/Hot Stone.png": {
+  "pages": [
+   "/seminyak/"
+  ],
+  "alts": [
+   "Hot Stone icon"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/icon/icon-spa/menipedi.png": {
+  "pages": [
+   "/seminyak/"
+  ],
+  "alts": [
+   "Mani Pedi icon"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/icon/icon-spa/Thai Massage.png": {
+  "pages": [
+   "/seminyak/"
+  ],
+  "alts": [
+   "Thai Massage icon"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/pricelist/pricelist-4.webp": {
+  "pages": [
+   "/seminyak/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/pricelist/pricelist-5.webp": {
+  "pages": [
+   "/seminyak/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/cellulitemassage/cellulitemassage-1.webp": {
+  "pages": [
+   "/seminyak/anti-cellulite-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/cellulitemassage/cellulitemassage-1-sm.webp": {
+  "pages": [
+   "/seminyak/anti-cellulite-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/cellulitemassage/cellulitemassage-2.webp": {
+  "pages": [
+   "/seminyak/anti-cellulite-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/cellulitemassage/cellulitemassage-3.webp": {
+  "pages": [
+   "/seminyak/anti-cellulite-massage/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/pricing-three-shape-right.png": {
+  "pages": [
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/cellulitemassage/cellulitemassage-4.webp": {
+  "pages": [
+   "/seminyak/anti-cellulite-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/cellulitemassage/cellulitemassage-5.webp": {
+  "pages": [
+   "/seminyak/anti-cellulite-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/cellulitemassage/cellulitemassage-6.webp": {
+  "pages": [
+   "/seminyak/anti-cellulite-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/step-shape-left.png": {
+  "pages": [
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/cellulitemassage/cellulitemassage-7.webp": {
+  "pages": [
+   "/seminyak/anti-cellulite-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/banner-three-shape2.png": {
+  "pages": [
+   "/seminyak/anti-cellulite-massage/",
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/deep-tissue-massage/",
+   "/seminyak/ear-wax-removal/",
+   "/seminyak/facial/",
+   "/seminyak/foot-massage/",
+   "/seminyak/foot-reflexology/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/head-massage/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/nail-spa/",
+   "/seminyak/shiatsu-massage/",
+   "/seminyak/sport-massage/",
+   "/seminyak/sunburn-massage/",
+   "/seminyak/thai-massage/",
+   "/seminyak/traditional-massage/",
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/cellulitemassage/cellulitemassage-8.webp": {
+  "pages": [
+   "/seminyak/anti-cellulite-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/cellulitemassage/cellulitemassage-9.webp": {
+  "pages": [
+   "/seminyak/anti-cellulite-massage/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/cellulitemassage/cellulitemassage-10.webp": {
+  "pages": [
+   "/seminyak/anti-cellulite-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/balinesemassage/balinesemassage-1.webp": {
+  "pages": [
+   "/seminyak/balinese-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/balinesemassage/balinesemassage-1-sm.webp": {
+  "pages": [
+   "/seminyak/balinese-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/balinesemassage/balinesemassage-2.webp": {
+  "pages": [
+   "/seminyak/balinese-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balinesemassage/balinesemassage-3.webp": {
+  "pages": [
+   "/seminyak/balinese-massage/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/logo/SMBtitle.svg": {
+  "pages": [
+   "/seminyak/balinese-massage/",
+   "/seminyak/body-scrub/",
+   "/seminyak/couple-spa/",
+   "/seminyak/creambath/",
+   "/seminyak/facial/",
+   "/seminyak/hot-stone-massage/",
+   "/seminyak/manicure-pedicure/",
+   "/seminyak/thai-massage/",
+   "[header]"
+  ],
+  "alts": [
+   "",
+   "logo"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balinesemassage/balinesemassage-4.webp": {
+  "pages": [
+   "/seminyak/balinese-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balinesemassage/balinesemassage-5.webp": {
+  "pages": [
+   "/seminyak/balinese-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balinesemassage/balinesemassage-6.webp": {
+  "pages": [
+   "/seminyak/balinese-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balinesemassage/balinesemassage-7.webp": {
+  "pages": [
+   "/seminyak/balinese-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balinesemassage/balinesemassage-8.webp": {
+  "pages": [
+   "/seminyak/balinese-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balinesemassage/balinesemassage-9.webp": {
+  "pages": [
+   "/seminyak/balinese-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/leaf/4a.png": {
+  "pages": [
+   "/seminyak/balinese-massage/",
+   "/seminyak/hair-braiding/",
+   "/seminyak/thai-massage/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balinesemassage/balinesemassage-10.webp": {
+  "pages": [
+   "/seminyak/balinese-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balinesemassage/balinesemassage-11.webp": {
+  "pages": [
+   "/seminyak/balinese-massage/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balinesemassage/balinesemassage-12.webp": {
+  "pages": [
+   "/seminyak/balinese-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/bodyscrub/bodyscrub-1.webp": {
+  "pages": [
+   "/seminyak/body-scrub/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/bodyscrub/bodyscrub-1-sm.webp": {
+  "pages": [
+   "/seminyak/body-scrub/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/bodyscrub/bodyscrub-2.webp": {
+  "pages": [
+   "/seminyak/body-scrub/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/bodyscrub/bodyscrub-3.webp": {
+  "pages": [
+   "/seminyak/body-scrub/"
+  ],
+  "alts": [
+   "Spa treatment",
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/bodyscrub/bodyscrub-4.webp": {
+  "pages": [
+   "/seminyak/body-scrub/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/bodyscrub/bodyscrub-5.webp": {
+  "pages": [
+   "/seminyak/body-scrub/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/bodyscrub/bodyscrub-6.webp": {
+  "pages": [
+   "/seminyak/body-scrub/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/bodyscrub/bodyscrub-7.webp": {
+  "pages": [
+   "/seminyak/body-scrub/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/bodyscrub/bodyscrub-8.webp": {
+  "pages": [
+   "/seminyak/body-scrub/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/bodyscrub/bodyscrub-9.webp": {
+  "pages": [
+   "/seminyak/body-scrub/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/shape/leaf/1a-v2.png": {
+  "pages": [
+   "/seminyak/body-scrub/",
+   "/seminyak/coconut-oil-massage/",
+   "/seminyak/creambath/",
+   "/seminyak/day-spa/",
+   "/seminyak/lymphatic-drainage-massage/",
+   "/seminyak/sunburn-massage/",
+   "/villa-hotel-massage/"
+  ],
+  "alts": [
+   ""
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/bodyscrub/bodyscrub-10.webp": {
+  "pages": [
+   "/seminyak/body-scrub/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/bodyscrub/bodyscrub-11.webp": {
+  "pages": [
+   "/seminyak/body-scrub/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/bodyscrub/bodyscrub-12.webp": {
+  "pages": [
+   "/seminyak/body-scrub/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-1.webp": {
+  "pages": [
+   "/seminyak/coconut-oil-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-1-sm.webp": {
+  "pages": [
+   "/seminyak/coconut-oil-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-2.webp": {
+  "pages": [
+   "/seminyak/coconut-oil-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-3.webp": {
+  "pages": [
+   "/seminyak/coconut-oil-massage/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-4.webp": {
+  "pages": [
+   "/seminyak/coconut-oil-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-5.webp": {
+  "pages": [
+   "/seminyak/coconut-oil-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-6.webp": {
+  "pages": [
+   "/seminyak/coconut-oil-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-7.webp": {
+  "pages": [
+   "/seminyak/coconut-oil-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-8.webp": {
+  "pages": [
+   "/seminyak/coconut-oil-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-9.webp": {
+  "pages": [
+   "/seminyak/coconut-oil-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-10.webp": {
+  "pages": [
+   "/seminyak/coconut-oil-massage/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/coconutoilmassage/coconutoilmassage-11.webp": {
+  "pages": [
+   "/seminyak/coconut-oil-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/couplemassage/couplemassage-1.webp": {
+  "pages": [
+   "/seminyak/couple-spa/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/couplemassage/couplemassage-1-sm.webp": {
+  "pages": [
+   "/seminyak/couple-spa/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/couplemassage/couplemassage-2.webp": {
+  "pages": [
+   "/seminyak/couple-spa/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/couplemassage/couplemassage-3.webp": {
+  "pages": [
+   "/seminyak/couple-spa/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/couplemassage/couplemassage-4.webp": {
+  "pages": [
+   "/seminyak/couple-spa/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/couplemassage/couplemassage-5.webp": {
+  "pages": [
+   "/seminyak/couple-spa/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/couplemassage/couplemassage-6.webp": {
+  "pages": [
+   "/seminyak/couple-spa/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/couplemassage/couplemassage-7.webp": {
+  "pages": [
+   "/seminyak/couple-spa/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/couplemassage/couplemassage-8.webp": {
+  "pages": [
+   "/seminyak/couple-spa/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/couplemassage/couplemassage-9.webp": {
+  "pages": [
+   "/seminyak/couple-spa/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/couplemassage/couplemassage-10.webp": {
+  "pages": [
+   "/seminyak/couple-spa/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/couplemassage/couplemassage-11.webp": {
+  "pages": [
+   "/seminyak/couple-spa/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/couplemassage/couplemassage-12.webp": {
+  "pages": [
+   "/seminyak/couple-spa/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/creambath/creambath-1.webp": {
+  "pages": [
+   "/seminyak/creambath/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/creambath/creambath-1-sm.webp": {
+  "pages": [
+   "/seminyak/creambath/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/creambath/creambath-2.webp": {
+  "pages": [
+   "/seminyak/creambath/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/creambath/creambath-3.webp": {
+  "pages": [
+   "/seminyak/creambath/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/creambath/creambath-4.webp": {
+  "pages": [
+   "/seminyak/creambath/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/creambath/creambath-5.webp": {
+  "pages": [
+   "/seminyak/creambath/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/creambath/creambath-6.webp": {
+  "pages": [
+   "/seminyak/creambath/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/creambath/creambath-7.webp": {
+  "pages": [
+   "/seminyak/creambath/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/creambath/creambath-8.webp": {
+  "pages": [
+   "/seminyak/creambath/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/creambath/creambath-9.webp": {
+  "pages": [
+   "/seminyak/creambath/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/creambath/creambath-10.webp": {
+  "pages": [
+   "/seminyak/creambath/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/creambath/creambath-11.webp": {
+  "pages": [
+   "/seminyak/creambath/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/creambath/creambath-12.webp": {
+  "pages": [
+   "/seminyak/creambath/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/dayspaseminyak/dayspa-1.webp": {
+  "pages": [
+   "/seminyak/day-spa/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/dayspaseminyak/dayspa-1-sm.webp": {
+  "pages": [
+   "/seminyak/day-spa/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/dayspaseminyak/dayspa-2.webp": {
+  "pages": [
+   "/seminyak/day-spa/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/dayspaseminyak/dayspa-3.webp": {
+  "pages": [
+   "/seminyak/day-spa/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/dayspaseminyak/dayspa-4.webp": {
+  "pages": [
+   "/seminyak/day-spa/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/dayspaseminyak/dayspa-5.webp": {
+  "pages": [
+   "/seminyak/day-spa/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/dayspaseminyak/dayspa-6.webp": {
+  "pages": [
+   "/seminyak/day-spa/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/dayspaseminyak/dayspa-7.webp": {
+  "pages": [
+   "/seminyak/day-spa/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/dayspaseminyak/dayspa-8.webp": {
+  "pages": [
+   "/seminyak/day-spa/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-1.webp": {
+  "pages": [
+   "/seminyak/deep-tissue-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-1-sm.webp": {
+  "pages": [
+   "/seminyak/deep-tissue-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-2.webp": {
+  "pages": [
+   "/seminyak/deep-tissue-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-3.webp": {
+  "pages": [
+   "/seminyak/deep-tissue-massage/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-4.webp": {
+  "pages": [
+   "/seminyak/deep-tissue-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-5.webp": {
+  "pages": [
+   "/seminyak/deep-tissue-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-6.webp": {
+  "pages": [
+   "/seminyak/deep-tissue-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-7.webp": {
+  "pages": [
+   "/seminyak/deep-tissue-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-8.webp": {
+  "pages": [
+   "/seminyak/deep-tissue-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-9.webp": {
+  "pages": [
+   "/seminyak/deep-tissue-massage/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/deeptissuemassage/deeptissuemassage-10.webp": {
+  "pages": [
+   "/seminyak/deep-tissue-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/earcandle/earcandle-1.webp": {
+  "pages": [
+   "/seminyak/ear-wax-removal/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/earcandle/earcandle-1-sm.webp": {
+  "pages": [
+   "/seminyak/ear-wax-removal/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/earcandle/earcandle-2.webp": {
+  "pages": [
+   "/seminyak/ear-wax-removal/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/earcandle/earcandle-3.webp": {
+  "pages": [
+   "/seminyak/ear-wax-removal/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/earcandle/earcandle-4.webp": {
+  "pages": [
+   "/seminyak/ear-wax-removal/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/earcandle/earcandle-5.webp": {
+  "pages": [
+   "/seminyak/ear-wax-removal/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/earcandle/earcandle-6.webp": {
+  "pages": [
+   "/seminyak/ear-wax-removal/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/earcandle/earcandle-7.webp": {
+  "pages": [
+   "/seminyak/ear-wax-removal/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/earcandle/earcandle-8.webp": {
+  "pages": [
+   "/seminyak/ear-wax-removal/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/earcandle/earcandle-9.webp": {
+  "pages": [
+   "/seminyak/ear-wax-removal/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/balimoonfacial/balimoonfacial-1.webp": {
+  "pages": [
+   "/seminyak/facial/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/balimoonfacial/balimoonfacial-1-sm.webp": {
+  "pages": [
+   "/seminyak/facial/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/balimoonfacial/balimoonfacial-2.webp": {
+  "pages": [
+   "/seminyak/facial/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balimoonfacial/balimoonfacial-3.webp": {
+  "pages": [
+   "/seminyak/facial/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balimoonfacial/balimoonfacial-4.webp": {
+  "pages": [
+   "/seminyak/facial/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balimoonfacial/balimoonfacial-5.webp": {
+  "pages": [
+   "/seminyak/facial/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balimoonfacial/balimoonfacial-6.webp": {
+  "pages": [
+   "/seminyak/facial/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balimoonfacial/balimoonfacial-7.webp": {
+  "pages": [
+   "/seminyak/facial/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balimoonfacial/balimoonfacial-8.webp": {
+  "pages": [
+   "/seminyak/facial/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balimoonfacial/balimoonfacial-9.webp": {
+  "pages": [
+   "/seminyak/facial/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balimoonfacial/balimoonfacial-10.webp": {
+  "pages": [
+   "/seminyak/facial/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balimoonfacial/balimoonfacial-11.webp": {
+  "pages": [
+   "/seminyak/facial/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/balimoonfacial/balimoonfacial-12.webp": {
+  "pages": [
+   "/seminyak/facial/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/footmassage/footmassage-1.webp": {
+  "pages": [
+   "/seminyak/foot-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/footmassage/footmassage-1-sm.webp": {
+  "pages": [
+   "/seminyak/foot-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/footmassage/footmassage-2.webp": {
+  "pages": [
+   "/seminyak/foot-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/footmassage/footmassage-3.webp": {
+  "pages": [
+   "/seminyak/foot-massage/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/footmassage/footmassage-4.webp": {
+  "pages": [
+   "/seminyak/foot-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/footmassage/footmassage-5.webp": {
+  "pages": [
+   "/seminyak/foot-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/footmassage/footmassage-6.webp": {
+  "pages": [
+   "/seminyak/foot-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/footmassage/footmassage-7.webp": {
+  "pages": [
+   "/seminyak/foot-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/footmassage/footmassage-8.webp": {
+  "pages": [
+   "/seminyak/foot-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/footmassage/footmassage-9.webp": {
+  "pages": [
+   "/seminyak/foot-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/footmassage/footmassage-10.webp": {
+  "pages": [
+   "/seminyak/foot-massage/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/footmassage/footmassage-11.webp": {
+  "pages": [
+   "/seminyak/foot-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/footreflexology/footreflexology-1.webp": {
+  "pages": [
+   "/seminyak/foot-reflexology/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/footreflexology/footreflexology-1-sm.webp": {
+  "pages": [
+   "/seminyak/foot-reflexology/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/footreflexology/footreflexology-2.webp": {
+  "pages": [
+   "/seminyak/foot-reflexology/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/footreflexology/footreflexology-3.webp": {
+  "pages": [
+   "/seminyak/foot-reflexology/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/footreflexology/footreflexology-4.webp": {
+  "pages": [
+   "/seminyak/foot-reflexology/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/footreflexology/footreflexology-5.webp": {
+  "pages": [
+   "/seminyak/foot-reflexology/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/footreflexology/footreflexology-6.webp": {
+  "pages": [
+   "/seminyak/foot-reflexology/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/footreflexology/footreflexology-7.webp": {
+  "pages": [
+   "/seminyak/foot-reflexology/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/footreflexology/footreflexology-8.webp": {
+  "pages": [
+   "/seminyak/foot-reflexology/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/footreflexology/footreflexology-9.webp": {
+  "pages": [
+   "/seminyak/foot-reflexology/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/footreflexology/footreflexology-10.webp": {
+  "pages": [
+   "/seminyak/foot-reflexology/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/footreflexology/footreflexology-11.webp": {
+  "pages": [
+   "/seminyak/foot-reflexology/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/hairbraiding/hairbraiding-1.webp": {
+  "pages": [
+   "/seminyak/hair-braiding/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/hairbraiding/hairbraiding-1-sm.webp": {
+  "pages": [
+   "/seminyak/hair-braiding/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/hairbraiding/hairbraiding-2.webp": {
+  "pages": [
+   "/seminyak/hair-braiding/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hairbraiding/hairbraiding-3.webp": {
+  "pages": [
+   "/seminyak/hair-braiding/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hairbraiding/hairbraiding-4.webp": {
+  "pages": [
+   "/seminyak/hair-braiding/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hairbraiding/hairbraiding-5.webp": {
+  "pages": [
+   "/seminyak/hair-braiding/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hairbraiding/hairbraiding-6.webp": {
+  "pages": [
+   "/seminyak/hair-braiding/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hairbraiding/hairbraiding-7.webp": {
+  "pages": [
+   "/seminyak/hair-braiding/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hairbraiding/hairbraiding-8.webp": {
+  "pages": [
+   "/seminyak/hair-braiding/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hairbraiding/hairbraiding-9.webp": {
+  "pages": [
+   "/seminyak/hair-braiding/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hairbraiding/hairbraiding-10.webp": {
+  "pages": [
+   "/seminyak/hair-braiding/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hairbraiding/hairbraiding-11.webp": {
+  "pages": [
+   "/seminyak/hair-braiding/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/headmassage/headmassage-1.webp": {
+  "pages": [
+   "/seminyak/head-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/headmassage/headmassage-1-sm.webp": {
+  "pages": [
+   "/seminyak/head-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/headmassage/headmassage-2.webp": {
+  "pages": [
+   "/seminyak/head-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/headmassage/headmassage-3.webp": {
+  "pages": [
+   "/seminyak/head-massage/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/headmassage/headmassage-4.webp": {
+  "pages": [
+   "/seminyak/head-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/headmassage/headmassage-5.webp": {
+  "pages": [
+   "/seminyak/head-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/headmassage/headmassage-6.webp": {
+  "pages": [
+   "/seminyak/head-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/headmassage/headmassage-7.webp": {
+  "pages": [
+   "/seminyak/head-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/headmassage/headmassage-8.webp": {
+  "pages": [
+   "/seminyak/head-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/headmassage/headmassage-9.webp": {
+  "pages": [
+   "/seminyak/head-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/headmassage/headmassage-10.webp": {
+  "pages": [
+   "/seminyak/head-massage/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/headmassage/headmassage-11.webp": {
+  "pages": [
+   "/seminyak/head-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/hotstonemassage/hotstonemassage-1.webp": {
+  "pages": [
+   "/seminyak/hot-stone-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/hotstonemassage/hotstonemassage-1-sm.webp": {
+  "pages": [
+   "/seminyak/hot-stone-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/hotstonemassage/hotstonemassage-2.webp": {
+  "pages": [
+   "/seminyak/hot-stone-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hotstonemassage/hotstonemassage-3.webp": {
+  "pages": [
+   "/seminyak/hot-stone-massage/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hotstonemassage/hotstonemassage-4.webp": {
+  "pages": [
+   "/seminyak/hot-stone-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hotstonemassage/hotstonemassage-5.webp": {
+  "pages": [
+   "/seminyak/hot-stone-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hotstonemassage/hotstonemassage-6.webp": {
+  "pages": [
+   "/seminyak/hot-stone-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hotstonemassage/hotstonemassage-7.webp": {
+  "pages": [
+   "/seminyak/hot-stone-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hotstonemassage/hotstonemassage-8.webp": {
+  "pages": [
+   "/seminyak/hot-stone-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hotstonemassage/hotstonemassage-9.webp": {
+  "pages": [
+   "/seminyak/hot-stone-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hotstonemassage/hotstonemassage-10.webp": {
+  "pages": [
+   "/seminyak/hot-stone-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hotstonemassage/hotstonemassage-11.webp": {
+  "pages": [
+   "/seminyak/hot-stone-massage/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/hotstonemassage/hotstonemassage-12.webp": {
+  "pages": [
+   "/seminyak/hot-stone-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-1.webp": {
+  "pages": [
+   "/seminyak/lymphatic-drainage-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-1-sm.webp": {
+  "pages": [
+   "/seminyak/lymphatic-drainage-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-2.webp": {
+  "pages": [
+   "/seminyak/lymphatic-drainage-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-3.webp": {
+  "pages": [
+   "/seminyak/lymphatic-drainage-massage/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-4.webp": {
+  "pages": [
+   "/seminyak/lymphatic-drainage-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-5.webp": {
+  "pages": [
+   "/seminyak/lymphatic-drainage-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-6.webp": {
+  "pages": [
+   "/seminyak/lymphatic-drainage-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-7.webp": {
+  "pages": [
+   "/seminyak/lymphatic-drainage-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-8.webp": {
+  "pages": [
+   "/seminyak/lymphatic-drainage-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-9.webp": {
+  "pages": [
+   "/seminyak/lymphatic-drainage-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-10.webp": {
+  "pages": [
+   "/seminyak/lymphatic-drainage-massage/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/lymphaticmassage/lymphaticmassage-11.webp": {
+  "pages": [
+   "/seminyak/lymphatic-drainage-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/manicurepedicure/manicurepedicure-1.webp": {
+  "pages": [
+   "/seminyak/manicure-pedicure/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/manicurepedicure/manicurepedicure-1-sm.webp": {
+  "pages": [
+   "/seminyak/manicure-pedicure/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/manicurepedicure/manicurepedicure-2.webp": {
+  "pages": [
+   "/seminyak/manicure-pedicure/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/manicurepedicure/manicurepedicure-3.webp": {
+  "pages": [
+   "/seminyak/manicure-pedicure/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/manicurepedicure/manicurepedicure-4.webp": {
+  "pages": [
+   "/seminyak/manicure-pedicure/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/manicurepedicure/manicurepedicure-5.webp": {
+  "pages": [
+   "/seminyak/manicure-pedicure/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/manicurepedicure/manicurepedicure-6.webp": {
+  "pages": [
+   "/seminyak/manicure-pedicure/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/manicurepedicure/manicurepedicure-7.webp": {
+  "pages": [
+   "/seminyak/manicure-pedicure/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/manicurepedicure/manicurepedicure-8.webp": {
+  "pages": [
+   "/seminyak/manicure-pedicure/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/manicurepedicure/manicurepedicure-9.webp": {
+  "pages": [
+   "/seminyak/manicure-pedicure/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/manicurepedicure/manicurepedicure-10.webp": {
+  "pages": [
+   "/seminyak/manicure-pedicure/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/manicurepedicure/manicurepedicure-11.webp": {
+  "pages": [
+   "/seminyak/manicure-pedicure/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/manicurepedicure/manicurepedicure-12.webp": {
+  "pages": [
+   "/seminyak/manicure-pedicure/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/nailart/nailart-1.webp": {
+  "pages": [
+   "/seminyak/nail-spa/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/nailart/nailart-1-sm.webp": {
+  "pages": [
+   "/seminyak/nail-spa/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/nailart/nailart-2.webp": {
+  "pages": [
+   "/seminyak/nail-spa/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/nailart/nailart-3.webp": {
+  "pages": [
+   "/seminyak/nail-spa/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/nailart/nailart-4.webp": {
+  "pages": [
+   "/seminyak/nail-spa/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/nailart/nailart-5.webp": {
+  "pages": [
+   "/seminyak/nail-spa/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/nailart/nailart-6.webp": {
+  "pages": [
+   "/seminyak/nail-spa/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/nailart/nailart-7.webp": {
+  "pages": [
+   "/seminyak/nail-spa/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/nailart/nailart-8.webp": {
+  "pages": [
+   "/seminyak/nail-spa/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/nailart/nailart-9.webp": {
+  "pages": [
+   "/seminyak/nail-spa/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/nailart/nailart-10.webp": {
+  "pages": [
+   "/seminyak/nail-spa/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/nailart/nailart-11.webp": {
+  "pages": [
+   "/seminyak/nail-spa/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/shiatsumassage/shiatsumassage-1.webp": {
+  "pages": [
+   "/seminyak/shiatsu-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/shiatsumassage/shiatsumassage-1-sm.webp": {
+  "pages": [
+   "/seminyak/shiatsu-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/shiatsumassage/shiatsumassage-2.webp": {
+  "pages": [
+   "/seminyak/shiatsu-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/shiatsumassage/shiatsumassage-3.webp": {
+  "pages": [
+   "/seminyak/shiatsu-massage/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/shiatsumassage/shiatsumassage-4.webp": {
+  "pages": [
+   "/seminyak/shiatsu-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/shiatsumassage/shiatsumassage-5.webp": {
+  "pages": [
+   "/seminyak/shiatsu-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/shiatsumassage/shiatsumassage-6.webp": {
+  "pages": [
+   "/seminyak/shiatsu-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/shiatsumassage/shiatsumassage-7.webp": {
+  "pages": [
+   "/seminyak/shiatsu-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/shiatsumassage/shiatsumassage-8.webp": {
+  "pages": [
+   "/seminyak/shiatsu-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/shiatsumassage/shiatsumassage-9.webp": {
+  "pages": [
+   "/seminyak/shiatsu-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/shiatsumassage/shiatsumassage-10.webp": {
+  "pages": [
+   "/seminyak/shiatsu-massage/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/shiatsumassage/shiatsumassage-11.webp": {
+  "pages": [
+   "/seminyak/shiatsu-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/sportsmassage/sportsmassage-1.webp": {
+  "pages": [
+   "/seminyak/sport-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/sportsmassage/sportsmassage-1-sm.webp": {
+  "pages": [
+   "/seminyak/sport-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/sportsmassage/sportsmassage-2.webp": {
+  "pages": [
+   "/seminyak/sport-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/sportsmassage/sportsmassage-3.webp": {
+  "pages": [
+   "/seminyak/sport-massage/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/sportsmassage/sportsmassage-4.webp": {
+  "pages": [
+   "/seminyak/sport-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/sportsmassage/sportsmassage-5.webp": {
+  "pages": [
+   "/seminyak/sport-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/sportsmassage/sportsmassage-6.webp": {
+  "pages": [
+   "/seminyak/sport-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/sportsmassage/sportsmassage-7.webp": {
+  "pages": [
+   "/seminyak/sport-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/sportsmassage/sportsmassage-8.webp": {
+  "pages": [
+   "/seminyak/sport-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/sportsmassage/sportsmassage-9.webp": {
+  "pages": [
+   "/seminyak/sport-massage/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/sportsmassage/sportsmassage-10.webp": {
+  "pages": [
+   "/seminyak/sport-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/sunburntreatment/sunburntreatment-1.webp": {
+  "pages": [
+   "/seminyak/sunburn-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/sunburntreatment/sunburntreatment-1-sm.webp": {
+  "pages": [
+   "/seminyak/sunburn-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/sunburntreatment/sunburntreatment-2.webp": {
+  "pages": [
+   "/seminyak/sunburn-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/sunburntreatment/sunburntreatment-3.webp": {
+  "pages": [
+   "/seminyak/sunburn-massage/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/sunburntreatment/sunburntreatment-4.webp": {
+  "pages": [
+   "/seminyak/sunburn-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/sunburntreatment/sunburntreatment-5.webp": {
+  "pages": [
+   "/seminyak/sunburn-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/sunburntreatment/sunburntreatment-6.webp": {
+  "pages": [
+   "/seminyak/sunburn-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/sunburntreatment/sunburntreatment-7.webp": {
+  "pages": [
+   "/seminyak/sunburn-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/sunburntreatment/sunburntreatment-8.webp": {
+  "pages": [
+   "/seminyak/sunburn-massage/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/sunburntreatment/sunburntreatment-9.webp": {
+  "pages": [
+   "/seminyak/sunburn-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/thaimassage/thaimassage-1.webp": {
+  "pages": [
+   "/seminyak/thai-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/thaimassage/thaimassage-1-sm.webp": {
+  "pages": [
+   "/seminyak/thai-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/thaimassage/thaimassage-2.webp": {
+  "pages": [
+   "/seminyak/thai-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/thaimassage/thaimassage-3.webp": {
+  "pages": [
+   "/seminyak/thai-massage/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/thaimassage/thaimassage-4.webp": {
+  "pages": [
+   "/seminyak/thai-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/thaimassage/thaimassage-5.webp": {
+  "pages": [
+   "/seminyak/thai-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/thaimassage/thaimassage-6.webp": {
+  "pages": [
+   "/seminyak/thai-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/thaimassage/thaimassage-7.webp": {
+  "pages": [
+   "/seminyak/thai-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/thaimassage/thaimassage-8.webp": {
+  "pages": [
+   "/seminyak/thai-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/thaimassage/thaimassage-9.webp": {
+  "pages": [
+   "/seminyak/thai-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/thaimassage/thaimassage-10.webp": {
+  "pages": [
+   "/seminyak/thai-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/thaimassage/thaimassage-11.webp": {
+  "pages": [
+   "/seminyak/thai-massage/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/thaimassage/thaimassage-12.webp": {
+  "pages": [
+   "/seminyak/thai-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/traditionalmassage/traditionalmassage-1.webp": {
+  "pages": [
+   "/seminyak/traditional-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/traditionalmassage/traditionalmassage-1-sm.webp": {
+  "pages": [
+   "/seminyak/traditional-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/traditionalmassage/traditionalmassage-2.webp": {
+  "pages": [
+   "/seminyak/traditional-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/traditionalmassage/traditionalmassage-3.webp": {
+  "pages": [
+   "/seminyak/traditional-massage/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/traditionalmassage/traditionalmassage-4.webp": {
+  "pages": [
+   "/seminyak/traditional-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/traditionalmassage/traditionalmassage-5.webp": {
+  "pages": [
+   "/seminyak/traditional-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/traditionalmassage/traditionalmassage-6.webp": {
+  "pages": [
+   "/seminyak/traditional-massage/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/traditionalmassage/traditionalmassage-7.webp": {
+  "pages": [
+   "/seminyak/traditional-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/traditionalmassage/traditionalmassage-8.webp": {
+  "pages": [
+   "/seminyak/traditional-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/traditionalmassage/traditionalmassage-9.webp": {
+  "pages": [
+   "/seminyak/traditional-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/traditionalmassage/traditionalmassage-10.webp": {
+  "pages": [
+   "/seminyak/traditional-massage/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/traditionalmassage/traditionalmassage-11.webp": {
+  "pages": [
+   "/seminyak/traditional-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/waxing/waxing-1.webp": {
+  "pages": [
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/waxing/waxing-1-sm.webp": {
+  "pages": [
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/waxing/waxing-2.webp": {
+  "pages": [
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/waxing/waxing-3.webp": {
+  "pages": [
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/waxing/waxing-4.webp": {
+  "pages": [
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/waxing/waxing-5.webp": {
+  "pages": [
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/waxing/waxing-6.webp": {
+  "pages": [
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/waxing/waxing-7.webp": {
+  "pages": [
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/waxing/waxing-8.webp": {
+  "pages": [
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/waxing/waxing-9.webp": {
+  "pages": [
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/waxing/waxing-10.webp": {
+  "pages": [
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "image"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/waxing/waxing-11.webp": {
+  "pages": [
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/waxing/waxing-12.webp": {
+  "pages": [
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/waxing/waxing-13.webp": {
+  "pages": [
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/waxing/waxing-14.webp": {
+  "pages": [
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/waxing/waxing-15.webp": {
+  "pages": [
+   "/seminyak/waxing-salon/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/massagehotelvilla/massagehotelvilla-1.webp": {
+  "pages": [
+   "/villa-hotel-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background",
+   "sitemap"
+  ]
+ },
+ "/images/services/massagehotelvilla/massagehotelvilla-1-sm.webp": {
+  "pages": [
+   "/villa-hotel-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/services/massagehotelvilla/massagehotelvilla-2.webp": {
+  "pages": [
+   "/villa-hotel-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/massagehotelvilla/massagehotelvilla-3.webp": {
+  "pages": [
+   "/villa-hotel-massage/"
+  ],
+  "alts": [
+   "Spa treatment detail"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/massagehotelvilla/massagehotelvilla-4.webp": {
+  "pages": [
+   "/villa-hotel-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/massagehotelvilla/massagehotelvilla-5.webp": {
+  "pages": [
+   "/villa-hotel-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/massagehotelvilla/massagehotelvilla-6.webp": {
+  "pages": [
+   "/villa-hotel-massage/"
+  ],
+  "alts": [
+   "Spa treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/massagehotelvilla/massagehotelvilla-7.webp": {
+  "pages": [
+   "/villa-hotel-massage/"
+  ],
+  "alts": [
+   "Spa facial treatment"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/services/massagehotelvilla/massagehotelvilla-8.webp": {
+  "pages": [
+   "/villa-hotel-massage/"
+  ],
+  "alts": [],
+  "kinds": [
+   "background"
+  ]
+ },
+ "/images/shape/footer-shape-left.png": {
+  "pages": [
+   "[footer]"
+  ],
+  "alts": [
+   "shape"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/logo/SMBtitle-footer.svg": {
+  "pages": [
+   "[footer]"
+  ],
+  "alts": [
+   "Spa Bali Moon"
+  ],
+  "kinds": [
+   "img"
+  ]
+ },
+ "/images/blog/blog-1.webp": {
+  "pages": [
+   "/guide/"
+  ],
+  "alts": [],
+  "kinds": [
+   "sitemap"
+  ]
+ },
+ "/images/bg/page-title-bg.jpg": {
+  "pages": [
+   "/privacy-policy/",
+   "/terms-and-conditions/",
+   "/wellness-in-bali/"
+  ],
+  "alts": [],
+  "kinds": [
+   "sitemap"
+  ]
+ },
+ "/images/homepage/homepage-12.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Aloe Vera Massage"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-5.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Aromatherapy Massage",
+   "Balinese Massage"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-10.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Back Massage",
+   "Couple Deep Tissue Massage",
+   "Deep Tissue Massage"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-17.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Cellulite Massage"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-21.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Couple Massage Balinese",
+   "Couple Massage Package A",
+   "Couple Massage Package B",
+   "Couple Traditional Massage",
+   "Four Hand Massage",
+   "Four Hand Warm Candle"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-22.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Foot Reflexology"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-18.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Foot Massage"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-11.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Head Massage"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-16.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Herbal Massage",
+   "Traditional Massage"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-15.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Lymphatic Massage"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-7.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Couple Massage Package C",
+   "Couple Massage Package D",
+   "Couple Warm Candle Massage",
+   "Hot Stone Massage",
+   "Organic Warm Candle Oil Massage"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-27.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Shiatsu Massage"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-8.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Sports Massage"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-20.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Thai Massage"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-25.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Virgin Cold-Press Coconut Oil Massage"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-9.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Bali Moon Gold Facial",
+   "Bali Moon Tea Tree Facial",
+   "Biokos Facial"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-13.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Body Scrub"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/services/footscrub/footscrub-1.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Foot Scrub"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-14.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Ear Candle"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-23.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Eyelash"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-6.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Hair Cream Bath"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-19.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Manicure Pedicure"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/homepage/homepage-24.webp": {
+  "pages": [
+   "/ (homepage catalog tab, client-rendered JS)"
+  ],
+  "alts": [
+   "Waxing"
+  ],
+  "kinds": [
+   "js-catalog"
+  ]
+ },
+ "/images/SMBlogo.ico": {
+  "pages": [
+   "[site head]"
+  ],
+  "alts": [],
+  "kinds": [
+   "favicon"
+  ]
+ }
+}
