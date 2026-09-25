@@ -11,13 +11,15 @@ type MobileMenuProps = {
   dropdowns: { treatments: NavItem[]; blog: NavItem[] };
   /** The booking button (rendered on the server and passed in). */
   bookButton: React.ReactNode;
+  /** Colours of the menu button, e.g. for a dark header. */
+  triggerClassName?: string;
 };
 
 /**
  * Phone/tablet menu (same items as the desktop menu). It uses the browser's own <dialog>,
  * which keeps keyboard focus inside the menu while it is open and closes with the Escape key.
  */
-export default function MobileMenu({ items, dropdowns, bookButton }: MobileMenuProps) {
+export default function MobileMenu({ items, dropdowns, bookButton, triggerClassName }: MobileMenuProps) {
   const dialogRef = useRef<HTMLDialogElement>(null);
   const pathname = usePathname();
   const [openList, setOpenList] = useState<string | null>(null);
@@ -40,7 +42,7 @@ export default function MobileMenu({ items, dropdowns, bookButton }: MobileMenuP
         onClick={open}
         aria-haspopup="dialog"
         aria-controls="mobile-menu"
-        className="inline-flex size-11 items-center justify-center rounded-control text-ink transition-colors hover:bg-linen"
+        className={`inline-flex size-11 items-center justify-center rounded-control transition-colors ${triggerClassName ?? "text-ink hover:bg-linen"}`}
       >
         <Menu aria-hidden="true" strokeWidth={1.5} className="size-6" />
         <span className="sr-only">Open menu</span>

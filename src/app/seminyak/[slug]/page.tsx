@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import DetailPage from "@/components/treatments/DetailPage";
+import SpaTreatmentPage from "@/components/treatments/spa/SpaTreatmentPage";
 import { getTreatment, treatments } from "@/data/treatments";
 import { buildMetadata } from "@/lib/seo";
 
@@ -10,6 +11,12 @@ import { buildMetadata } from "@/lib/seo";
  */
 
 type Props = { params: Promise<{ slug: string }> };
+
+/**
+ * Treatment pages that already use the redesigned spa template (SpaTreatmentPage).
+ * Add a slug here to switch that page over; all others still use DetailPage.
+ */
+const SPA_TEMPLATE_SLUGS = new Set(["balinese-massage"]);
 
 // Build every treatment page ahead of time (fast, and good for SEO).
 export function generateStaticParams() {
@@ -36,8 +43,9 @@ export default async function TreatmentPage({ params }: Props) {
   const treatment = getTreatment(slug);
   if (!treatment) notFound();
 
+  const Template = SPA_TEMPLATE_SLUGS.has(treatment.slug) ? SpaTreatmentPage : DetailPage;
   return (
-    <DetailPage
+    <Template
       page={treatment}
       treatmentName={treatment.name}
       source={`${treatment.name} page`}

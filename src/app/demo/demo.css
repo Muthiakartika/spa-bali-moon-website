@@ -1,0 +1,83 @@
+/*
+ * Styles for the homepage design demos only (/demo/...).
+ * Every rule is scoped to a demo wrapper class, so the real site is never affected.
+ * Each demo swaps the heading and text fonts by redefining the font variables.
+ */
+
+/* ---------- Demo A · Maison: Cormorant Garamond + Jost ---------- */
+.demo-maison {
+  --font-display: var(--font-cormorant), "Cormorant Garamond", Georgia, serif;
+  --font-sans: var(--font-jost), ui-sans-serif, system-ui, sans-serif;
+  font-family: var(--font-sans);
+  font-weight: 300;
+}
+.demo-maison :is(h1, h2, h3) {
+  font-weight: 400;
+  letter-spacing: -0.01em;
+}
+.demo-maison strong,
+.demo-maison b {
+  font-weight: 500;
+}
+
+/* ---------- Demo B · Temple: Marcellus + Figtree ---------- */
+.demo-temple {
+  --font-display: var(--font-marcellus), "Marcellus", Georgia, serif;
+}
+.demo-temple :is(h1, h2, h3) {
+  font-weight: 400;
+  letter-spacing: 0.01em;
+}
+
+/* ---------- Demo C · Botanica: Bodoni Moda + Figtree ---------- */
+.demo-botanica {
+  --font-display: var(--font-bodoni), "Bodoni Moda", Georgia, serif;
+}
+.demo-botanica :is(h1, h2, h3) {
+  font-weight: 400;
+  letter-spacing: -0.015em;
+}
+
+/* ---------- Demo D · Tirta: Gilda Display + Mulish ---------- */
+.demo-tirta {
+  --font-display: var(--font-gilda), "Gilda Display", Georgia, serif;
+  --font-sans: var(--font-mulish), ui-sans-serif, system-ui, sans-serif;
+  font-family: var(--font-sans);
+}
+.demo-tirta :is(h1, h2, h3) {
+  font-weight: 400;
+  letter-spacing: -0.005em;
+}
+
+/* ---------- Shared demo motion ---------- */
+
+/* A very slow zoom on a hero photo, played once (Temple). */
+@keyframes demo-slow-zoom {
+  from {
+    transform: scale(1.12);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.demo-slow-zoom {
+  animation: demo-slow-zoom 18s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* One gently moving line of guest reviews (Temple). Pauses on hover and keyboard focus;
+   with "reduce motion" on it stands still (see the reduced-motion rule in globals.css). */
+@keyframes demo-marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+.demo-marquee {
+  animation: demo-marquee 80s linear infinite;
+}
+.demo-marquee-wrap:hover .demo-marquee,
+.demo-marquee-wrap:focus-within .demo-marquee {
+  animation-play-state: paused;
+}

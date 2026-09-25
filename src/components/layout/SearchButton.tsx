@@ -12,7 +12,7 @@ export type SearchablePost = { title: string; excerpt: string; href: string; tag
  * The live site asked its own server; here the articles are passed in from src/data/blog,
  * so searching happens instantly in the browser with no server (migration-audit FUNC-03).
  */
-export default function SearchButton({ posts }: { posts: SearchablePost[] }) {
+export default function SearchButton({ posts, triggerClassName }: { posts: SearchablePost[]; /** Colours of the icon button, e.g. for a dark header. */ triggerClassName?: string }) {
   const dialogRef = useRef<HTMLDialogElement>(null);
   const inputId = useId();
   const pathname = usePathname();
@@ -42,7 +42,7 @@ export default function SearchButton({ posts }: { posts: SearchablePost[] }) {
         type="button"
         onClick={open}
         aria-haspopup="dialog"
-        className="inline-flex size-11 items-center justify-center rounded-full text-ink transition-colors hover:bg-linen"
+        className={`inline-flex size-11 items-center justify-center rounded-full transition-colors ${triggerClassName ?? "text-ink hover:bg-linen"}`}
       >
         <Search aria-hidden="true" strokeWidth={1.5} className="size-5" />
         <span className="sr-only">Search</span>

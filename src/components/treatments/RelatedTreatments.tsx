@@ -20,7 +20,7 @@ export default function RelatedTreatments({
     .filter((treatment): treatment is Treatment => Boolean(treatment));
 
   return (
-    <section aria-labelledby="related-heading" className="bg-paper pb-section">
+    <section aria-labelledby="related-heading" className="bg-paper py-section">
       <Container>
         <SectionHeading id="related-heading" title={heading.replace(" / ", " ")} note={note} />
       </Container>

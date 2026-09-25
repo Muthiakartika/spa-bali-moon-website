@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import PostCard, { formatDate } from "@/components/blog/PostCard";
+import SpaArticle from "@/components/blog/SpaArticle";
 import BookButton from "@/components/ui/BookButton";
 import Container from "@/components/ui/Container";
 import { FacebookIcon, InstagramIcon } from "@/components/ui/SocialIcons";
@@ -15,6 +16,12 @@ import { buildMetadata } from "@/lib/seo";
  * The article text is HTML copied exactly from the old site (src/data/blog/<slug>.ts).
  */
 type Props = { params: Promise<{ slug: string }> };
+
+/**
+ * Blog posts that already use the redesigned layout (SpaArticle).
+ * Add a slug here to switch that post over; all others still use the layout below.
+ */
+const SPA_ARTICLE_SLUGS = new Set(["what-is-a-balinese-massage"]);
 
 export function generateStaticParams() {
   return blogPosts.map((post) => ({ slug: post.slug }));
@@ -46,6 +53,10 @@ export default async function BlogPostPage({ params }: Props) {
   const previous = blogPosts[index + 1]; // older article
   const next = blogPosts[index - 1]; // newer article
   const more = blogPosts.filter((p) => p.slug !== post.slug).slice(0, 3);
+
+  if (SPA_ARTICLE_SLUGS.has(post.slug)) {
+    return <SpaArticle post={post} previous={previous} next={next} more={more} />;
+  }
 
   return (
     <article>

@@ -1,5 +1,6 @@
 "use client";
 
+import { Flower2 } from "lucide-react";
 import Image from "next/image";
 import { useId, useRef, useState } from "react";
 import SiteImage from "@/components/ui/SiteImage";
@@ -73,8 +74,10 @@ export default function PackageExplorer({
                 (selected ? "border-gold bg-paper shadow-(--shadow-board)" : "border-transparent hover:bg-paper/70")
               }
             >
-              {group.icon && (
+              {group.icon ? (
                 <Image src={group.icon.src} alt="" width={56} height={58} className={`size-12 object-contain transition-opacity ${selected ? "" : "opacity-70"}`} />
+              ) : (
+                <Flower2 aria-hidden="true" strokeWidth={1.25} className={`size-12 p-1.5 text-gold transition-opacity ${selected ? "" : "opacity-70"}`} />
               )}
               <span className={`text-[0.875rem] leading-tight ${selected ? "font-semibold text-ink" : "font-medium text-stone"}`}>{group.title}</span>
             </button>

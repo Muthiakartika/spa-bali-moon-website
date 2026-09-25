@@ -195,3 +195,5 @@ These are leftovers from the purchased HTML template. They carry `noindex, nofol
 | URL | Purpose | Indexing |
 |---|---|---|
 | `/styleguide/` | Design-system preview (colours, type, buttons, treatment board, FAQ) using real content | `noindex, nofollow`, not linked from the site, excluded from `sitemap.xml`. Remove or keep before launch: owner's choice (noted in final report). |
+
+| `/demo/`, `/demo/maison/`, `/demo/temple/`, `/demo/botanica/`, `/demo/tirta/` | Homepage design demos (added 2026-09-24, D Tirta 2026-09-25): four directions with their own header and footer, same content | `noindex, nofollow`, not linked from the site, excluded from `sitemap.xml`. Delete `src/app/demo/` and `src/components/demo/` once a direction is chosen. |

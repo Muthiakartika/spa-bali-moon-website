@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import FloatingWhatsApp from "@/components/layout/FloatingWhatsApp";
 import Footer from "@/components/layout/Footer";
 import Header from "@/components/layout/Header";
+import SiteChrome from "@/components/layout/SiteChrome";
 import ScrollReveal from "@/components/ui/ScrollReveal";
 import { business } from "@/data/business";
 import { figtree } from "./fonts";
@@ -43,12 +44,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         >
           Skip to content
         </a>
-        <Header />
-        <main id="main-content" tabIndex={-1} className="outline-none">
+        {/* Header, footer and WhatsApp button on every page except the /demo/ designs */}
+        <SiteChrome header={<Header />} footer={<Footer />} extras={<FloatingWhatsApp />}>
           {children}
-        </main>
-        <Footer />
-        <FloatingWhatsApp />
+        </SiteChrome>
         <ScrollReveal />
       </body>
     </html>

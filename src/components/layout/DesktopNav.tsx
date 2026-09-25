@@ -11,6 +11,10 @@ type DesktopNavProps = {
   items: MainNavItem[];
   /** Lists opened by the dropdown items (see src/data/navigation.ts). */
   dropdowns: { treatments: NavItem[]; blog: NavItem[] };
+  /** "dark" = light text for a header that sits on a dark background or photo. */
+  tone?: "light" | "dark";
+  /** Extra classes for the list, e.g. "justify-center". */
+  listClassName?: string;
 };
 
 /**
@@ -18,7 +22,7 @@ type DesktopNavProps = {
  * "Treatments" opens a wide panel with every treatment in 4 columns; "Blog" opens a list of articles.
  * A dropdown opens on click or when the mouse rests on it. Escape or a click outside closes it.
  */
-export default function DesktopNav({ items, dropdowns }: DesktopNavProps) {
+export default function DesktopNav({ items, dropdowns, tone = "light", listClassName = "" }: DesktopNavProps) {
   const pathname = usePathname();
   // Which dropdown is open, remembered with the page it was opened on (a new page closes it).
   const [openState, setOpenState] = useState<{ name: string; page: string } | null>(null);
@@ -45,9 +49,10 @@ export default function DesktopNav({ items, dropdowns }: DesktopNavProps) {
     };
   }, [openName]);
 
+  const textColor = tone === "dark" ? "text-paper after:bg-paper" : "text-ink after:bg-ink";
   const linkClass =
-    "relative inline-flex min-h-11 items-center text-[0.9375rem] font-medium text-ink " +
-    "after:absolute after:inset-x-0 after:bottom-2.5 after:h-px after:origin-left after:scale-x-0 after:bg-ink " +
+    `relative inline-flex min-h-11 items-center text-[0.9375rem] font-medium ${textColor} ` +
+    "after:absolute after:inset-x-0 after:bottom-2.5 after:h-px after:origin-left after:scale-x-0 " +
     "after:transition-transform after:duration-(--duration-base) after:ease-(--ease-calm) hover:after:scale-x-100 " +
     "aria-[current=page]:after:scale-x-100";
   const menuLinkClass =
@@ -56,7 +61,7 @@ export default function DesktopNav({ items, dropdowns }: DesktopNavProps) {
   return (
     <nav ref={navRef} aria-label="Main" className="hidden self-stretch xl:block">
       {/* Items are as tall as the header, so the mouse can move down into a dropdown without closing it */}
-      <ul className="flex h-full items-center gap-6 2xl:gap-8">
+      <ul className={`flex h-full items-center gap-6 2xl:gap-8 ${listClassName}`}>
         {items.map((item) => {
           if (!item.dropdown) {
             return (
@@ -82,7 +87,7 @@ export default function DesktopNav({ items, dropdowns }: DesktopNavProps) {
               className={
                 name === "treatments"
                   ? `${linkClass} gap-1.5 ${isCurrentSection ? "after:scale-x-100" : ""}`
-                  : "inline-flex min-h-11 min-w-6 items-center justify-center text-ink"
+                  : `inline-flex min-h-11 min-w-6 items-center justify-center ${tone === "dark" ? "text-paper" : "text-ink"}`
               }
             >
               {name === "treatments" ? item.label : <span className="sr-only">Show {item.label} articles</span>}

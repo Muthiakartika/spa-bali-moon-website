@@ -1,0 +1,272 @@
+[
+ {
+  "route": "/demo/",
+  "width": 375,
+  "status": 200,
+  "h1": 1,
+  "title": "Homepage design demos — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/",
+  "problems": []
+ },
+ {
+  "route": "/demo/",
+  "width": 430,
+  "status": 304,
+  "h1": 1,
+  "title": "Homepage design demos — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/",
+  "problems": []
+ },
+ {
+  "route": "/demo/",
+  "width": 768,
+  "status": 304,
+  "h1": 1,
+  "title": "Homepage design demos — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/",
+  "problems": []
+ },
+ {
+  "route": "/demo/",
+  "width": 1024,
+  "status": 304,
+  "h1": 1,
+  "title": "Homepage design demos — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/",
+  "problems": []
+ },
+ {
+  "route": "/demo/",
+  "width": 1440,
+  "status": 304,
+  "h1": 1,
+  "title": "Homepage design demos — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/",
+  "problems": []
+ },
+ {
+  "route": "/demo/",
+  "width": 1920,
+  "status": 304,
+  "h1": 1,
+  "title": "Homepage design demos — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/",
+  "problems": []
+ },
+ {
+  "route": "/demo/maison/",
+  "width": 375,
+  "status": 200,
+  "h1": 1,
+  "title": "Demo A · Maison — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/maison/",
+  "problems": []
+ },
+ {
+  "route": "/demo/maison/",
+  "width": 430,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo A · Maison — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/maison/",
+  "problems": []
+ },
+ {
+  "route": "/demo/maison/",
+  "width": 768,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo A · Maison — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/maison/",
+  "problems": []
+ },
+ {
+  "route": "/demo/maison/",
+  "width": 1024,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo A · Maison — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/maison/",
+  "problems": []
+ },
+ {
+  "route": "/demo/maison/",
+  "width": 1440,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo A · Maison — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/maison/",
+  "problems": []
+ },
+ {
+  "route": "/demo/maison/",
+  "width": 1920,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo A · Maison — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/maison/",
+  "problems": []
+ },
+ {
+  "route": "/demo/temple/",
+  "width": 375,
+  "status": 200,
+  "h1": 1,
+  "title": "Demo B · Temple — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/temple/",
+  "problems": []
+ },
+ {
+  "route": "/demo/temple/",
+  "width": 430,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo B · Temple — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/temple/",
+  "problems": []
+ },
+ {
+  "route": "/demo/temple/",
+  "width": 768,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo B · Temple — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/temple/",
+  "problems": []
+ },
+ {
+  "route": "/demo/temple/",
+  "width": 1024,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo B · Temple — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/temple/",
+  "problems": []
+ },
+ {
+  "route": "/demo/temple/",
+  "width": 1440,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo B · Temple — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/temple/",
+  "problems": []
+ },
+ {
+  "route": "/demo/temple/",
+  "width": 1920,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo B · Temple — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/temple/",
+  "problems": []
+ },
+ {
+  "route": "/demo/botanica/",
+  "width": 375,
+  "status": 200,
+  "h1": 1,
+  "title": "Demo C · Botanica — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/botanica/",
+  "problems": []
+ },
+ {
+  "route": "/demo/botanica/",
+  "width": 430,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo C · Botanica — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/botanica/",
+  "problems": []
+ },
+ {
+  "route": "/demo/botanica/",
+  "width": 768,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo C · Botanica — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/botanica/",
+  "problems": []
+ },
+ {
+  "route": "/demo/botanica/",
+  "width": 1024,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo C · Botanica — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/botanica/",
+  "problems": []
+ },
+ {
+  "route": "/demo/botanica/",
+  "width": 1440,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo C · Botanica — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/botanica/",
+  "problems": []
+ },
+ {
+  "route": "/demo/botanica/",
+  "width": 1920,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo C · Botanica — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/botanica/",
+  "problems": []
+ },
+ {
+  "route": "/demo/tirta/",
+  "width": 375,
+  "status": 200,
+  "h1": 1,
+  "title": "Demo D · Tirta — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/tirta/",
+  "problems": []
+ },
+ {
+  "route": "/demo/tirta/",
+  "width": 430,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo D · Tirta — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/tirta/",
+  "problems": []
+ },
+ {
+  "route": "/demo/tirta/",
+  "width": 768,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo D · Tirta — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/tirta/",
+  "problems": []
+ },
+ {
+  "route": "/demo/tirta/",
+  "width": 1024,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo D · Tirta — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/tirta/",
+  "problems": []
+ },
+ {
+  "route": "/demo/tirta/",
+  "width": 1440,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo D · Tirta — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/tirta/",
+  "problems": []
+ },
+ {
+  "route": "/demo/tirta/",
+  "width": 1920,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo D · Tirta — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/tirta/",
+  "problems": []
+ }
+]
