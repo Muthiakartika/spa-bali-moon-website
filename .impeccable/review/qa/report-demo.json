@@ -268,5 +268,113 @@
   "title": "Demo D · Tirta — Spa Bali Moon",
   "canonical": "https://spabalimoon.com/demo/tirta/",
   "problems": []
+ },
+ {
+  "route": "/demo/taman/",
+  "width": 375,
+  "status": 200,
+  "h1": 1,
+  "title": "Demo E · Taman — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/taman/",
+  "problems": []
+ },
+ {
+  "route": "/demo/taman/",
+  "width": 430,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo E · Taman — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/taman/",
+  "problems": []
+ },
+ {
+  "route": "/demo/taman/",
+  "width": 768,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo E · Taman — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/taman/",
+  "problems": []
+ },
+ {
+  "route": "/demo/taman/",
+  "width": 1024,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo E · Taman — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/taman/",
+  "problems": []
+ },
+ {
+  "route": "/demo/taman/",
+  "width": 1440,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo E · Taman — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/taman/",
+  "problems": []
+ },
+ {
+  "route": "/demo/taman/",
+  "width": 1920,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo E · Taman — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/taman/",
+  "problems": []
+ },
+ {
+  "route": "/demo/bulan/",
+  "width": 375,
+  "status": 200,
+  "h1": 1,
+  "title": "Demo F · Bulan — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/bulan/",
+  "problems": []
+ },
+ {
+  "route": "/demo/bulan/",
+  "width": 430,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo F · Bulan — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/bulan/",
+  "problems": []
+ },
+ {
+  "route": "/demo/bulan/",
+  "width": 768,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo F · Bulan — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/bulan/",
+  "problems": []
+ },
+ {
+  "route": "/demo/bulan/",
+  "width": 1024,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo F · Bulan — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/bulan/",
+  "problems": []
+ },
+ {
+  "route": "/demo/bulan/",
+  "width": 1440,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo F · Bulan — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/bulan/",
+  "problems": []
+ },
+ {
+  "route": "/demo/bulan/",
+  "width": 1920,
+  "status": 304,
+  "h1": 1,
+  "title": "Demo F · Bulan — Spa Bali Moon",
+  "canonical": "https://spabalimoon.com/demo/bulan/",
+  "problems": []
  }
 ]

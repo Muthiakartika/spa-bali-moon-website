@@ -1,4 +1,5 @@
 import { ArrowRight, ArrowUpRight, Check, Clock, HandHeart, House, ListChecks, MapPin, Quote, Sparkles, type LucideIcon } from "lucide-react";
+import Image from "next/image";
 import Link from "next/link";
 import PackageCards from "@/components/treatments/PackageCards";
 import SpaMenuCard from "@/components/treatments/SpaMenuCard";
@@ -8,6 +9,7 @@ import BookButton from "@/components/ui/BookButton";
 import Container from "@/components/ui/Container";
 import SiteImage from "@/components/ui/SiteImage";
 import TropicalLeaf from "@/components/ui/TropicalLeaf";
+import LotusMark from "@/components/layout/LotusMark";
 import WhatsAppIcon from "@/components/ui/WhatsAppIcon";
 import { business } from "@/data/business";
 import { footerContent } from "@/data/footer";
@@ -15,10 +17,11 @@ import { headerBookingLabel } from "@/data/navigation";
 import { getPackageGroup } from "@/data/packages";
 import { homePage } from "@/data/pages/home";
 import { testimonials } from "@/data/testimonials";
+import { liveTreatmentIconSize, liveTreatmentIcons } from "@/data/treatmentIcons";
 import { whatsappLink } from "@/lib/whatsapp";
 import AboutBadge from "../AboutBadge";
 import { demoPhotos, featuredCards, homeMenuTabs } from "../demoData";
-import { FrangipaniMark, Ornament } from "./Frangipani";
+import { Ornament } from "./Ornament";
 import SnapSlider from "./SnapSlider";
 
 const SOURCE = "Homepage (demo Tirta)";
@@ -29,7 +32,7 @@ const pillLink =
 
 type LineIcon = (props: { className?: string }) => React.ReactElement;
 
-/** A lucide icon drawn with the thin 1.5 line used across this demo (same props as the WhatsApp and frangipani icons). */
+/** A lucide icon drawn with the thin 1.5 line used across this demo (same props as the WhatsApp icon and the lotus). */
 function line(Icon: LucideIcon): LineIcon {
   const ThinIcon = ({ className }: { className?: string }) => <Icon aria-hidden="true" strokeWidth={1.5} className={className} />;
   return ThinIcon;
@@ -37,7 +40,9 @@ function line(Icon: LucideIcon): LineIcon {
 
 // Icons for the four "why us" reasons (same order as whyUs.items) and the three booking steps.
 const whyIcons: LineIcon[] = [line(HandHeart), line(House), line(Sparkles), WhatsAppIcon];
-const stepIcons: LineIcon[] = [line(ListChecks), WhatsAppIcon, FrangipaniMark];
+/** The lotus is wider than tall, so it is drawn a little larger to look the same size as the other icons. */
+const StepLotus = ({ className = "" }: { className?: string }) => <LotusMark className={`${className} scale-[1.35]`} />;
+const stepIcons: LineIcon[] = [line(ListChecks), WhatsAppIcon, StepLotus];
 const ClockIcon = line(Clock);
 const PinIcon = line(MapPin);
 const HouseIcon = line(House);
@@ -45,7 +50,7 @@ const HouseIcon = line(House);
 /**
  * DEMO D · TIRTA — homepage body. A calm Bali day spa on white and linen:
  * an elegant serif (Gilda Display) with a soft, very readable text face (Mulish), bright garden
- * and villa photos, thin gold line icons and a frangipani ornament. Light backgrounds only.
+ * and villa photos, the live site's gold treatment icons and the Spa Bali Moon lotus as ornament. Light backgrounds only.
  * Same content and order as the real homepage (every section, every item); the spa menu card is unchanged.
  */
 export default function TirtaHome() {
@@ -73,7 +78,7 @@ export default function TirtaHome() {
         <Container className="relative lg:flex lg:min-h-[min(80dvh,48rem)] lg:items-center">
           <div className="-mt-16 pb-24 sm:-mt-20 lg:mt-0 lg:max-w-[38rem] lg:py-28">
             <p className={`inline-flex items-center gap-2.5 ${eyebrowClass}`}>
-              <FrangipaniMark className="size-5 text-gold" />
+              <LotusMark className="h-5 w-auto text-gold" />
               {about.badge.line}
             </p>
             <h1 id="home-title" className="mt-5 font-display text-[clamp(2.9rem,1.8rem+4.6vw,5.5rem)] leading-[1.02]">
@@ -117,7 +122,7 @@ export default function TirtaHome() {
         </Container>
       </div>
 
-      {/* 2 · Featured treatments: all of them in a row you can swipe, each with its own icon */}
+      {/* 2 · Featured treatments: all of them in a row you can swipe, each with its icon from the live site */}
       <section aria-labelledby="featured-heading" className="pb-section pt-[calc(var(--spacing-section)*0.8)]">
         <Container>
           <div className="flex flex-col items-center text-center">
@@ -129,16 +134,21 @@ export default function TirtaHome() {
           <div className="mt-12">
             <SnapSlider label="Featured treatments">
               {featuredCards.map((card) => {
-                const Icon = treatmentIcon(card.name);
+                const iconSrc = liveTreatmentIcons[card.name];
+                const FallbackIcon = treatmentIcon(card.name);
                 return (
                   <li key={card.treatment.slug + card.name} className="group relative w-[72vw] max-w-[19rem] shrink-0 snap-start sm:w-[16.5rem] lg:w-[calc((100%-3.75rem)/4)] xl:w-[calc((100%-5rem)/5)] xl:max-w-none">
                     <div className="h-full overflow-hidden rounded-card border border-line bg-paper transition-shadow duration-(--duration-base) group-hover:shadow-(--shadow-board)">
                       <div className="relative aspect-[4/3.3] overflow-hidden">
                         <SiteImage image={card.treatment.cardImage} alt="" fill sizes="(min-width: 1280px) 19vw, (min-width: 1024px) 24vw, 72vw" className="transition-transform duration-(--duration-drift) ease-(--ease-calm) group-hover:scale-[1.05]" />
                       </div>
-                      <div className="relative px-5 pb-5 pt-9">
-                        <span className="absolute -top-6 left-5 inline-flex size-12 items-center justify-center rounded-full border-4 border-paper bg-linen text-gold-deep">
-                          <Icon aria-hidden="true" strokeWidth={1.5} className="size-5" />
+                      <div className="relative px-5 pb-5 pt-11">
+                        <span className="absolute -top-8 left-5 inline-flex size-16 items-center justify-center rounded-full border-4 border-paper bg-linen text-gold-deep">
+                          {iconSrc ? (
+                            <Image src={iconSrc} alt="" {...liveTreatmentIconSize} unoptimized className="h-9 w-auto" />
+                          ) : (
+                            <FallbackIcon aria-hidden="true" strokeWidth={1.5} className="size-6" />
+                          )}
                         </span>
                         <h3 className="font-display text-[1.375rem] leading-tight">
                           <Link href={`/seminyak/${card.treatment.slug}/`} className="after:absolute after:inset-0">
@@ -248,7 +258,7 @@ export default function TirtaHome() {
                   <SiteImage image={about.images[1]} fill sizes="(min-width: 1024px) 19vw, 38vw" />
                 </div>
                 <div aria-hidden="true" className="flex aspect-square items-center justify-center rounded-board bg-cream text-gold">
-                  <FrangipaniMark className="size-1/2" />
+                  <LotusMark className="w-3/5" />
                 </div>
               </div>
             )}
@@ -344,7 +354,7 @@ export default function TirtaHome() {
         </Container>
       </section>
 
-      {/* 8 · Guest reviews: all of them as cards in a row you can swipe (no star ratings, as on the live site) */}
+      {/* 8 · Guest reviews: all of them as cards in a row you can swipe (no star ratings until SEO-03 is decided) */}
       <section aria-labelledby="reviews-heading" className="py-section">
         <h2 id="reviews-heading" className="sr-only">
           Guest reviews

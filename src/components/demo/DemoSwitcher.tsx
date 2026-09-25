@@ -5,6 +5,8 @@ const demos = [
   { href: "/demo/temple/", label: "B Temple" },
   { href: "/demo/botanica/", label: "C Botanica" },
   { href: "/demo/tirta/", label: "D Tirta" },
+  { href: "/demo/taman/", label: "E Taman" },
+  { href: "/demo/bulan/", label: "F Bulan" },
 ];
 
 /** Small bar (bottom-left) to jump between the design demos and back to the current site. */

@@ -5,8 +5,10 @@
  * Temple   : Marcellus (display, carved-stone capitals)       — cinematic Bali
  * Botanica : Bodoni Moda (display, high-contrast italic)      — soft fashion-luxury
  * Tirta    : Gilda Display (display) + Mulish (text)          — calm Bali day spa
+ * Taman    : Bodoni Moda (display) + Mulish (text)            — Botanica + Tirta combined
+ * Bulan    : Literata (display) + Mulish (text)               — Taman + the live site's own fonts
  */
-import { Bodoni_Moda, Cormorant_Garamond, Gilda_Display, Jost, Marcellus, Mulish } from "next/font/google";
+import { Bodoni_Moda, Cormorant_Garamond, Gilda_Display, Jost, Literata, Marcellus, Mulish } from "next/font/google";
 
 export const cormorant = Cormorant_Garamond({
   subsets: ["latin"],
@@ -47,4 +49,12 @@ export const mulish = Mulish({
   subsets: ["latin"],
   display: "swap",
   variable: "--font-mulish",
+});
+
+/** The live website's heading font (spabalimoon.com uses Literata for headings and menu, Mulish for text). */
+export const literata = Literata({
+  subsets: ["latin"],
+  style: ["normal", "italic"],
+  display: "swap",
+  variable: "--font-literata",
 });

@@ -49,6 +49,68 @@
   letter-spacing: -0.005em;
 }
 
+/* ---------- Demo E · Taman (Botanica + Tirta): Bodoni Moda + Mulish ---------- */
+.demo-taman {
+  --font-display: var(--font-bodoni), "Bodoni Moda", Georgia, serif;
+  --font-sans: var(--font-mulish), ui-sans-serif, system-ui, sans-serif;
+  font-family: var(--font-sans);
+}
+.demo-taman :is(h1, h2, h3) {
+  font-weight: 400;
+  letter-spacing: -0.015em;
+}
+
+/* ---------- Demo F · Bulan (Taman + live site): Literata + Mulish, the live site's fonts ---------- */
+.demo-bulan {
+  --font-display: var(--font-literata), "Literata", Georgia, serif;
+  --font-sans: var(--font-mulish), ui-sans-serif, system-ui, sans-serif;
+  font-family: var(--font-sans);
+}
+/* Weights as on the live site: a strong H1, light section titles, medium card titles */
+.demo-bulan :is(h1, h2, h3) {
+  letter-spacing: -0.01em;
+}
+.demo-bulan h1 {
+  font-weight: 500;
+}
+.demo-bulan h2 {
+  font-weight: 300;
+}
+.demo-bulan h3 {
+  font-weight: 500;
+}
+/* Main menu in small serif capitals, as on the live site */
+.demo-bulan .bulan-nav > li > :is(a, button) {
+  font-family: var(--font-display);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+/* Footer column headings in the serif, as on the live site */
+.demo-bulan .bulan-footer h2 {
+  font-family: var(--font-display);
+  font-size: 1.125rem;
+  font-weight: 500;
+}
+/* Frangipani flowers slowly floating in the hero (still with "reduce motion") */
+@keyframes bulan-float {
+  from {
+    transform: translateY(0) rotate(0deg);
+  }
+  to {
+    transform: translateY(-14px) rotate(8deg);
+  }
+}
+.bulan-float {
+  animation: bulan-float 7s ease-in-out infinite alternate;
+}
+@media (prefers-reduced-motion: reduce) {
+  .bulan-float {
+    animation: none;
+  }
+}
+
 /* ---------- Shared demo motion ---------- */
 
 /* A very slow zoom on a hero photo, played once (Temple). */

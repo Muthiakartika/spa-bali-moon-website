@@ -5,10 +5,10 @@ import Logo from "@/components/layout/Logo";
 import { demoPhotos } from "@/components/demo/demoData";
 import { buildMetadata } from "@/lib/seo";
 
-/** DESIGN DEMOS (/demo/) — overview of the four homepage demos. Not indexed. */
+/** DESIGN DEMOS (/demo/) — overview of the six homepage demos. Not indexed. */
 export const metadata = buildMetadata({
   title: "Homepage design demos — Spa Bali Moon",
-  description: "Four homepage design directions for Spa Bali Moon.",
+  description: "Six homepage design directions for Spa Bali Moon.",
   path: "/demo/",
   index: false,
 });
@@ -38,8 +38,22 @@ const demos = [
   {
     href: "/demo/tirta/",
     name: "D · Tirta",
-    text: "A calm Bali day spa. A sunlit frangipani garden, an elegant serif with a soft, easy-to-read text face, thin gold icons, treatment and review cards you can swipe.",
+    text: "A calm Bali day spa. A sunlit frangipani garden, an elegant serif with a soft, easy-to-read text face, the live gold treatment icons and the lotus from the logo, treatment and review cards you can swipe.",
     photo: demoPhotos.gardenFrangipani,
+    tone: "bg-linen",
+  },
+  {
+    href: "/demo/taman/",
+    name: "E · Taman",
+    text: "Botanica and Tirta combined, like a Balinese water garden. Bodoni with gold italics, arched and round photos, palm fronds and one large review at a time, with Tirta's easy-to-read text, facts card, live treatment icons and the lotus from the logo.",
+    photo: demoPhotos.frangipaniMassage,
+    tone: "bg-cream",
+  },
+  {
+    href: "/demo/bulan/",
+    name: "F · Bulan",
+    text: "Taman mixed with the live website: the live fonts (Literata and Mulish), section order, torn-paper linen bands, floating frangipani, icons on soft blobs and the brand badge card, with Taman's gold italics, arches, facts card and live treatment icons.",
+    photo: demoPhotos.frangipaniPool,
     tone: "bg-linen",
   },
 ];
@@ -51,9 +65,9 @@ export default function DemoIndexPage() {
         <Logo className="h-9" />
         <h1 className="mt-10 text-title">Homepage design demos</h1>
         <p className="mt-3 max-w-[60ch] text-lead text-stone">
-          Four directions with the complete homepage content and the live colours, all on light backgrounds. Each has its own fonts, header and footer.
+          Six directions with the complete homepage content and the live colours, all on light backgrounds. Each has its own fonts, header and footer.
         </p>
-        <ul className="mt-12 grid gap-5 sm:grid-cols-2 xl:grid-cols-4">
+        <ul className="mt-12 grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
           {demos.map((demo) => (
             <li key={demo.href} className={`group relative overflow-hidden rounded-board ${demo.tone}`}>
               <div className="relative aspect-[16/10] overflow-hidden">
