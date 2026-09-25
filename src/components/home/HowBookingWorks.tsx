@@ -1,43 +1,50 @@
+import { ListChecks } from "lucide-react";
 import BookButton from "@/components/ui/BookButton";
-import Section from "@/components/ui/Section";
-import SectionHeading from "@/components/ui/SectionHeading";
-import SiteImage from "@/components/ui/SiteImage";
+import Container from "@/components/ui/Container";
+import WhatsAppIcon from "@/components/ui/WhatsAppIcon";
 import { homePage } from "@/data/pages/home";
-import type { SiteImage as SiteImageData } from "@/data/types";
+import { line, LotusIcon, noteClass, SOURCE, titleClass, type LineIcon } from "./shared";
 
 /**
- * "How Do You Book Your Spa Experience?" — the three booking steps from the old homepage.
- * Layout: heading, booking button and a calm beach photo on the left; the steps as one
- * numbered list on the right (large step number, then title and text).
+ * "Book via WhatsApp — How Do You Book Your Spa Experience?" ("Taman" design):
+ * the title and booking button on the left, the three steps in arched cream frames,
+ * each with an icon and a large gold italic number. Texts: src/data/pages/home.ts → booking.
  */
-const bookingPhoto: SiteImageData = { src: "/images/beauty/creambath/creambath-12.webp", alt: "", width: 1920, height: 898 };
+
+// One icon per step, in the same order as booking.steps.
+const icons: LineIcon[] = [line(ListChecks), WhatsAppIcon, LotusIcon];
 
 export default function HowBookingWorks() {
   const { booking } = homePage;
+
   return (
-    <Section labelledBy="booking-heading">
-      <div className="grid gap-12 lg:grid-cols-12 lg:gap-16">
-        <div className="flex flex-col items-start gap-8 lg:col-span-5">
-          <SectionHeading id="booking-heading" title={booking.heading} note={booking.eyebrow} />
-          <BookButton label={booking.eyebrow} size="lg" />
-          <div data-motion="photo" className="relative mt-2 hidden aspect-[4/3] w-full overflow-hidden rounded-board sm:block">
-            <SiteImage image={bookingPhoto} fill sizes="(min-width: 1024px) 38vw, 90vw" className="object-[40%_center]" />
-          </div>
+    <section aria-labelledby="booking-heading" className="py-section">
+      <Container className="grid gap-12 lg:grid-cols-12 lg:gap-16">
+        <div className="flex flex-col items-start gap-6 lg:col-span-4">
+          <p className={noteClass}>{booking.eyebrow}</p>
+          <h2 id="booking-heading" data-motion="rise" className={titleClass}>
+            {booking.heading}
+          </h2>
+          <BookButton label={booking.eyebrow} size="lg" source={SOURCE} className="rounded-full px-7" />
         </div>
-        <ol className="divide-y divide-ink/15 border-y border-ink/15 lg:col-span-7 lg:self-center">
-          {booking.steps.map((step) => (
-            <li key={step.number} data-motion="rise" className="grid grid-cols-[4rem_1fr] gap-4 py-8 sm:grid-cols-[6rem_1fr] sm:gap-6 lg:py-10">
-              <span aria-hidden="true" className="numeric font-display text-[2.5rem] font-semibold leading-none tracking-[-0.03em] text-gold sm:text-[3.25rem]">
-                {step.number}
-              </span>
-              <div>
-                <h3 className="text-subtitle">{step.title}</h3>
-                <p className="mt-2 max-w-[52ch] text-body text-stone">{step.text}</p>
-              </div>
-            </li>
-          ))}
+        <ol className="grid gap-6 sm:grid-cols-3 lg:col-span-8">
+          {booking.steps.map((step, i) => {
+            const Icon = icons[i % icons.length];
+            return (
+              <li key={step.number} data-motion="rise" className="flex flex-col items-center rounded-t-full bg-cream/70 px-6 pb-8 pt-12 text-center">
+                <span className="inline-flex size-14 items-center justify-center rounded-full bg-paper text-gold-deep">
+                  <Icon className="size-5" />
+                </span>
+                <span aria-hidden="true" className="numeric mt-4 font-display text-[2.75rem] italic leading-none text-gold-deep">
+                  {step.number}
+                </span>
+                <h3 className="mt-3 font-display text-[1.45rem] leading-tight">{step.title}</h3>
+                <p className="mt-2 text-small leading-relaxed text-stone">{step.text}</p>
+              </li>
+            );
+          })}
         </ol>
-      </div>
-    </Section>
+      </Container>
+    </section>
   );
 }

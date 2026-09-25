@@ -5,7 +5,7 @@ import Header from "@/components/layout/Header";
 import SiteChrome from "@/components/layout/SiteChrome";
 import ScrollReveal from "@/components/ui/ScrollReveal";
 import { business } from "@/data/business";
-import { figtree } from "./fonts";
+import { bodoni, mulish } from "./fonts";
 import "./globals.css";
 
 /**
@@ -35,7 +35,7 @@ export const viewport: Viewport = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={figtree.variable}>
+    <html lang="en" className={`${bodoni.variable} ${mulish.variable}`}>
       <body>
         {/* Lets keyboard users jump straight past the menu */}
         <a

@@ -1,18 +1,18 @@
 import AboutSpa from "@/components/home/AboutSpa";
 import FeaturedTreatments from "@/components/home/FeaturedTreatments";
+import GuestReviews from "@/components/home/GuestReviews";
 import Hero from "@/components/home/Hero";
+import HomeCta from "@/components/home/HomeCta";
+import HomeFaq from "@/components/home/HomeFaq";
 import HowBookingWorks from "@/components/home/HowBookingWorks";
 import SpaMenu from "@/components/home/SpaMenu";
 import SpaPackages from "@/components/home/SpaPackages";
 import WhySpaBaliMoon from "@/components/home/WhySpaBaliMoon";
-import BookingCTA from "@/components/ui/BookingCTA";
-import FaqSection from "@/components/ui/FaqSection";
-import Testimonials from "@/components/ui/Testimonials";
 import { homePage } from "@/data/pages/home";
 import { buildMetadata } from "@/lib/seo";
 
 /**
- * HOMEPAGE (/)
+ * HOMEPAGE (/) — the "Taman" design chosen by the client (2026-09-25).
  * Each block is its own component in src/components/home/.
  * Texts live in src/data/pages/home.ts. To reorder sections, move the lines below.
  */
@@ -33,9 +33,9 @@ export default function HomePage() {
       <SpaMenu />
       <HowBookingWorks />
       <SpaPackages />
-      <Testimonials tone="paper" />
-      <FaqSection faq={homePage.faq} tone="linen" />
-      <BookingCTA cta={homePage.cta} source="Homepage" />
+      <GuestReviews />
+      <HomeFaq />
+      <HomeCta />
     </>
   );
 }

@@ -20,19 +20,17 @@ import { testimonials } from "@/data/testimonials";
 import { liveTreatmentIconSize, liveTreatmentIcons } from "@/data/treatmentIcons";
 import type { SiteImage as SiteImageData } from "@/data/types";
 import { whatsappLink } from "@/lib/whatsapp";
-import AboutBadge from "../AboutBadge";
+import AboutBadge from "@/components/home/AboutBadge";
 import { demoPhotos, featuredCards, homeMenuTabs } from "../demoData";
-import { Ornament } from "../tirta/Ornament";
-import SnapSlider from "../tirta/SnapSlider";
-import QuoteSpotlight from "./QuoteSpotlight";
+import { Ornament } from "@/components/ui/Ornament";
+import SnapSlider from "@/components/ui/SnapSlider";
+import QuoteSpotlight from "@/components/ui/QuoteSpotlight";
 
 const SOURCE = "Homepage (demo Taman)";
 const noteClass = "font-display text-[1.3rem] italic text-gold-deep";
 const titleClass = "font-display text-[clamp(2.2rem,1.5rem+2.6vw,3.75rem)] leading-[1.06]";
 const pillLink =
   "group inline-flex min-h-12 items-center justify-center gap-2 rounded-full border border-ink/25 px-7 font-semibold text-ink transition-colors hover:border-gold-deep hover:bg-gold-deep hover:text-paper";
-const textLink =
-  "group inline-flex min-h-11 items-center gap-2 font-semibold underline decoration-gold underline-offset-[0.35em] hover:decoration-ink";
 
 type LineIcon = (props: { className?: string }) => React.ReactElement;
 
@@ -85,7 +83,7 @@ export default function TamanHome() {
 
   return (
     <div className="bg-paper text-ink">
-      {/* 1 · Hero on cream: the title with a gold italic accent, a garden arch, a round coconut photo and the lotus seal */}
+      {/* 1 · Hero on cream: the title with a gold italic accent, a garden arch and a round coconut photo */}
       <section aria-labelledby="home-title" className="relative overflow-hidden bg-cream">
         <TropicalLeaf className="absolute -left-24 top-6 hidden w-80 text-gold/20 lg:block" />
         <Container className="relative grid items-center gap-12 pb-28 pt-10 lg:grid-cols-12 lg:gap-12 lg:pb-32 lg:pt-14">
@@ -112,9 +110,6 @@ export default function TamanHome() {
             </div>
             <div className="absolute -bottom-6 -left-3 size-32 overflow-hidden rounded-full border-[6px] border-cream sm:size-44 lg:-left-10">
               <SiteImage image={demoPhotos.coconuts} alt="" fill sizes="176px" />
-            </div>
-            <div aria-hidden="true" className="absolute -right-2 top-8 hidden size-24 items-center justify-center rounded-full bg-paper text-gold shadow-(--shadow-board) sm:flex lg:-right-6">
-              <LotusMark className="w-3/5" />
             </div>
           </div>
         </Container>
@@ -146,46 +141,49 @@ export default function TamanHome() {
         </Container>
       </div>
 
-      {/* 2 · Featured treatments: arched photos with the live gold icons, in a row you can swipe */}
-      <section aria-labelledby="featured-heading" className="relative overflow-hidden pb-section pt-[calc(var(--spacing-section)*0.8)]">
-        <TropicalLeaf className="absolute -right-20 top-10 hidden w-80 rotate-[200deg] text-gold/20 lg:block" />
-        <Container className="relative">
+      {/* 2 · Featured treatments: compact arched cards with the live gold icons, several per page
+          (4 on phones, 6 on tablets, 8–12 on desktop) so every treatment is only a few taps away */}
+      <section aria-labelledby="featured-heading" className="pb-section pt-[calc(var(--spacing-section)*0.8)]">
+        <Container>
           <div className="flex flex-wrap items-end justify-between gap-6">
             <div>
               <Ornament className="justify-start" />
-              <h2 id="featured-heading" data-motion="rise" className="mt-5 max-w-[16ch] font-display text-[clamp(2.4rem,1.6rem+3vw,4.5rem)] italic leading-[1]">
+              <h2 id="featured-heading" data-motion="rise" className="mt-5 max-w-[16ch] font-display text-[clamp(2.2rem,1.5rem+2.6vw,3.75rem)] italic leading-[1.02]">
                 {sharedLine}
               </h2>
             </div>
-            <Link href="/seminyak/" className={textLink}>
+            <Link href="/seminyak/" className={pillLink}>
               Explore Treatments
               <ArrowRight aria-hidden="true" strokeWidth={1.5} className="size-4 transition-transform group-hover:translate-x-0.5" />
             </Link>
           </div>
           <div className="mt-12">
-            <SnapSlider label="Featured treatments">
+            <SnapSlider
+              label="Featured treatments"
+              listClassName="grid grid-flow-col grid-rows-2 auto-cols-[calc((100%-1rem)/2)] gap-x-4 gap-y-8 sm:auto-cols-[calc((100%-2.5rem)/3)] sm:gap-x-5 lg:auto-cols-[calc((100%-3.75rem)/4)] xl:auto-cols-[calc((100%-6.25rem)/6)]"
+            >
               {featuredCards.map((card) => {
                 const iconSrc = liveTreatmentIcons[card.name];
                 const FallbackIcon = treatmentIcon(card.name);
                 return (
-                  <li key={card.treatment.slug + card.name} className="group relative w-[68vw] max-w-[18rem] shrink-0 snap-start sm:w-[16rem] lg:w-[calc((100%-3.75rem)/4)] xl:w-[calc((100%-5rem)/5)] xl:max-w-none">
-                    <div className="relative aspect-[3/4] overflow-hidden rounded-t-full">
-                      <SiteImage image={card.treatment.cardImage} alt="" fill sizes="(min-width: 1280px) 19vw, (min-width: 1024px) 24vw, 68vw" className="transition-transform duration-(--duration-drift) ease-(--ease-calm) group-hover:scale-[1.05]" />
+                  <li key={card.treatment.slug + card.name} className="group relative snap-start">
+                    <div className="relative aspect-[4/3.6] overflow-hidden rounded-t-full">
+                      <SiteImage image={card.treatment.cardImage} alt={card.name} fill sizes="(min-width: 1280px) 15vw, (min-width: 1024px) 23vw, (min-width: 640px) 31vw, 46vw" className="transition-transform duration-(--duration-drift) ease-(--ease-calm) group-hover:scale-[1.05]" />
                     </div>
-                    <div className="relative -mt-8 flex flex-col items-center px-2 text-center">
-                      <span className="inline-flex size-16 items-center justify-center rounded-full border-4 border-paper bg-cream text-gold-deep">
+                    <div className="relative -mt-6 flex flex-col items-center px-1 text-center">
+                      <span className="inline-flex size-12 items-center justify-center rounded-full border-4 border-paper bg-cream text-gold-deep sm:size-14">
                         {iconSrc ? (
-                          <Image src={iconSrc} alt="" {...liveTreatmentIconSize} unoptimized className="h-9 w-auto" />
+                          <Image src={iconSrc} alt="" {...liveTreatmentIconSize} unoptimized className="h-7 w-auto sm:h-8" />
                         ) : (
-                          <FallbackIcon aria-hidden="true" strokeWidth={1.5} className="size-6" />
+                          <FallbackIcon aria-hidden="true" strokeWidth={1.5} className="size-5" />
                         )}
                       </span>
-                      <h3 className="mt-3 font-display text-[1.45rem] italic leading-tight">
+                      <h3 className="mt-2 font-display text-[1.1rem] italic leading-tight sm:text-[1.3rem]">
                         <Link href={`/seminyak/${card.treatment.slug}/`} className="after:absolute after:inset-0 group-hover:text-gold-deep">
                           {card.name}
                         </Link>
                       </h3>
-                      <p className="numeric mt-1 text-small font-semibold text-gold-deep">{card.priceLabel}</p>
+                      <p className="numeric mt-1 text-[0.75rem] font-semibold text-gold-deep sm:text-[0.8125rem]">{card.priceLabel}</p>
                     </div>
                   </li>
                 );
@@ -273,7 +271,6 @@ export default function TamanHome() {
 
       {/* 5 · The complete spa menu (the client's approved design, unchanged) */}
       <section id="menu" aria-labelledby="menu-heading" className="relative overflow-hidden bg-linen py-section">
-        <TropicalLeaf className="absolute -left-20 bottom-0 hidden w-80 text-gold/20 lg:block" />
         <Container className="relative">
           <SpaMenuCard
             headingId="menu-heading"
@@ -406,7 +403,6 @@ export default function TamanHome() {
               <div aria-hidden="true" className="absolute inset-y-0 -left-px right-0 hidden bg-[linear-gradient(90deg,var(--color-cream)_0%,rgb(242_230_221/0.6)_22%,rgb(242_230_221/0)_50%)] lg:block" />
               <div aria-hidden="true" className="absolute inset-x-0 bottom-0 h-1/2 bg-gradient-to-t from-cream to-transparent lg:hidden" />
             </div>
-            <TropicalLeaf className="absolute -bottom-16 -left-16 hidden w-64 text-gold/20 lg:block" />
             <div className="relative px-6 pb-10 sm:px-10 lg:max-w-[42rem] lg:px-14 lg:py-20">
               <Ornament className="justify-start" />
               <h2 id="cta-heading" data-motion="rise" className="mt-6 font-display text-[clamp(2.3rem,1.5rem+3vw,4.25rem)] leading-[1.04]">

@@ -5,8 +5,8 @@ import Logo from "@/components/layout/Logo";
 import NewsletterForm from "@/components/layout/NewsletterForm";
 import { business } from "@/data/business";
 import { footerContent } from "@/data/footer";
-import { FooterBottomLine, FooterColumns, FooterPayments } from "../FooterInfo";
-import { Ornament } from "../tirta/Ornament";
+import { FooterBottomLine, FooterColumns, FooterPayments } from "@/components/layout/FooterInfo";
+import { Ornament } from "@/components/ui/Ornament";
 
 /**
  * DEMO E · TAMAN — footer.
@@ -18,7 +18,6 @@ export default function TamanFooter() {
   return (
     <footer className="relative overflow-hidden rounded-t-[2.5rem] bg-cream text-ink sm:rounded-t-[4rem]">
       <TropicalLeaf className="absolute -left-16 -top-8 w-72 text-gold/20 sm:w-96" />
-      <TropicalLeaf className="absolute -bottom-16 -right-16 w-72 -scale-x-100 text-gold/15 sm:w-96" />
       <Container className="relative">
         <div className="grid gap-8 border-b border-gold/25 pb-12 pt-16 lg:grid-cols-12 lg:items-center">
           <div className="flex items-start gap-5 lg:col-span-6">

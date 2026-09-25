@@ -19,9 +19,9 @@ import { testimonials } from "@/data/testimonials";
 import { liveTreatmentIconSize, liveTreatmentIcons } from "@/data/treatmentIcons";
 import { whatsappLink } from "@/lib/whatsapp";
 import { demoPhotos, featuredCards, homeMenuTabs } from "../demoData";
-import QuoteSpotlight from "../taman/QuoteSpotlight";
-import { Ornament } from "../tirta/Ornament";
-import SnapSlider from "../tirta/SnapSlider";
+import QuoteSpotlight from "@/components/ui/QuoteSpotlight";
+import { Ornament } from "@/components/ui/Ornament";
+import SnapSlider from "@/components/ui/SnapSlider";
 import { goldOutline } from "./BulanHeader";
 import { Blob, DashedWave, FloatingFrangipani, TornEdge } from "./Decor";
 

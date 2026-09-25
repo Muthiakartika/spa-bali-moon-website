@@ -10,7 +10,7 @@ import { headerBookingLabel } from "@/data/navigation";
 import { getPackageGroup } from "@/data/packages";
 import { homePage } from "@/data/pages/home";
 import { testimonials } from "@/data/testimonials";
-import AboutBadge from "../AboutBadge";
+import AboutBadge from "@/components/home/AboutBadge";
 import { demoPhotos, featuredCards, homeMenuTabs } from "../demoData";
 
 const SOURCE = "Homepage (demo Temple)";

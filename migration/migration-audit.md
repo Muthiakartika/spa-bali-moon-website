@@ -9,10 +9,11 @@
 | ID | Priority | Issue | Status |
 |---|---|---|---|
 | PRICE-01 | 🔴 | Deep Tissue Massage price differs | REQUIRES MANUAL REVIEW |
-| PRICE-02 | 🔴 | Hot Stone Package B price differs | REQUIRES MANUAL REVIEW |
+| PRICE-02 | 🟢 | Hot Stone Package B price differs | RESOLVED (live now shows 549K on both pages, 2026-09-25) |
 | PRICE-03 | 🔴 | Homepage "From" prices do not match the pricelist | REQUIRES MANUAL REVIEW |
 | PRICE-04 | 🔴 | Priced services missing from the pricelist (Hair Braiding, Nail Art options, Eyelash) | REQUIRES MANUAL REVIEW |
 | PRICE-05 | 🟠 | Traditional Massage 30 min option missing on its own page | REQUIRES MANUAL REVIEW |
+| PRICE-06 | 🟢 | Live prices changed after migration: Aromatherapy, Cellulite, Hot Stone Massage and six packages | RESOLVED (updated to the live values, 2026-09-25) |
 | DUR-01 | 🔴 | Couple Warm Candle top tier: 2 Hours vs 2.5 Hours | REQUIRES MANUAL REVIEW |
 | DUR-02 | 🔴 | Couple Package total durations | REQUIRES MANUAL REVIEW |
 | DUR-03 | 🟢 | Ear Candle duration wording | REQUIRES MANUAL REVIEW |
@@ -105,7 +106,7 @@ RECOMMENDATION:
 Requires manual review.
 
 STATUS:
-REQUIRES MANUAL REVIEW
+RESOLVED (2026-09-25): the live site now shows **549K** for Hot Stone Package B on both pages, so the page override was removed and the package data updated (see PRICE-06).
 
 ### PRICE-03
 
@@ -178,6 +179,27 @@ Requires manual review.
 
 STATUS:
 REQUIRES MANUAL REVIEW
+
+### PRICE-06
+
+ISSUE:
+LIVE PRICES CHANGED AFTER THE MIGRATION SNAPSHOT (2026-09-23) — Aromatherapy, Cellulite and Hot Stone Massage
+
+PAGE A:
+Migration snapshot 2026-09-23 (homepage JS catalog, /seminyak/, treatment pages)
+VALUE
+Aromatherapy Massage: 1 Hour 199K · 1.5 Hours 239K · 2 Hours 339K · Cellulite Massage: 1 Hour 350K · 1.5 Hours 450K · Hot Stone Massage: 1 Hour 250K · 1.5 Hours 370K · 2 Hours 439K
+
+PAGE B:
+https://spabalimoon.com/ · https://spabalimoon.com/seminyak/ · https://spabalimoon.com/outcall-home-service-massage/ · https://spabalimoon.com/seminyak/anti-cellulite-massage/ · https://spabalimoon.com/seminyak/hot-stone-massage/ (checked 2026-09-25)
+VALUE
+Aromatherapy Massage: 1 Hour 199K · 1.5 Hours 339K · 2 Hours 439K · Cellulite Massage: 1 Hour 350K · 1.5 Hours 520K · 2 Hours 695K (new option, card text "All main target areas / Most thorough treatment / Guests wanting the fullest session") · Hot Stone Massage: 1 Hour 250K · 1.5 Hours 380K · 2 Hours 495K
+
+RECOMMENDATION:
+The live site is consistent on every page, so the owner changed the prices. Updated `src/data/pricelist.ts` and the Cellulite page card. All 33 items of the live /seminyak/ price list (every tab) were compared with `src/data/pricelist.ts`: these three were the only price differences. The same check showed that "Four Hand Warm Candle" (539K / 799K / 999K, listed on the live price list under Organic Warm Candle Oil Massage since before the migration) was missing from our /seminyak/ list; it is now added after Organic Warm Candle Oil Massage. Package prices (every package group on /seminyak/ and the homepage, and the package cards on the Body Scrub, Cream Bath and Hot Stone pages) were compared too; six changed on the live site and were updated in `src/data/packages.ts`: Body Scrub B 449K → 549K, Cream Bath B 589K → 549K, Hot Stone A 449K → 549K, Hot Stone B 599K → 549K (this also resolves PRICE-02), Hot Stone C 489K → 449K, Hot Stone D 439K → 519K. A full live-vs-rebuild content comparison (Step 21) should run shortly before launch to catch any other later edits.
+
+STATUS:
+RESOLVED (2026-09-25)
 
 ### DUR-01
 

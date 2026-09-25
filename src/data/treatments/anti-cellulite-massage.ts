@@ -73,6 +73,13 @@ const antiCelluliteMassage: Treatment = {
               ],
               bookButton: true,
             },
+            {
+              // PRICE-06: added on the live site on 2026-09-25.
+              label: "2 Hours",
+              price: priceOf("cellulite-massage", "2 Hours"),
+              points: ["All main target areas", "Most thorough treatment", "Guests wanting the fullest session"],
+              bookButton: true,
+            },
           ],
         },
       ],

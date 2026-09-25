@@ -19,10 +19,10 @@ import { homePage } from "@/data/pages/home";
 import { testimonials } from "@/data/testimonials";
 import { liveTreatmentIconSize, liveTreatmentIcons } from "@/data/treatmentIcons";
 import { whatsappLink } from "@/lib/whatsapp";
-import AboutBadge from "../AboutBadge";
+import AboutBadge from "@/components/home/AboutBadge";
 import { demoPhotos, featuredCards, homeMenuTabs } from "../demoData";
-import { Ornament } from "./Ornament";
-import SnapSlider from "./SnapSlider";
+import { Ornament } from "@/components/ui/Ornament";
+import SnapSlider from "@/components/ui/SnapSlider";
 
 const SOURCE = "Homepage (demo Tirta)";
 const eyebrowClass = "text-[0.8125rem] font-bold uppercase tracking-[0.2em] text-gold-deep";

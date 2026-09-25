@@ -5,8 +5,8 @@ import Logo from "@/components/layout/Logo";
 import NewsletterForm from "@/components/layout/NewsletterForm";
 import { business } from "@/data/business";
 import { footerContent } from "@/data/footer";
-import { FooterBottomLine, FooterColumns, FooterPayments } from "../FooterInfo";
-import { Ornament } from "./Ornament";
+import { FooterBottomLine, FooterColumns, FooterPayments } from "@/components/layout/FooterInfo";
+import { Ornament } from "@/components/ui/Ornament";
 
 /**
  * DEMO D · TIRTA — footer.

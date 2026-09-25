@@ -20,7 +20,7 @@
   font-weight: 500;
 }
 
-/* ---------- Demo B · Temple: Marcellus + Figtree ---------- */
+/* ---------- Demo B · Temple: Marcellus + the site text font ---------- */
 .demo-temple {
   --font-display: var(--font-marcellus), "Marcellus", Georgia, serif;
 }
@@ -29,7 +29,7 @@
   letter-spacing: 0.01em;
 }
 
-/* ---------- Demo C · Botanica: Bodoni Moda + Figtree ---------- */
+/* ---------- Demo C · Botanica: Bodoni Moda + the site text font ---------- */
 .demo-botanica {
   --font-display: var(--font-bodoni), "Bodoni Moda", Georgia, serif;
 }

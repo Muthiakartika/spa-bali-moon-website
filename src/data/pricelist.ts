@@ -41,10 +41,11 @@
     id: "aromatherapy-massage",
     category: "massage",
     image: { src: "/images/treatments/cards/aromatherapymassage.webp", alt: "Aromatherapy Massage", width: 630, height: 580 },
+    // PRICE-06: the live site changed these on 2026-09-25 (1.5 Hours 239K → 339K, 2 Hours 339K → 439K).
     options: [
       { label: "1 Hour", price: 199_000 },
-      { label: "1.5 Hours", price: 239_000 },
-      { label: "2 Hours", price: 339_000 },
+      { label: "1.5 Hours", price: 339_000 },
+      { label: "2 Hours", price: 439_000 },
     ],
     pricelistName: "Aromatherapy Massage",
     pricelistDescription: "A calming massage that uses essential oils and gentle strokes to ease tension and support circulation.",
@@ -93,9 +94,11 @@
     category: "massage",
     pageSlug: "anti-cellulite-massage",
     image: { src: "/images/treatments/cards/cellulitemassage.webp", alt: "Cellulite Massage", width: 630, height: 580 },
+    // PRICE-06: the live site changed these on 2026-09-25 (1.5 Hours 450K → 520K, new 2 Hours 695K).
     options: [
       { label: "1 Hour", price: 350_000 },
-      { label: "1.5 Hours", price: 450_000 },
+      { label: "1.5 Hours", price: 520_000 },
+      { label: "2 Hours", price: 695_000 },
     ],
     pricelistName: "Cellulite Massage",
     pricelistDescription: "A targeted massage that helps stimulate circulation and support firmer-looking skin.",
@@ -190,10 +193,11 @@
     category: "massage",
     pageSlug: "hot-stone-massage",
     image: { src: "/images/treatments/cards/hotstonemassage.webp", alt: "Hot Stone Massage", width: 630, height: 580 },
+    // PRICE-06: the live site changed these on 2026-09-25 (1.5 Hours 370K → 380K, 2 Hours 439K → 495K).
     options: [
       { label: "1 Hour", price: 250_000 },
-      { label: "1.5 Hours", price: 370_000 },
-      { label: "2 Hours", price: 439_000 },
+      { label: "1.5 Hours", price: 380_000 },
+      { label: "2 Hours", price: 495_000 },
     ],
     pricelistName: "Hot Stone Massage",
     pricelistDescription: "A soothing massage using heated basalt stones to relax muscles and encourage circulation.",

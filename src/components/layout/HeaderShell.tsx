@@ -3,8 +3,8 @@
 import { useEffect, useRef, useState } from "react";
 
 /**
- * The sticky header frame. Once the page scrolls, a thin line and a soft shadow
- * appear under it. (Only this small wrapper runs in the browser.)
+ * The sticky header frame: soft cream, slightly see-through, with a thin line under it.
+ * Once the page scrolls, a soft shadow appears under it. (Only this small wrapper runs in the browser.)
  *
  * How it knows the page has scrolled: an invisible 1px marker sits just above the header.
  * When that marker leaves the screen, the page has scrolled. An IntersectionObserver
@@ -28,8 +28,8 @@ export default function HeaderShell({ children }: { children: React.ReactNode })
       <header
         data-scrolled={scrolled}
         className={
-          "sticky top-0 z-40 -mt-px border-b bg-paper transition-[border-color,box-shadow] duration-(--duration-base) " +
-          (scrolled ? "border-line shadow-[0_10px_24px_-20px_rgb(28_26_29/0.35)]" : "border-transparent")
+          "sticky top-0 z-40 -mt-px border-b border-ink/10 bg-cream/85 backdrop-blur-md transition-shadow duration-(--duration-base) " +
+          (scrolled ? "shadow-[0_10px_24px_-20px_rgb(28_26_29/0.35)]" : "")
         }
       >
         {children}

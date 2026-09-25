@@ -103,7 +103,6 @@ const hotStoneMassage: Treatment = {
       ],
       packageGroup: "hot-stone",
       // TODO PRICE-02: Package B is 559K on this page but 599K on the Pricelist page (see migration-audit.md).
-      priceOverrides: { "Package B": 559_000 },
     },
     {
       type: "stats",

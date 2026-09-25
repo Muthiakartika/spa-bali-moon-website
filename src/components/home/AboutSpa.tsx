@@ -1,68 +1,60 @@
-import { Check } from "lucide-react";
-import Image from "next/image";
-import { ButtonLink } from "@/components/ui/Button";
+import { ArrowRight, Check } from "lucide-react";
+import Link from "next/link";
 import Container from "@/components/ui/Container";
-import SectionHeading from "@/components/ui/SectionHeading";
 import SiteImage from "@/components/ui/SiteImage";
-import TropicalLeaf from "@/components/ui/TropicalLeaf";
 import { homePage } from "@/data/pages/home";
+import AboutBadge from "./AboutBadge";
+import { noteClass, titleClass } from "./shared";
 
 /**
- * "Why Spa Bali Moon Is Part of the Bali Experience" — the About section.
- * The menu item "About" links here (/#about).
- * Layout: text on the left; on the right a large photo with a smaller one overlapping
- * its lower-left corner. A faint palm frond sits in the bottom-left corner.
+ * "Beyond Relaxation — Why Spa Bali Moon Is Part of the Bali Experience" ("Taman" design):
+ * the two About photos (an arch and a circle) beside the text, the checked list,
+ * the "Discover More" button and the brand note. Texts: src/data/pages/home.ts → about.
  */
 export default function AboutSpa() {
   const { about } = homePage;
-  const [photoA, photoB] = about.images;
-  return (
-    <section id="about" aria-labelledby="about-heading" className="relative overflow-hidden bg-paper py-section">
-      <TropicalLeaf className="absolute -bottom-16 -left-16 w-72 text-gold/25 sm:w-96" />
 
-      <Container className="relative grid gap-16 lg:grid-cols-12 lg:items-center lg:gap-16">
-        <div className="lg:col-span-5">
-          <SectionHeading id="about-heading" title={about.heading} note={about.eyebrow} intro={[about.text]} />
-          <ul className="mt-8 grid gap-x-8 gap-y-3 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
+  return (
+    <section id="about" aria-labelledby="about-heading" className="py-section">
+      <Container className="grid gap-14 lg:grid-cols-12 lg:items-center lg:gap-16">
+        <div className="relative pb-10 lg:col-span-5">
+          {about.images[0] && (
+            <div data-motion="photo" className="arch relative aspect-[3/4] w-[80%] overflow-hidden">
+              <SiteImage image={about.images[0]} fill sizes="(min-width: 1024px) 32vw, 80vw" />
+            </div>
+          )}
+          {about.images[1] && (
+            <div data-motion="photo" className="absolute bottom-0 right-0 aspect-square w-[44%] overflow-hidden rounded-full border-8 border-paper">
+              <SiteImage image={about.images[1]} fill sizes="(min-width: 1024px) 18vw, 40vw" />
+            </div>
+          )}
+        </div>
+
+        <div className="lg:col-span-7">
+          <p className={noteClass}>{about.eyebrow}</p>
+          <h2 id="about-heading" data-motion="rise" className={`mt-2 ${titleClass}`}>
+            {about.heading}
+          </h2>
+          <p className="mt-6 max-w-[60ch] text-body leading-[1.75] text-stone">{about.text}</p>
+          <ul className="mt-8 grid gap-x-6 gap-y-3.5 sm:grid-cols-2">
             {about.items.map((item) => (
-              <li key={item} className="flex gap-3">
-                <Check aria-hidden="true" strokeWidth={1.75} className="mt-1 size-4 shrink-0 text-gold-deep" />
+              <li key={item} className="flex items-start gap-3 text-[0.9375rem]">
+                <span className="mt-0.5 inline-flex size-6 shrink-0 items-center justify-center rounded-full bg-cream text-gold-deep">
+                  <Check aria-hidden="true" strokeWidth={2} className="size-3.5" />
+                </span>
                 {item}
               </li>
             ))}
           </ul>
-          <div className="mt-10">
-            <ButtonLink href={about.button.href} variant="secondary">
+          <div className="mt-10 flex flex-wrap items-center gap-x-10 gap-y-6">
+            <Link
+              href={about.button.href}
+              className="group inline-flex min-h-12 items-center gap-2 rounded-full bg-gold-deep px-7 font-semibold text-paper shadow-(--shadow-button) transition-colors hover:bg-ink"
+            >
               {about.button.label}
-            </ButtonLink>
-          </div>
-        </div>
-
-        <div className="lg:col-span-7">
-          <div className="relative pb-10 sm:pb-14">
-            {photoA && (
-              <div data-motion="photo" className="relative ml-auto aspect-[4/5] w-[82%] overflow-hidden rounded-board sm:aspect-[5/5]">
-                <SiteImage image={photoA} fill sizes="(min-width: 1024px) 45vw, 82vw" />
-              </div>
-            )}
-            {photoB && (
-              <div
-                data-motion="photo"
-                className="absolute bottom-0 left-0 aspect-[3/4] w-[42%] overflow-hidden rounded-card border-[6px] border-paper shadow-(--shadow-board) sm:border-8"
-              >
-                <SiteImage image={photoB} fill sizes="(min-width: 1024px) 24vw, 42vw" />
-              </div>
-            )}
-          </div>
-          {/* Brand note from the old About section */}
-          <div className="mt-8 flex max-w-[26rem] items-center gap-4 border-t border-line pt-5 lg:ml-auto">
-            <Image src="/images/branding/sbm.webp" alt="" width={56} height={44} className="h-10 w-auto shrink-0" />
-            <div>
-              <p className="font-display text-[1.0625rem] font-semibold leading-tight">
-                {about.badge.name} <span className="font-sans font-normal text-stone">{about.badge.line}</span>
-              </p>
-              <p className="mt-1 text-small text-stone">{about.badge.text}</p>
-            </div>
+              <ArrowRight aria-hidden="true" strokeWidth={1.5} className="size-4 transition-transform group-hover:translate-x-0.5" />
+            </Link>
+            <AboutBadge />
           </div>
         </div>
       </Container>

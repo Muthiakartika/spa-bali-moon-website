@@ -61,6 +61,8 @@ export const pricelistPage = {
           "head-massage",
           "lymphatic-massage",
           "organic-warm-candle-oil-massage",
+          // Shown on the live price list right under Organic Warm Candle Oil Massage (it was missing here, see PRICE-06).
+          "four-hand-warm-candle",
           "shiatsu-massage",
           "sport-massage",
           "traditional-massage",

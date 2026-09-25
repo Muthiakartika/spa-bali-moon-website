@@ -7,7 +7,7 @@ import { whatsappLink } from "@/lib/whatsapp";
 
 /**
  * The live footer's information (Contact Us, Our Day Spa, Home Services, payments,
- * bottom line), shared by the three demo footers. `tone` sets light or dark text.
+ * bottom line), used by the site footer (and the design demos). `tone` sets light or dark text.
  */
 type Tone = "light" | "dark";
 

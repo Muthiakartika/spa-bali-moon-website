@@ -8,7 +8,7 @@
  * Taman    : Bodoni Moda (display) + Mulish (text)            — Botanica + Tirta combined
  * Bulan    : Literata (display) + Mulish (text)               — Taman + the live site's own fonts
  */
-import { Bodoni_Moda, Cormorant_Garamond, Gilda_Display, Jost, Literata, Marcellus, Mulish } from "next/font/google";
+import { Cormorant_Garamond, Gilda_Display, Jost, Literata, Marcellus } from "next/font/google";
 
 export const cormorant = Cormorant_Garamond({
   subsets: ["latin"],
@@ -31,12 +31,8 @@ export const marcellus = Marcellus({
   variable: "--font-marcellus",
 });
 
-export const bodoni = Bodoni_Moda({
-  subsets: ["latin"],
-  style: ["normal", "italic"],
-  display: "swap",
-  variable: "--font-bodoni",
-});
+/** Bodoni Moda is now the site font (src/app/fonts.ts); the demos reuse the same one. */
+export { bodoni } from "@/app/fonts";
 
 export const gilda = Gilda_Display({
   subsets: ["latin"],
@@ -45,11 +41,7 @@ export const gilda = Gilda_Display({
   variable: "--font-gilda",
 });
 
-export const mulish = Mulish({
-  subsets: ["latin"],
-  display: "swap",
-  variable: "--font-mulish",
-});
+export { mulish } from "@/app/fonts";
 
 /** The live website's heading font (spabalimoon.com uses Literata for headings and menu, Mulish for text). */
 export const literata = Literata({

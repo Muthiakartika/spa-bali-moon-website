@@ -1,0 +1,56 @@
+[
+ {
+  "route": "/",
+  "width": 375,
+  "status": 200,
+  "h1": 1,
+  "title": "Spa Bali Moon - Outcall & Home Service Massage",
+  "canonical": "https://spabalimoon.com/",
+  "problems": []
+ },
+ {
+  "route": "/",
+  "width": 430,
+  "status": 304,
+  "h1": 1,
+  "title": "Spa Bali Moon - Outcall & Home Service Massage",
+  "canonical": "https://spabalimoon.com/",
+  "problems": []
+ },
+ {
+  "route": "/",
+  "width": 768,
+  "status": 304,
+  "h1": 1,
+  "title": "Spa Bali Moon - Outcall & Home Service Massage",
+  "canonical": "https://spabalimoon.com/",
+  "problems": []
+ },
+ {
+  "route": "/",
+  "width": 1024,
+  "status": 304,
+  "h1": 1,
+  "title": "Spa Bali Moon - Outcall & Home Service Massage",
+  "canonical": "https://spabalimoon.com/",
+  "problems": []
+ },
+ {
+  "route": "/",
+  "width": 1440,
+  "status": 304,
+  "h1": 1,
+  "title": "Spa Bali Moon - Outcall & Home Service Massage",
+  "canonical": "https://spabalimoon.com/",
+  "problems": []
+ },
+ {
+  "route": "/",
+  "width": 1920,
+  "status": 304,
+  "h1": 1,
+  "title": "Spa Bali Moon - Outcall & Home Service Massage",
+  "canonical": "https://spabalimoon.com/",
+  "problems": []
+ }
+]

@@ -38,7 +38,7 @@ export const packageGroups: PackageGroup[] = [
       },
       {
         name: "Package B",
-        price: 449_000,
+        price: 549_000, // PRICE-06: live price since 2026-09-25 (was 449K)
         items: [
           { duration: "30 Mins", treatment: "Body Scrub" },
           { duration: "1.5 Hr", treatment: "Hot Stone" },
@@ -130,7 +130,7 @@ export const packageGroups: PackageGroup[] = [
       },
       {
         name: "Package B",
-        price: 589_000,
+        price: 549_000, // PRICE-06: live price since 2026-09-25 (was 589K)
         items: [
           { duration: "1 Hr", treatment: "Cream Bath" },
           { duration: "1 Hr", treatment: "Hot Stone" },
@@ -212,7 +212,7 @@ export const packageGroups: PackageGroup[] = [
     packages: [
       {
         name: "Package A",
-        price: 449_000,
+        price: 549_000, // PRICE-06: live price since 2026-09-25 (was 449K)
         items: [
           { duration: "1.5 Hr", treatment: "Hot Stone" },
           { duration: "30 Mins", treatment: "Body Scrub" },
@@ -221,7 +221,7 @@ export const packageGroups: PackageGroup[] = [
       },
       {
         name: "Package B",
-        price: 599_000,
+        price: 549_000, // PRICE-06: live price since 2026-09-25 (was 599K)
         items: [
           { duration: "1 Hr", treatment: "Hot Stone" },
           { duration: "1 Hr", treatment: "Cream Bath" },
@@ -230,7 +230,7 @@ export const packageGroups: PackageGroup[] = [
       },
       {
         name: "Package C",
-        price: 489_000,
+        price: 449_000, // PRICE-06: live price since 2026-09-25 (was 489K)
         items: [
           { duration: "1 Hr", treatment: "Hot Stone" },
           { duration: "1 Hr", treatment: "Bali Moon Facial" },
@@ -238,7 +238,7 @@ export const packageGroups: PackageGroup[] = [
       },
       {
         name: "Package D",
-        price: 439_000,
+        price: 519_000, // PRICE-06: live price since 2026-09-25 (was 439K)
         items: [
           { duration: "1.5 Hr", treatment: "Hot Stone" },
           { duration: "30 Mins", treatment: "Pedicure" },

@@ -1,6 +1,6 @@
 import LotusMark from "@/components/layout/LotusMark";
 
-/** TIRTA — gold rule · Spa Bali Moon lotus · gold rule, used above section headings. Decoration only. */
+/** Gold rule · Spa Bali Moon lotus (from the logo) · gold rule, used above section headings. Decoration only. */
 export function Ornament({ className = "" }: { className?: string }) {
   return (
     <div aria-hidden="true" className={`flex items-center gap-3 text-gold ${className}`}>

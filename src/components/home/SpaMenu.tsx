@@ -1,12 +1,14 @@
-import Section from "@/components/ui/Section";
-import SectionHeading from "@/components/ui/SectionHeading";
-import TreatmentBoard, { type BoardTab } from "@/components/treatments/TreatmentBoard";
+import Container from "@/components/ui/Container";
+import SpaMenuCard from "@/components/treatments/SpaMenuCard";
+import type { BoardTab } from "@/components/treatments/TreatmentBoard";
 import { homePage } from "@/data/pages/home";
 import { rowsForItems, rowsForPackages } from "@/lib/board";
+import { SOURCE } from "./shared";
 
 /**
- * "Our Spa Menu — Browse Our Spa Treatments": the full treatment board with tabs
- * (Massage · Beauty · For Couple · Couple Package). Also serves as the treatment categories.
+ * "Our Spa Menu — Browse Our Spa Treatments": the complete menu with tabs
+ * (Massage · Beauty · For Couple · Couple Package), every treatment and price open to read
+ * (the menu card the client approved: no need to open each treatment).
  */
 export default function SpaMenu() {
   const { catalog } = homePage;
@@ -20,14 +22,17 @@ export default function SpaMenu() {
   }));
 
   return (
-    <Section tone="linen" labelledBy="menu-heading" id="menu">
-      <SectionHeading
-        id="menu-heading"
-        title={catalog.heading}
-        note={catalog.eyebrow}
-        intro={[`${catalog.feeLabel}: ${catalog.feeText}`]}
-      />
-      <TreatmentBoard className="mt-12" tabs={tabs} caption="Spa Bali Moon treatment menu" source="Homepage" collapsedHeight="40rem" />
-    </Section>
+    <section id="menu" aria-labelledby="menu-heading" className="bg-linen py-section">
+      <Container>
+        <SpaMenuCard
+          headingId="menu-heading"
+          heading={catalog.heading}
+          note={catalog.eyebrow}
+          feeNote={`${catalog.feeLabel}: ${catalog.feeText}`}
+          tabs={tabs}
+          source={SOURCE}
+        />
+      </Container>
+    </section>
   );
 }

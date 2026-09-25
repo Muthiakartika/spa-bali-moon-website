@@ -13,7 +13,7 @@ import { getPackageGroup } from "@/data/packages";
 import { homePage } from "@/data/pages/home";
 import { testimonials } from "@/data/testimonials";
 import type { SiteImage as SiteImageData } from "@/data/types";
-import AboutBadge from "../AboutBadge";
+import AboutBadge from "@/components/home/AboutBadge";
 import { demoPhotos, featuredCards, homeMenuTabs } from "../demoData";
 import QuoteCarousel from "../QuoteCarousel";
 
