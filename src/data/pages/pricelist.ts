@@ -92,8 +92,13 @@ export const pricelistPage = {
           "couple-deep-tissue-massage",
           "couple-warm-candle-massage",
         ],
+      },
+      {
+        // On the live page these are one row at the end of "For Couples"; shown as their own tab
+        // at the owner's request (2026-09-26, see PRICE-07). Same texts and prices.
+        label: "Couple Massage Packages",
+        itemIds: [],
         packageGroup: "couples",
-        packageGroupTitle: "Couple Massage Packages",
         // Row labels exactly as written in the old price list (price comes from packages.ts).
         packageLabels: {
           "Package A": "1 Hour Balinese Massage · 2 pax + 30 Mins Ear Candle",
@@ -112,6 +117,8 @@ export const pricelistPage = {
       "Browse the packages below to find a combination that fits your plans.",
     ],
     packageGroups: [
+      // Added on the live page on 2026-09-26 (PRICE-07).
+      "balinese-massage",
       "body-scrub",
       "couples",
       "cream-bath",

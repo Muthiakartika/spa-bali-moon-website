@@ -198,6 +198,8 @@ export type PriceOption = {
   price: number;
   /** Label on the Home Service page, only when it is worded differently. */
   homeServiceLabel?: string;
+  /** Words the Home Service page writes before the price, e.g. "Start from" (→ "Start from 139K"). */
+  homeServicePricePrefix?: string;
   /** Label in the homepage catalog, only when it is worded differently. */
   homeLabel?: string;
   /** Internal note for editors (never shown on the website). */
@@ -244,8 +246,12 @@ export type SpaPackage = {
   price: number;
   /** e.g. 2 for couple packages (price covers both guests) */
   pax?: number;
-  /** Included treatments, e.g. [{ duration: "1 Hr", treatment: "Balinese Massage" }] */
-  items: { duration: string; treatment: string }[];
+  /**
+   * Included treatments, e.g. [{ duration: "1 Hr", treatment: "Balinese Massage" }].
+   * `pricelistDuration` / `pricelistTreatment`: the spelling on the Pricelist page (/seminyak/), only when it
+   * differs from the other pages (e.g. "1,5 Hr" there, "1.5 Hr" on the treatment pages — CONTENT-11).
+   */
+  items: { duration: string; treatment: string; pricelistDuration?: string; pricelistTreatment?: string }[];
 };
 
 export type PackageGroup = {

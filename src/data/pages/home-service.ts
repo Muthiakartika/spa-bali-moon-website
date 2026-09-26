@@ -8,8 +8,8 @@
  * HOME SERVICE PAGE TEXT (/outcall-home-service-massage/)
  *
  * Prices come from src/data/pricelist.ts. `itemIds` only decide which items appear in each tab.
- * "group:couple-massage" = the "Couple Massage" block (coupleMassageGroup below).
- * "packages:couples" = the couple packages from src/data/packages.ts.
+ * "group:couple-massage" = the "Couple Massage" row (coupleMassageGroup below): every couple option and package in one row.
+ * "packages:couples" = the couple packages from src/data/packages.ts, one row each.
  */
 export const homeServicePage = {
   path: "/outcall-home-service-massage/",
@@ -157,13 +157,18 @@ export const homeServicePage = {
       },
       {
         label: "For Couples",
+        // Order as on the live page (checked 2026-09-26).
         itemIds: [
           "couple-balinese-massage",
-          "couple-traditional-massage",
           "couple-deep-tissue-massage",
+          "couple-traditional-massage",
           "couple-warm-candle-massage",
-          "packages:couples",
         ],
+      },
+      {
+        // Its own tab on the live page (checked 2026-09-26).
+        label: "Couple Packages",
+        itemIds: ["packages:couples"],
       },
     ],
     coupleMassageGroup: {
@@ -176,17 +181,34 @@ export const homeServicePage = {
         "couple-deep-tissue-massage",
         "couple-warm-candle-massage",
       ],
+      // Not shown on the live page any more (checked 2026-09-26); kept for reference.
       packagesTitle: "Couple Massage Packages",
       packagesDescription: "A well-balanced couple’s massage package created for relaxing together.",
     },
     couplePackagesTitle: "Couple Packages",
-    // Couple package labels exactly as written on this page.
+    // Couple package labels exactly as written on this page, with the photo the live page shows beside each.
     // TODO DUR-02: packages B and D say 2.5 Hours here, but include 1 Hr + 1 Hr on other pages.
     packageLabels: {
-      "Package A": { heading: "Couple Massage Package A", label: "1.5 Hours – Balinese Massage + Ear Candle · 2 pax" },
-      "Package B": { heading: "Couple Massage Package B", label: "2.5 Hours – Balinese Massage + Bali Moon Facial · 2 pax" },
-      "Package C": { heading: "Couple Massage Package C", label: "1.5 Hours – Warm Candle + Ear Candle · 2 pax" },
-      "Package D": { heading: "Couple Massage Package D", label: "2.5 Hours – Warm Candle + Bali Moon Facial · 2 pax" },
+      "Package A": {
+        heading: "Couple Massage Package A",
+        label: "1.5 Hours – Balinese Massage + Ear Candle · 2 pax",
+        image: { src: "/images/treatments/cards/couplebalinesemassage.webp", alt: "Couple Massage Balinese", width: 630, height: 580 },
+      },
+      "Package B": {
+        heading: "Couple Massage Package B",
+        label: "2.5 Hours – Balinese Massage + Bali Moon Facial · 2 pax",
+        image: { src: "/images/treatments/cards/couplebalinesemassage.webp", alt: "Couple Massage Balinese", width: 630, height: 580 },
+      },
+      "Package C": {
+        heading: "Couple Massage Package C",
+        label: "1.5 Hours – Warm Candle + Ear Candle · 2 pax",
+        image: { src: "/images/treatments/cards/couplewarmcandle.webp", alt: "Couple Warm Candle Massage", width: 630, height: 580 },
+      },
+      "Package D": {
+        heading: "Couple Massage Package D",
+        label: "2.5 Hours – Warm Candle + Bali Moon Facial · 2 pax",
+        image: { src: "/images/treatments/cards/couplewarmcandle.webp", alt: "Couple Warm Candle Massage", width: 630, height: 580 },
+      },
     },
   },
   info: {

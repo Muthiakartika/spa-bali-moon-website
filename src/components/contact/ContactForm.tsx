@@ -52,7 +52,7 @@ export default function ContactForm({ fields, submitLabel, resetLabel }: { field
   ];
 
   const inputClass =
-    "mt-2 w-full rounded-control border border-stone/45 bg-linen/40 px-4 py-3 text-body text-ink placeholder:text-stone " +
+    "mt-2 w-full rounded-control border border-stone/45 bg-linen/50 px-4 py-3 text-body text-ink placeholder:text-stone " +
     "transition-colors focus:border-ink focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gold-deep";
 
   return (
@@ -61,7 +61,8 @@ export default function ContactForm({ fields, submitLabel, resetLabel }: { field
         const cfg = config[i];
         const required = field.label.includes("*");
         const id = `contact-${cfg.name}`;
-        const wide = cfg.type === "textarea" || cfg.name === "subject";
+        // Name | Email, Subject | Phone, then the message full width (as on the live form).
+        const wide = cfg.type === "textarea";
         return (
           <div key={field.label} className={wide ? "sm:col-span-2" : ""}>
             <label htmlFor={id} className="text-small font-semibold text-ink">
@@ -83,11 +84,11 @@ export default function ContactForm({ fields, submitLabel, resetLabel }: { field
           </div>
         );
       })}
-      <div className="flex flex-wrap items-center gap-3 sm:col-span-2">
-        <Button type="submit" size="lg">
+      <div className="flex flex-wrap items-center gap-x-6 gap-y-3 sm:col-span-2">
+        <Button type="submit" size="lg" className="rounded-full px-8">
           {submitLabel}
         </Button>
-        <Button type="reset" variant="secondary" size="lg">
+        <Button type="reset" variant="text">
           {resetLabel}
         </Button>
       </div>

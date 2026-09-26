@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { Fragment, useEffect, useId, useRef, useState } from "react";
 import WhatsAppIcon from "@/components/ui/WhatsAppIcon";
+import type { SiteImage as SiteImageData } from "@/data/types";
 import { formatPrice } from "@/lib/format";
 import { whatsappLink } from "@/lib/whatsapp";
 
@@ -22,12 +23,20 @@ export type BoardRow = {
   description?: string;
   /** Extra lines under the description, e.g. a facial's benefits. */
   details?: string[];
+  /** The treatment's small photo (only shown by the SpaMenuCard with `showPhotos`). */
+  image?: SiteImageData;
+  /** Name used in the WhatsApp booking message when it differs from `name` (e.g. "Couple Massage Package A"). SpaMenuCard only. */
+  bookName?: string;
+  /** Words before the price, e.g. "Start from" (→ "Start from 139K"). SpaMenuCard only. */
+  pricePrefix?: string;
 };
 
 export type BoardTab = {
   id: string;
   label: string;
   rows: BoardRow[];
+  /** SpaMenuCard only: a link to "#<anchor>" (e.g. "#menu-beauty") scrolls to the menu and opens this tab. */
+  anchor?: string;
 };
 
 type TreatmentBoardProps = {

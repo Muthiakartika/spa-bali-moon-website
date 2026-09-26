@@ -16,7 +16,8 @@ import type { PackageGroup, SpaPackage } from "./types";
  *
  * Note: small spelling differences between pages on the old site ("1,5 Hr" vs "1.5 Hr",
  * "Cream bath" vs "Cream Bath", "Medi Pedi" vs "Mani & Pedi") were stored once using the
- * majority spelling. See migration-audit.md CONTENT-11.
+ * majority spelling. See migration-audit.md CONTENT-11. Where the Pricelist page (/seminyak/) spells
+ * an item differently, `pricelistDuration` / `pricelistTreatment` keep its exact live spelling.
  */
 export const packageGroups: PackageGroup[] = [
   {
@@ -41,7 +42,7 @@ export const packageGroups: PackageGroup[] = [
         price: 549_000, // PRICE-06: live price since 2026-09-25 (was 449K)
         items: [
           { duration: "30 Mins", treatment: "Body Scrub" },
-          { duration: "1.5 Hr", treatment: "Hot Stone" },
+          { duration: "1.5 Hr", treatment: "Hot Stone", pricelistDuration: "1,5 Hr" },
           { duration: "30 Mins", treatment: "Head Massage" },
         ],
       },
@@ -214,7 +215,7 @@ export const packageGroups: PackageGroup[] = [
         name: "Package A",
         price: 549_000, // PRICE-06: live price since 2026-09-25 (was 449K)
         items: [
-          { duration: "1.5 Hr", treatment: "Hot Stone" },
+          { duration: "1.5 Hr", treatment: "Hot Stone", pricelistDuration: "1,5 Hr" },
           { duration: "30 Mins", treatment: "Body Scrub" },
           { duration: "30 Mins", treatment: "Head Massage" },
         ],
@@ -240,7 +241,7 @@ export const packageGroups: PackageGroup[] = [
         name: "Package D",
         price: 519_000, // PRICE-06: live price since 2026-09-25 (was 439K)
         items: [
-          { duration: "1.5 Hr", treatment: "Hot Stone" },
+          { duration: "1.5 Hr", treatment: "Hot Stone", pricelistDuration: "1,5 Hr" },
           { duration: "30 Mins", treatment: "Pedicure" },
         ],
       },
@@ -260,7 +261,7 @@ export const packageGroups: PackageGroup[] = [
         items: [
           { duration: "1 Hr", treatment: "Mani & Pedi" },
           { duration: "1 Hr", treatment: "Balinese Massage" },
-          { duration: "30 Mins", treatment: "Cream Bath" },
+          { duration: "30 Mins", treatment: "Cream Bath", pricelistTreatment: "Cream bath" },
         ],
       },
       {
@@ -339,6 +340,11 @@ export const packageGroups: PackageGroup[] = [
   {
     id: "balinese-massage",
     title: "Balinese Massage",
+    // PRICE-07: shown on the live /seminyak/ page (first collection) since 2026-09-26, with these texts and icon.
+    eyebrow: "Rejuvenate and Revive",
+    heading: "Balinese Massage Packages",
+    description: "Our signature Balinese massage is a traditional treatment designed to release muscle tension, ease stress, and restore balance. Available at our Seminyak spa or as a convenient home service, this therapy offers complete relaxation wherever you are. For bookings or package details, please contact us via WhatsApp.",
+    icon: { src: "/images/branding/icons/packages/balinese.png", alt: "Balinese Massage icon", width: 383, height: 394 },
     packages: [
       {
         name: "Package A",

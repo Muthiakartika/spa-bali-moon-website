@@ -17,6 +17,8 @@ export default function PackageCards({
   headingLevel = "h3",
   gridClassName = "sm:grid-cols-2 xl:grid-cols-4",
   withIcons = false,
+  dense = false,
+  pricelistWording = false,
 }: {
   group: PackageGroup;
   priceOverrides?: Record<string, number>;
@@ -29,6 +31,10 @@ export default function PackageCards({
   gridClassName?: string;
   /** Show a small icon in front of every treatment in the package (e.g. a leaf for Body Scrub). */
   withIcons?: boolean;
+  /** Slightly tighter padding on phones, for narrow cards (e.g. a row you swipe on the Pricelist page). */
+  dense?: boolean;
+  /** Use the Pricelist page's own wording: "Body Scrub Package A" titles and the item spelling where it differs (e.g. "1,5 Hr"). */
+  pricelistWording?: boolean;
 }) {
   const Heading = headingLevel;
   return (
@@ -37,29 +43,41 @@ export default function PackageCards({
         const price = priceOverrides?.[pkg.name] ?? pkg.price;
         const fullName = `${group.title} ${pkg.name}`;
         return (
-          <li key={pkg.name} data-motion="rise" className="flex flex-col rounded-card border border-line bg-paper p-6">
+          <li key={pkg.name} data-motion="rise" className={`flex flex-col rounded-card border border-line bg-paper ${dense ? "p-5 sm:p-6" : "p-6"}`}>
             <Heading className="meta-label text-gold-deep">
-              {group.title} <span aria-hidden="true">/</span> {pkg.name}
+              {/* The Pricelist page writes "Body Scrub Package A", exactly as on the live page */}
+              {pricelistWording ? (
+                fullName
+              ) : (
+                <>
+                  {group.title} <span aria-hidden="true">/</span> {pkg.name}
+                </>
+              )}
             </Heading>
             <p className="mt-4 font-display text-[2.25rem] font-semibold leading-none tracking-[-0.025em] text-gold-deep">
               <Price value={price} />
               {pkg.pax && <span className="ml-2 font-sans text-small text-stone">{pkg.pax} pax</span>}
             </p>
-            <ul className={`mt-6 flex-1 rounded-cell bg-linen p-4 ${withIcons ? "space-y-2" : "space-y-2.5"}`}>
+            <ul className={`mt-6 flex-1 rounded-cell bg-linen ${dense ? "p-3 sm:p-4" : "p-4"} ${withIcons ? "space-y-2" : "space-y-2.5"}`}>
               {pkg.items.map((item) => {
                 const Icon = treatmentIcon(item.treatment);
+                const duration = (pricelistWording && item.pricelistDuration) || item.duration;
+                const treatment = (pricelistWording && item.pricelistTreatment) || item.treatment;
                 return withIcons ? (
-                  <li key={`${item.duration}-${item.treatment}`} className="grid grid-cols-[2rem_4rem_1fr] items-center gap-3 text-small">
+                  <li
+                    key={`${item.duration}-${item.treatment}`}
+                    className={`grid items-center text-small ${dense ? "grid-cols-[2rem_3.5rem_1fr] gap-2.5 sm:grid-cols-[2rem_4rem_1fr] sm:gap-3" : "grid-cols-[2rem_4rem_1fr] gap-3"}`}
+                  >
                     <span className="inline-flex size-8 items-center justify-center rounded-full bg-paper text-gold-deep">
                       <Icon aria-hidden="true" strokeWidth={1.5} className="size-4" />
                     </span>
-                    <span className="numeric text-stone">{item.duration}</span>
-                    <span className="text-ink">{item.treatment}</span>
+                    <span className="numeric text-stone">{duration}</span>
+                    <span className="text-ink">{treatment}</span>
                   </li>
                 ) : (
                   <li key={`${item.duration}-${item.treatment}`} className="grid grid-cols-[4.5rem_1fr] gap-3 text-small">
-                    <span className="numeric text-stone">{item.duration}</span>
-                    <span className="text-ink">{item.treatment}</span>
+                    <span className="numeric text-stone">{duration}</span>
+                    <span className="text-ink">{treatment}</span>
                   </li>
                 );
               })}

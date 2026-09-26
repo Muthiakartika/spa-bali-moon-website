@@ -40,7 +40,8 @@ export default function QuoteSpotlight({ reviews, mark = "lotus" }: { reviews: T
               }`}
             >
               <blockquote className="font-display text-[clamp(1.75rem,1.2rem+2.2vw,3.25rem)] italic leading-[1.25]">
-                <p>&ldquo;{item.text}&rdquo;</p>
+                {/* the quote marks are decoration (CSS), so the review text stays exactly as written */}
+                <p className="before:content-['\201C'] after:content-['\201D']">{item.text}</p>
               </blockquote>
               <figcaption className="mt-8 flex items-center gap-3 text-left">
                 <span aria-hidden="true" className="inline-flex size-12 shrink-0 items-center justify-center rounded-full bg-cream font-display text-[1.3rem] italic text-gold-deep">

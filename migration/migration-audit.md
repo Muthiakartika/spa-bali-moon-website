@@ -14,6 +14,7 @@
 | PRICE-04 | 🔴 | Priced services missing from the pricelist (Hair Braiding, Nail Art options, Eyelash) | REQUIRES MANUAL REVIEW |
 | PRICE-05 | 🟠 | Traditional Massage 30 min option missing on its own page | REQUIRES MANUAL REVIEW |
 | PRICE-06 | 🟢 | Live prices changed after migration: Aromatherapy, Cellulite, Hot Stone Massage and six packages | RESOLVED (updated to the live values, 2026-09-25) |
+| PRICE-07 | 🟢 | Live /seminyak/ and /outcall-home-service-massage/ changed again: Waxing Brazilian price, six descriptions, Balinese Massage Packages added, Couple Packages tab | RESOLVED (updated to the live values, 2026-09-26) |
 | DUR-01 | 🔴 | Couple Warm Candle top tier: 2 Hours vs 2.5 Hours | REQUIRES MANUAL REVIEW |
 | DUR-02 | 🔴 | Couple Package total durations | REQUIRES MANUAL REVIEW |
 | DUR-03 | 🟢 | Ear Candle duration wording | REQUIRES MANUAL REVIEW |
@@ -200,6 +201,29 @@ The live site is consistent on every page, so the owner changed the prices. Upda
 
 STATUS:
 RESOLVED (2026-09-25)
+
+### PRICE-07
+
+ISSUE:
+THE LIVE PRICELIST PAGE CHANGED AGAIN AFTER PRICE-06 (checked 2026-09-26)
+
+PAGE A:
+Rebuild before 2026-09-26 (`src/data/pricelist.ts`, `src/data/packages.ts`, `src/data/pages/pricelist.ts`)
+VALUE
+Waxing Brazilian 269K · Organic Warm Candle Oil Massage description "1 Hr – warm candle wax balinese" · Biokos Facial description "Spa Facials For Dry, Normal & Oily Face" · 7 package collections (no Balinese Massage) · Four Hand Warm Candle and the four couple packages shown as separate rows
+
+PAGE B:
+https://spabalimoon.com/seminyak/ (Waxing Brazilian also on https://spabalimoon.com/, /outcall-home-service-massage/ and /seminyak/waxing-salon/), checked 2026-09-26
+VALUE
+Waxing Brazilian **350K** on all four pages · Organic Warm Candle Oil Massage: "A warming massage using natural candle oils to relax muscles and ease tension." · Biokos Facial: "A customized facial treatment for dry, normal, or oily skin, including a facial massage and mask." · a new first collection **Balinese Massage Packages** ("Rejuvenate and Revive", its own text and icon; the same four packages as the homepage) · Four Hand Warm Candle listed inside the Organic Warm Candle Oil Massage row · the couple packages listed as one row "Couple Massage Packages" (Package A–D)
+
+RECOMMENDATION:
+The owner changed the live page, so the rebuild follows it. Updated the Brazilian price (every page that shows it), the two pricelist descriptions, the Balinese Massage group texts and icon (`public/images/branding/icons/packages/balinese.png`, copied from the live `/images/icon/icon-spa/Balinese.png`) and added it first on /seminyak/; the price list now nests Four Hand Warm Candle (`pricelistParentId`). At the owner's request (2026-09-26) the couple packages are NOT inside "For Couples" as on live but in their own tab "Couple Massage Packages" next to it, one row per package, with the same labels and prices. A scripted comparison of every price-list row (33), every package collection (8 × 4 packages) and every other text on the live /seminyak/ page against the rebuild found no remaining differences, apart from the spelling items of CONTENT-11 which the pricelist now shows exactly as live (see there).
+
+The same day the Home Service page (/outcall-home-service-massage/) was compared the same way (47 price rows in 5 tabs and every other text). Its live price list now has a separate **Couple Packages** tab (Couple Massage Package A–D, each with a photo), the "For Couples" order Balinese · Deep Tissue · Traditional · Warm Candle, the Massage tab's "Couple Massage" row lists every couple option and package, Waxing shows "Back" with "Start from 139K", and four Home Service descriptions changed: Sport Massage ("Targeted to ease muscle soreness, reduce stiffness, and support physical recovery."), Biokos Facial ("Custom facial care adjusted for dry, normal, or oily skin, including facial massage and mask application."), Couple Balinese Massage ("Designed for two to relax together while easing the body and sharing a calm moment.") and Couple Massage Warm Candle ("Using gently warmed candle oils to create comfort and a deeper sense of relaxation for couples."). All updated (`homeService*` fields in `src/data/pricelist.ts`, `src/data/pages/home-service.ts`); the scripted comparison then found no differences.
+
+STATUS:
+RESOLVED (2026-09-26)
 
 ### DUR-01
 
@@ -881,7 +905,7 @@ UNCLEAR WORDING / TYPOS in existing copy (kept verbatim unless approved)
 - "1.5 Hour", "2 Hour" (singular) — `/seminyak/balinese-massage/`
 - "Home FAQ #6 'Is Spa Bali Moon a licensed spa?'": the answer says "Yes" but describes establishment and location rather than a licence
 - "Spa Bali MoonBlog" label (missing space) on the blog archive cards
-- Pricelist "Organic Warm Candle Oil Massage" description reads "1 Hr – warm candle wax balinese"; the couple packages' JS description reads "1 Hour – Balinese Massage"
+- ~~Pricelist "Organic Warm Candle Oil Massage" description reads "1 Hr – warm candle wax balinese"~~ (the live page replaced it on 2026-09-26, see PRICE-07); the couple packages' JS description reads "1 Hour – Balinese Massage"
 
 RECOMMENDATION:
 Requires manual review (low). Proposal: approve a short list of pure typo fixes (Medi→Mani, We offers→We offer, it’s→its). Nothing will be changed without approval.
@@ -990,6 +1014,8 @@ Treatment names, descriptions and price-list labels are stored exactly as each p
 
 RECOMMENDATION:
 Requires manual review (low). If the owner wants each page's exact spelling back, add a per-page override. Otherwise approve the majority spelling.
+
+UPDATE (2026-09-26): the Pricelist page (/seminyak/) must match the live page exactly, so it now has that per-page override: `pricelistDuration` / `pricelistTreatment` on the package items in `src/data/packages.ts` ("1,5 Hr" for Body Scrub B, Hot Stone A and D; "Cream bath" for Mani Pedi A). The other pages still use the stored spelling.
 
 STATUS:
 REQUIRES MANUAL REVIEW

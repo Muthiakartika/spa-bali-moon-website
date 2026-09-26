@@ -9,12 +9,13 @@ import { line, LotusIcon, noteClass, SOURCE, titleClass, type LineIcon } from ".
  * "Book via WhatsApp — How Do You Book Your Spa Experience?" ("Taman" design):
  * the title and booking button on the left, the three steps in arched cream frames,
  * each with an icon and a large gold italic number. Texts: src/data/pages/home.ts → booking.
+ * Also shown on the Pricelist page (pass that page's `source` for the WhatsApp message).
  */
 
 // One icon per step, in the same order as booking.steps.
 const icons: LineIcon[] = [line(ListChecks), WhatsAppIcon, LotusIcon];
 
-export default function HowBookingWorks() {
+export default function HowBookingWorks({ source = SOURCE }: { source?: string }) {
   const { booking } = homePage;
 
   return (
@@ -25,7 +26,7 @@ export default function HowBookingWorks() {
           <h2 id="booking-heading" data-motion="rise" className={titleClass}>
             {booking.heading}
           </h2>
-          <BookButton label={booking.eyebrow} size="lg" source={SOURCE} className="rounded-full px-7" />
+          <BookButton label={booking.eyebrow} size="lg" source={source} className="rounded-full px-7" />
         </div>
         <ol className="grid gap-6 sm:grid-cols-3 lg:col-span-8">
           {booking.steps.map((step, i) => {

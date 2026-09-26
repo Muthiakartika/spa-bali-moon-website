@@ -270,7 +270,8 @@
       },
     ],
     pricelistName: "Organic Warm Candle Oil Massage",
-    pricelistDescription: "1 Hr – warm candle wax balinese",
+    // PRICE-07: live /seminyak/ text since 2026-09-26 (was "1 Hr – warm candle wax balinese").
+    pricelistDescription: "A warming massage using natural candle oils to relax muscles and ease tension.",
     homeServiceName: "Organic Warm Candle Oil Massage",
     homeServiceDescription: "Using natural, warmed oils to help relax the body and soften muscle tension.",
     homeName: "Organic Warm Candle Oil Massage",
@@ -337,7 +338,8 @@
     pricelistName: "Sport Massage",
     pricelistDescription: "A focused massage designed to relieve muscle tightness and support mobility.",
     homeServiceName: "Sport Massage",
-    homeServiceDescription: "A focused massage designed to relieve muscle tightness and support mobility.",
+    // PRICE-07: live Home Service text since 2026-09-26 (was "A focused massage designed to relieve muscle tightness and support mobility.").
+    homeServiceDescription: "Targeted to ease muscle soreness, reduce stiffness, and support physical recovery.",
     homeName: "Sports Massage",
     homeDescription: "A targeted full-body massage to ease soreness, reduce stiffness, and support recovery.",
   },
@@ -512,9 +514,11 @@
       { label: "Viva", price: 169_000 },
     ],
     pricelistName: "Biokos Facial",
-    pricelistDescription: "Spa Facials For Dry, Normal & Oily Face",
+    // PRICE-07: live /seminyak/ text since 2026-09-26 (was "Spa Facials For Dry, Normal & Oily Face").
+    pricelistDescription: "A customized facial treatment for dry, normal, or oily skin, including a facial massage and mask.",
     homeServiceName: "Biokos Facial",
-    homeServiceDescription: "Spa Facials For Dry, Normal & Oily Face",
+    // PRICE-07: live Home Service text since 2026-09-26 (was "Spa Facials For Dry, Normal & Oily Face").
+    homeServiceDescription: "Custom facial care adjusted for dry, normal, or oily skin, including facial massage and mask application.",
     homeName: "Biokos Facial",
     homeDescription: "Spa Facials For Dry, Normal & Oily Face A custom facial treatment for dry, normal, or oily skin, including a facial massage and mask.",
   },
@@ -601,13 +605,16 @@
       {
         label: "Back · Start From",
         price: 139_000,
-        homeServiceLabel: "Back · Start from",
+        // The Home Service page writes "Back" with "Start from 139K" as the price.
+        homeServiceLabel: "Back",
+        homeServicePricePrefix: "Start from",
         homeLabel: "Back (starting from)",
       },
       { label: "Full Back", price: 299_000 },
       { label: "Half Legs", price: 149_000 },
       { label: "Full Legs", price: 299_000 },
-      { label: "Waxing Brazilian", price: 269_000 },
+      // PRICE-07: the live site changed this on 2026-09-26 (269K → 350K on /seminyak/, the homepage, Home Service and Waxing pages).
+      { label: "Waxing Brazilian", price: 350_000 },
     ],
     pricelistName: "Waxing",
     pricelistDescription: "A hair removal treatment using hot wax to leave the skin smooth and clean.",
@@ -644,7 +651,8 @@
     pricelistName: "Couple Balinese Massage",
     pricelistDescription: "1 Hour – Balinese Massage",
     homeServiceName: "Couple Balinese Massage",
-    homeServiceDescription: "Performed side by side using steady pressure and flowing techniques for shared relaxation.",
+    // PRICE-07: live Home Service text since 2026-09-26 (was "Performed side by side using steady pressure and flowing techniques for shared relaxation.").
+    homeServiceDescription: "Designed for two to relax together while easing the body and sharing a calm moment.",
     homeName: "Couple Massage Balinese",
     homeDescription: "A side-by-side massage using steady pressure and flowing movements for shared relaxation.",
   },
@@ -745,7 +753,8 @@
     pricelistName: "Couple Warm Candle Oil Massages",
     pricelistDescription: "A comforting couple’s massage using gently heated candle oils to soften muscles and create a sense of calm.",
     homeServiceName: "Couple Massage Warm Candle",
-    homeServiceDescription: "Using gently warmed candle oils to help soften muscles and create a calming shared experience.",
+    // PRICE-07: live Home Service text since 2026-09-26 (was "Using gently warmed candle oils to help soften muscles and create a calming shared experience.").
+    homeServiceDescription: "Using gently warmed candle oils to create comfort and a deeper sense of relaxation for couples.",
     homeName: "Couple Warm Candle Massage",
     homeDescription: "A comforting couple’s massage using gently heated candle oils to soften muscles and create a sense of calm.",
   },

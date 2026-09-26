@@ -3,16 +3,16 @@ import Container from "@/components/ui/Container";
 import { Ornament } from "@/components/ui/Ornament";
 import SiteImage from "@/components/ui/SiteImage";
 import { homePage } from "@/data/pages/home";
+import type { CallToAction } from "@/data/types";
 import { SOURCE, SplitTitle } from "./shared";
 
 /**
  * Closing invitation "A Better Way to Experience Wellness in Bali" ("Taman" design):
  * a warm cream band, the text on the left ("in Bali" in gold italic) and the photo fading in on the right
- * (on phones the photo sits on top). Texts and photo: src/data/pages/home.ts → cta.
+ * (on phones the photo sits on top). Texts and photo: src/data/pages/home.ts → cta
+ * (the Pricelist page passes its own `cta` and `source`).
  */
-export default function HomeCta() {
-  const { cta } = homePage;
-
+export default function HomeCta({ cta = homePage.cta, source = SOURCE }: { cta?: CallToAction; source?: string }) {
   return (
     <section aria-labelledby="cta-heading" className="py-section">
       <Container>
@@ -36,7 +36,7 @@ export default function HomeCta() {
               </p>
             ))}
             <div className="mt-9">
-              <BookButton label={cta.buttonLabel} size="lg" source={SOURCE} className="rounded-full px-8" />
+              <BookButton label={cta.buttonLabel} size="lg" source={source} className="rounded-full px-8" />
             </div>
           </div>
         </div>
